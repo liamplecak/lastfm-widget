@@ -1,1 +1,36 @@
-name: Placeholder
+name: Update Last.fm
+
+on:
+  workflow_dispatch:
+
+  schedule:
+    - cron: "*/5 * * * *"
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Run updater
+        env:
+          LASTFM_API_KEY: ${{ secrets.LASTFM_API_KEY }}
+          LASTFM_USERNAME: ${{ vars.LASTFM_USERNAME }}
+        run: |
+          python scripts/update.py
+
+      - name: Commit music.json
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add music.json
+          git diff --cached --quiet || git commit -m "Update Last.fm"
+          git push
