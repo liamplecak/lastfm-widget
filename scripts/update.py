@@ -46,7 +46,7 @@ music = {
 
     "album_url": track["album"].get("url", ""),
 
-    "loved": track.get("loved", "0") == "1"
+    "loved": track.get("loved", "0") == "1"),
 
     "generated": datetime.now(timezone.utc).isoformat(),
 }
