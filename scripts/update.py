@@ -38,7 +38,7 @@ music = {
     "playing": "@attr" in track and track["@attr"].get("nowplaying") == "true",
 
     "timestamp": track.get("date", {}).get("#text", ""),
-    "uts": track.get("date", {}).get("uts", ""),
+    "uts": track.get("date", {}).get("uts", None),
 
     "url": track["url"],
 
