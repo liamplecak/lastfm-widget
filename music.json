@@ -1,7 +1,8 @@
 {
-  "track": "loading",
-  "artist": "",
-  "album": "",
-  "cover": "",
-  "playing": false
+  "track": "Youth",
+  "artist": "Glass Animals",
+  "album": "How to Be a Human Being",
+  "cover": "https://lastfm.freetls.fastly.net/i/u/300x300/05646a91f163b15d9f08642bbe170abf.jpg",
+  "playing": true,
+  "timestamp": ""
 }
