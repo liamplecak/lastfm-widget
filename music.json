@@ -1,8 +1,20 @@
 {
-  "track": "Youth",
-  "artist": "Glass Animals",
-  "album": "How to Be a Human Being",
-  "cover": "https://lastfm.freetls.fastly.net/i/u/300x300/05646a91f163b15d9f08642bbe170abf.jpg",
+  "track": "505",
+  "artist": "Arctic Monkeys",
+  "album": "Favourite Worst Nightmare (Standard Version)",
+  "cover": "https://lastfm.freetls.fastly.net/i/u/300x300/809263677d3265378380bd3978b5c8d8.jpg",
+  "images": {
+    "small": "https://lastfm.freetls.fastly.net/i/u/34s/809263677d3265378380bd3978b5c8d8.jpg",
+    "medium": "https://lastfm.freetls.fastly.net/i/u/64s/809263677d3265378380bd3978b5c8d8.jpg",
+    "large": "https://lastfm.freetls.fastly.net/i/u/174s/809263677d3265378380bd3978b5c8d8.jpg",
+    "extralarge": "https://lastfm.freetls.fastly.net/i/u/300x300/809263677d3265378380bd3978b5c8d8.jpg"
+  },
   "playing": true,
-  "timestamp": ""
+  "timestamp": "",
+  "uts": "",
+  "url": "https://www.last.fm/music/Arctic+Monkeys/_/505",
+  "artist_url": "",
+  "album_url": "",
+  "loved": false,
+  "generated": "2026-07-27T23:02:21.842285+00:00"
 }
