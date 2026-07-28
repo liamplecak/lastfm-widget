@@ -6,8 +6,7 @@ on:
   schedule:
     - cron: "*/5 * * * *"
 
-  run-name: Last.fm update ${{ github.run_number }}
-
+run-name: Last.fm update ${{ github.run_number }}
 jobs:
   update:
     runs-on: ubuntu-latest
