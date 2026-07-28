@@ -1,20 +1,20 @@
 {
-  "track": "Breezeblocks",
-  "artist": "alt-J",
-  "album": "An Awesome Wave",
-  "cover": "https://lastfm.freetls.fastly.net/i/u/300x300/a701bd388c95415ac140405686cdd0af.png",
+  "track": "The Adults Are Talking",
+  "artist": "The Strokes",
+  "album": "The New Abnormal",
+  "cover": "https://lastfm.freetls.fastly.net/i/u/300x300/576554c542da76c08f0e80c129afcb0e.png",
   "images": {
-    "small": "https://lastfm.freetls.fastly.net/i/u/34s/a701bd388c95415ac140405686cdd0af.png",
-    "medium": "https://lastfm.freetls.fastly.net/i/u/64s/a701bd388c95415ac140405686cdd0af.png",
-    "large": "https://lastfm.freetls.fastly.net/i/u/174s/a701bd388c95415ac140405686cdd0af.png",
-    "extralarge": "https://lastfm.freetls.fastly.net/i/u/300x300/a701bd388c95415ac140405686cdd0af.png"
+    "small": "https://lastfm.freetls.fastly.net/i/u/34s/576554c542da76c08f0e80c129afcb0e.png",
+    "medium": "https://lastfm.freetls.fastly.net/i/u/64s/576554c542da76c08f0e80c129afcb0e.png",
+    "large": "https://lastfm.freetls.fastly.net/i/u/174s/576554c542da76c08f0e80c129afcb0e.png",
+    "extralarge": "https://lastfm.freetls.fastly.net/i/u/300x300/576554c542da76c08f0e80c129afcb0e.png"
   },
   "playing": true,
   "timestamp": "",
   "uts": null,
-  "url": "https://www.last.fm/music/alt-J/_/Breezeblocks",
+  "url": "https://www.last.fm/music/The+Strokes/_/The+Adults+Are+Talking",
   "artist_url": "",
   "album_url": "",
   "loved": false,
-  "generated": "2026-07-28T01:59:34.538983+00:00"
+  "generated": "2026-07-28T02:09:38.987680+00:00"
 }
