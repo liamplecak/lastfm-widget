@@ -1,20 +1,22 @@
 {
-  "track": "IM A FREAK CUZ IM ALWAYS FREAKED OUT",
-  "artist": "Black Dresses",
-  "album": "Peaceful as Hell",
-  "cover": "https://lastfm.freetls.fastly.net/i/u/300x300/e51a248f04fbde9beab889a755a69d8d.png",
+  "track": "Not Allowed",
+  "artist": "TV Girl",
+  "album": "Who Really Cares",
+  "cover": "https://lastfm.freetls.fastly.net/i/u/300x300/7f606674cfa1fdc4603695021d3fbc95.jpg",
   "images": {
-    "small": "https://lastfm.freetls.fastly.net/i/u/34s/e51a248f04fbde9beab889a755a69d8d.png",
-    "medium": "https://lastfm.freetls.fastly.net/i/u/64s/e51a248f04fbde9beab889a755a69d8d.png",
-    "large": "https://lastfm.freetls.fastly.net/i/u/174s/e51a248f04fbde9beab889a755a69d8d.png",
-    "extralarge": "https://lastfm.freetls.fastly.net/i/u/300x300/e51a248f04fbde9beab889a755a69d8d.png"
+    "small": "https://lastfm.freetls.fastly.net/i/u/34s/7f606674cfa1fdc4603695021d3fbc95.jpg",
+    "medium": "https://lastfm.freetls.fastly.net/i/u/64s/7f606674cfa1fdc4603695021d3fbc95.jpg",
+    "large": "https://lastfm.freetls.fastly.net/i/u/174s/7f606674cfa1fdc4603695021d3fbc95.jpg",
+    "extralarge": "https://lastfm.freetls.fastly.net/i/u/300x300/7f606674cfa1fdc4603695021d3fbc95.jpg"
   },
   "playing": true,
   "timestamp": "",
   "uts": null,
-  "url": "https://www.last.fm/music/Black+Dresses/_/IM+A+FREAK+CUZ+IM+ALWAYS+FREAKED+OUT",
+  "url": "https://www.last.fm/music/TV+Girl/_/Not+Allowed",
   "artist_url": "",
   "album_url": "",
   "loved": false,
-  "generated": "2026-07-28T02:10:50.343466+00:00"
+  "playcount": 17,
+  "duration": 167000,
+  "generated": "2026-07-28T02:18:55.272269+00:00"
 }
