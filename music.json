@@ -1,22 +1,22 @@
 {
-  "track": "What Deaner Was Talkin' About",
-  "artist": "Ween",
-  "album": "Chocolate and Cheese",
-  "cover": "https://lastfm.freetls.fastly.net/i/u/300x300/fb1d81ad81ceea117e27e97b463a9f42.png",
+  "track": "Black People White People",
+  "artist": "Joe Hawley",
+  "album": "Joe Hawley Joe Hawley",
+  "cover": "https://lastfm.freetls.fastly.net/i/u/300x300/78200ef4acd46c1ac8e5be3f7a6b9e41.png",
   "images": {
-    "small": "https://lastfm.freetls.fastly.net/i/u/34s/fb1d81ad81ceea117e27e97b463a9f42.png",
-    "medium": "https://lastfm.freetls.fastly.net/i/u/64s/fb1d81ad81ceea117e27e97b463a9f42.png",
-    "large": "https://lastfm.freetls.fastly.net/i/u/174s/fb1d81ad81ceea117e27e97b463a9f42.png",
-    "extralarge": "https://lastfm.freetls.fastly.net/i/u/300x300/fb1d81ad81ceea117e27e97b463a9f42.png"
+    "small": "https://lastfm.freetls.fastly.net/i/u/34s/78200ef4acd46c1ac8e5be3f7a6b9e41.png",
+    "medium": "https://lastfm.freetls.fastly.net/i/u/64s/78200ef4acd46c1ac8e5be3f7a6b9e41.png",
+    "large": "https://lastfm.freetls.fastly.net/i/u/174s/78200ef4acd46c1ac8e5be3f7a6b9e41.png",
+    "extralarge": "https://lastfm.freetls.fastly.net/i/u/300x300/78200ef4acd46c1ac8e5be3f7a6b9e41.png"
   },
-  "playing": false,
-  "timestamp": "28 Jul 2026, 08:03",
-  "uts": "1785225817",
-  "url": "https://www.last.fm/music/Ween/_/What+Deaner+Was+Talkin%27+About",
+  "playing": true,
+  "timestamp": "",
+  "uts": null,
+  "url": "https://www.last.fm/music/Joe+Hawley/_/Black+People+White+People",
   "artist_url": "",
   "album_url": "",
   "loved": false,
-  "playcount": 59,
-  "duration": 207000,
-  "generated": "2026-07-28T16:40:16.719741+00:00"
+  "playcount": 3,
+  "duration": 219000,
+  "generated": "2026-07-28T18:04:00.503311+00:00"
 }
