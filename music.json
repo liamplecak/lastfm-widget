@@ -1,22 +1,22 @@
 {
-  "track": "Prescription",
-  "artist": "Mindless Self Indulgence",
-  "album": "If",
-  "cover": "https://lastfm.freetls.fastly.net/i/u/300x300/27555869faa44416a9a42c8a0105f053.png",
+  "track": "The U & I In Suicide",
+  "artist": "That Handsome Devil",
+  "album": "The heart goes to heaven, The head goes to hell",
+  "cover": "https://lastfm.freetls.fastly.net/i/u/300x300/bf63bdf6b25526d680147dec5690f35d.jpg",
   "images": {
-    "small": "https://lastfm.freetls.fastly.net/i/u/34s/27555869faa44416a9a42c8a0105f053.png",
-    "medium": "https://lastfm.freetls.fastly.net/i/u/64s/27555869faa44416a9a42c8a0105f053.png",
-    "large": "https://lastfm.freetls.fastly.net/i/u/174s/27555869faa44416a9a42c8a0105f053.png",
-    "extralarge": "https://lastfm.freetls.fastly.net/i/u/300x300/27555869faa44416a9a42c8a0105f053.png"
+    "small": "https://lastfm.freetls.fastly.net/i/u/34s/bf63bdf6b25526d680147dec5690f35d.jpg",
+    "medium": "https://lastfm.freetls.fastly.net/i/u/64s/bf63bdf6b25526d680147dec5690f35d.jpg",
+    "large": "https://lastfm.freetls.fastly.net/i/u/174s/bf63bdf6b25526d680147dec5690f35d.jpg",
+    "extralarge": "https://lastfm.freetls.fastly.net/i/u/300x300/bf63bdf6b25526d680147dec5690f35d.jpg"
   },
-  "playing": false,
-  "timestamp": "28 Jul 2026, 20:02",
-  "uts": "1785268966",
-  "url": "https://www.last.fm/music/Mindless+Self+Indulgence/_/Prescription",
+  "playing": true,
+  "timestamp": "",
+  "uts": null,
+  "url": "https://www.last.fm/music/That+Handsome+Devil/_/The+U+&+I+In+Suicide",
   "artist_url": "",
   "album_url": "",
   "loved": false,
-  "playcount": 18,
-  "duration": 185000,
-  "generated": "2026-07-28T22:58:36.929580+00:00"
+  "playcount": 2,
+  "duration": 244000,
+  "generated": "2026-07-28T23:59:28.653970+00:00"
 }
