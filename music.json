@@ -9,14 +9,14 @@
     "large": "https://lastfm.freetls.fastly.net/i/u/174s/fb1d81ad81ceea117e27e97b463a9f42.png",
     "extralarge": "https://lastfm.freetls.fastly.net/i/u/300x300/fb1d81ad81ceea117e27e97b463a9f42.png"
   },
-  "playing": true,
-  "timestamp": "",
-  "uts": null,
+  "playing": false,
+  "timestamp": "28 Jul 2026, 08:03",
+  "uts": "1785225817",
   "url": "https://www.last.fm/music/Ween/_/What+Deaner+Was+Talkin%27+About",
   "artist_url": "",
   "album_url": "",
   "loved": false,
-  "playcount": 55,
+  "playcount": 59,
   "duration": 207000,
-  "generated": "2026-07-28T07:58:35.352823+00:00"
+  "generated": "2026-07-28T10:37:54.144931+00:00"
 }
