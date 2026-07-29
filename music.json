@@ -1,22 +1,22 @@
 {
-  "track": "Gnaw",
-  "artist": "Alex G",
-  "album": "RACE",
-  "cover": "https://lastfm.freetls.fastly.net/i/u/300x300/03337c9410154aa74af1e6b23bafa085.jpg",
+  "track": "It's Not Living (If It's Not With You)",
+  "artist": "The 1975",
+  "album": "A Brief Inquiry Into Online Relationships",
+  "cover": "https://lastfm.freetls.fastly.net/i/u/300x300/7bf3a1eac0326073f56978b7f39021e1.jpg",
   "images": {
-    "small": "https://lastfm.freetls.fastly.net/i/u/34s/03337c9410154aa74af1e6b23bafa085.jpg",
-    "medium": "https://lastfm.freetls.fastly.net/i/u/64s/03337c9410154aa74af1e6b23bafa085.jpg",
-    "large": "https://lastfm.freetls.fastly.net/i/u/174s/03337c9410154aa74af1e6b23bafa085.jpg",
-    "extralarge": "https://lastfm.freetls.fastly.net/i/u/300x300/03337c9410154aa74af1e6b23bafa085.jpg"
+    "small": "https://lastfm.freetls.fastly.net/i/u/34s/7bf3a1eac0326073f56978b7f39021e1.jpg",
+    "medium": "https://lastfm.freetls.fastly.net/i/u/64s/7bf3a1eac0326073f56978b7f39021e1.jpg",
+    "large": "https://lastfm.freetls.fastly.net/i/u/174s/7bf3a1eac0326073f56978b7f39021e1.jpg",
+    "extralarge": "https://lastfm.freetls.fastly.net/i/u/300x300/7bf3a1eac0326073f56978b7f39021e1.jpg"
   },
   "playing": false,
-  "timestamp": "29 Jul 2026, 08:59",
-  "uts": "1785315589",
-  "url": "https://www.last.fm/music/Alex+G/_/Gnaw",
+  "timestamp": "29 Jul 2026, 11:25",
+  "uts": "1785324354",
+  "url": "https://www.last.fm/music/The+1975/_/It%27s+Not+Living+(If+It%27s+Not+With+You)",
   "artist_url": "",
   "album_url": "",
   "loved": false,
-  "playcount": 44,
-  "duration": 271000,
-  "generated": "2026-07-29T09:06:34.069717+00:00"
+  "playcount": 16,
+  "duration": 373000,
+  "generated": "2026-07-29T11:31:45.725132+00:00"
 }
