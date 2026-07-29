@@ -2,12 +2,12 @@
   "track": "It's Not Living (If It's Not With You)",
   "artist": "The 1975",
   "album": "A Brief Inquiry Into Online Relationships",
-  "cover": "https://lastfm.freetls.fastly.net/i/u/300x300/7bf3a1eac0326073f56978b7f39021e1.jpg",
+  "cover": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
   "images": {
-    "small": "https://lastfm.freetls.fastly.net/i/u/34s/7bf3a1eac0326073f56978b7f39021e1.jpg",
-    "medium": "https://lastfm.freetls.fastly.net/i/u/64s/7bf3a1eac0326073f56978b7f39021e1.jpg",
-    "large": "https://lastfm.freetls.fastly.net/i/u/174s/7bf3a1eac0326073f56978b7f39021e1.jpg",
-    "extralarge": "https://lastfm.freetls.fastly.net/i/u/300x300/7bf3a1eac0326073f56978b7f39021e1.jpg"
+    "small": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+    "medium": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+    "large": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+    "extralarge": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
   },
   "playing": false,
   "timestamp": "29 Jul 2026, 11:25",
@@ -18,5 +18,5 @@
   "loved": false,
   "playcount": 16,
   "duration": 373000,
-  "generated": "2026-07-29T17:58:56.702651+00:00"
+  "generated": "2026-07-29T19:21:47.169542+00:00"
 }
