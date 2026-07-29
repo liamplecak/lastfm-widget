@@ -1,22 +1,22 @@
 {
-  "track": "It's Not Living (If It's Not With You)",
-  "artist": "The 1975",
-  "album": "A Brief Inquiry Into Online Relationships",
-  "cover": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+  "track": "Stuffed Animals",
+  "artist": "GEZEBELLE GABURGABLY",
+  "album": "Snailcore Del\u00fccks",
+  "cover": "https://lastfm.freetls.fastly.net/i/u/300x300/239295e743b7338cb7c63f14bc79a60f.jpg",
   "images": {
-    "small": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
-    "medium": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
-    "large": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
-    "extralarge": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+    "small": "https://lastfm.freetls.fastly.net/i/u/34s/239295e743b7338cb7c63f14bc79a60f.jpg",
+    "medium": "https://lastfm.freetls.fastly.net/i/u/64s/239295e743b7338cb7c63f14bc79a60f.jpg",
+    "large": "https://lastfm.freetls.fastly.net/i/u/174s/239295e743b7338cb7c63f14bc79a60f.jpg",
+    "extralarge": "https://lastfm.freetls.fastly.net/i/u/300x300/239295e743b7338cb7c63f14bc79a60f.jpg"
   },
-  "playing": false,
-  "timestamp": "29 Jul 2026, 11:25",
-  "uts": "1785324354",
-  "url": "https://www.last.fm/music/The+1975/_/It%27s+Not+Living+(If+It%27s+Not+With+You)",
+  "playing": true,
+  "timestamp": "",
+  "uts": null,
+  "url": "https://www.last.fm/music/GEZEBELLE+GABURGABLY/_/Stuffed+Animals",
   "artist_url": "",
   "album_url": "",
   "loved": false,
-  "playcount": 16,
-  "duration": 373000,
-  "generated": "2026-07-29T19:21:47.169542+00:00"
+  "playcount": 6,
+  "duration": 191000,
+  "generated": "2026-07-29T20:28:31.631701+00:00"
 }
