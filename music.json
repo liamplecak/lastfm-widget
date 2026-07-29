@@ -9,14 +9,14 @@
     "large": "https://lastfm.freetls.fastly.net/i/u/174s/03337c9410154aa74af1e6b23bafa085.jpg",
     "extralarge": "https://lastfm.freetls.fastly.net/i/u/300x300/03337c9410154aa74af1e6b23bafa085.jpg"
   },
-  "playing": true,
-  "timestamp": "",
-  "uts": null,
+  "playing": false,
+  "timestamp": "29 Jul 2026, 08:59",
+  "uts": "1785315589",
   "url": "https://www.last.fm/music/Alex+G/_/Gnaw",
   "artist_url": "",
   "album_url": "",
   "loved": false,
-  "playcount": 19,
+  "playcount": 44,
   "duration": 271000,
-  "generated": "2026-07-29T06:08:51.936388+00:00"
+  "generated": "2026-07-29T09:06:34.069717+00:00"
 }
