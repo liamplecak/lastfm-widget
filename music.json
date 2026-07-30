@@ -1,22 +1,22 @@
 {
-  "track": "Duvet",
-  "artist": "b\u00f4a",
-  "album": "Twilight",
-  "cover": "https://lastfm.freetls.fastly.net/i/u/300x300/40564dd1a58f969fc3ee3c49bddffd23.png",
+  "track": "IM A FREAK CUZ IM ALWAYS FREAKED OUT",
+  "artist": "Black Dresses",
+  "album": "Peaceful as Hell",
+  "cover": "https://lastfm.freetls.fastly.net/i/u/300x300/e51a248f04fbde9beab889a755a69d8d.png",
   "images": {
-    "small": "https://lastfm.freetls.fastly.net/i/u/34s/40564dd1a58f969fc3ee3c49bddffd23.png",
-    "medium": "https://lastfm.freetls.fastly.net/i/u/64s/40564dd1a58f969fc3ee3c49bddffd23.png",
-    "large": "https://lastfm.freetls.fastly.net/i/u/174s/40564dd1a58f969fc3ee3c49bddffd23.png",
-    "extralarge": "https://lastfm.freetls.fastly.net/i/u/300x300/40564dd1a58f969fc3ee3c49bddffd23.png"
+    "small": "https://lastfm.freetls.fastly.net/i/u/34s/e51a248f04fbde9beab889a755a69d8d.png",
+    "medium": "https://lastfm.freetls.fastly.net/i/u/64s/e51a248f04fbde9beab889a755a69d8d.png",
+    "large": "https://lastfm.freetls.fastly.net/i/u/174s/e51a248f04fbde9beab889a755a69d8d.png",
+    "extralarge": "https://lastfm.freetls.fastly.net/i/u/300x300/e51a248f04fbde9beab889a755a69d8d.png"
   },
   "playing": true,
   "timestamp": "",
   "uts": null,
-  "url": "https://www.last.fm/music/b%C3%B4a/_/Duvet",
+  "url": "https://www.last.fm/music/Black+Dresses/_/IM+A+FREAK+CUZ+IM+ALWAYS+FREAKED+OUT",
   "artist_url": "",
   "album_url": "",
-  "loved": false,
-  "playcount": 93,
-  "duration": 203000,
-  "generated": "2026-07-30T13:02:28.456841+00:00"
+  "loved": true,
+  "playcount": 111,
+  "duration": 191000,
+  "generated": "2026-07-30T15:20:32.040064+00:00"
 }
