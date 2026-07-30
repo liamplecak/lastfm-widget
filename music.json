@@ -9,14 +9,14 @@
     "large": "https://lastfm.freetls.fastly.net/i/u/174s/bf63bdf6b25526d680147dec5690f35d.jpg",
     "extralarge": "https://lastfm.freetls.fastly.net/i/u/300x300/bf63bdf6b25526d680147dec5690f35d.jpg"
   },
-  "playing": true,
-  "timestamp": "",
-  "uts": null,
+  "playing": false,
+  "timestamp": "30 Jul 2026, 04:04",
+  "uts": "1785384296",
   "url": "https://www.last.fm/music/That+Handsome+Devil/_/The+U+&+I+In+Suicide",
   "artist_url": "",
   "album_url": "",
   "loved": true,
-  "playcount": 91,
+  "playcount": 92,
   "duration": 244000,
-  "generated": "2026-07-30T04:07:30.068447+00:00"
+  "generated": "2026-07-30T06:38:20.879460+00:00"
 }
