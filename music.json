@@ -1,5 +1,5 @@
 {
-  "track": "Twilight",
+  "track": "Duvet",
   "artist": "b\u00f4a",
   "album": "Twilight",
   "cover": "https://lastfm.freetls.fastly.net/i/u/300x300/40564dd1a58f969fc3ee3c49bddffd23.png",
@@ -12,11 +12,11 @@
   "playing": true,
   "timestamp": "",
   "uts": null,
-  "url": "https://www.last.fm/music/b%C3%B4a/_/Twilight",
+  "url": "https://www.last.fm/music/b%C3%B4a/_/Duvet",
   "artist_url": "",
   "album_url": "",
-  "loved": true,
-  "playcount": 18,
-  "duration": 228000,
-  "generated": "2026-07-30T11:23:15.528144+00:00"
+  "loved": false,
+  "playcount": 93,
+  "duration": 203000,
+  "generated": "2026-07-30T13:02:28.456841+00:00"
 }
