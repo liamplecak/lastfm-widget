@@ -1,22 +1,22 @@
 {
-  "track": "My Boy - Twin Fantasy",
-  "artist": "Car Seat Headrest",
-  "album": "Twin Fantasy",
-  "cover": "https://lastfm.freetls.fastly.net/i/u/300x300/4a18569943f34ae2a025c6ceabe3ed6c.png",
+  "track": "A Beginner's Guide to Destroying the Moon",
+  "artist": "Foster the People",
+  "album": "Supermodel",
+  "cover": "https://lastfm.freetls.fastly.net/i/u/300x300/414255e9c179d285213a453ada386e10.png",
   "images": {
-    "small": "https://lastfm.freetls.fastly.net/i/u/34s/4a18569943f34ae2a025c6ceabe3ed6c.png",
-    "medium": "https://lastfm.freetls.fastly.net/i/u/64s/4a18569943f34ae2a025c6ceabe3ed6c.png",
-    "large": "https://lastfm.freetls.fastly.net/i/u/174s/4a18569943f34ae2a025c6ceabe3ed6c.png",
-    "extralarge": "https://lastfm.freetls.fastly.net/i/u/300x300/4a18569943f34ae2a025c6ceabe3ed6c.png"
+    "small": "https://lastfm.freetls.fastly.net/i/u/34s/414255e9c179d285213a453ada386e10.png",
+    "medium": "https://lastfm.freetls.fastly.net/i/u/64s/414255e9c179d285213a453ada386e10.png",
+    "large": "https://lastfm.freetls.fastly.net/i/u/174s/414255e9c179d285213a453ada386e10.png",
+    "extralarge": "https://lastfm.freetls.fastly.net/i/u/300x300/414255e9c179d285213a453ada386e10.png"
   },
   "playing": false,
-  "timestamp": "31 Jul 2026, 22:18",
-  "uts": "1785536287",
-  "url": "https://www.last.fm/music/Car+Seat+Headrest/_/My+Boy+-+Twin+Fantasy",
+  "timestamp": "31 Jul 2026, 23:18",
+  "uts": "1785539926",
+  "url": "https://www.last.fm/music/Foster+the+People/_/A+Beginner%27s+Guide+to+Destroying+the+Moon",
   "artist_url": "",
   "album_url": "",
-  "loved": false,
-  "playcount": 10,
-  "duration": 169000,
-  "generated": "2026-07-31T22:43:44.975776+00:00"
+  "loved": true,
+  "playcount": 59,
+  "duration": 268000,
+  "generated": "2026-07-31T23:44:56.583987+00:00"
 }
