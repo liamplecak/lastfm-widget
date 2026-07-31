@@ -1,22 +1,22 @@
 {
-  "track": "NYC",
-  "artist": "Interpol",
-  "album": "Turn on the Bright Lights",
-  "cover": "https://lastfm.freetls.fastly.net/i/u/300x300/55292eb15e7e442a9f40f09625d6e111.png",
+  "track": "Black Star",
+  "artist": "Radiohead",
+  "album": "The Bends",
+  "cover": "https://lastfm.freetls.fastly.net/i/u/300x300/9ea9931e129bb5efd3606866901855b5.jpg",
   "images": {
-    "small": "https://lastfm.freetls.fastly.net/i/u/34s/55292eb15e7e442a9f40f09625d6e111.png",
-    "medium": "https://lastfm.freetls.fastly.net/i/u/64s/55292eb15e7e442a9f40f09625d6e111.png",
-    "large": "https://lastfm.freetls.fastly.net/i/u/174s/55292eb15e7e442a9f40f09625d6e111.png",
-    "extralarge": "https://lastfm.freetls.fastly.net/i/u/300x300/55292eb15e7e442a9f40f09625d6e111.png"
+    "small": "https://lastfm.freetls.fastly.net/i/u/34s/9ea9931e129bb5efd3606866901855b5.jpg",
+    "medium": "https://lastfm.freetls.fastly.net/i/u/64s/9ea9931e129bb5efd3606866901855b5.jpg",
+    "large": "https://lastfm.freetls.fastly.net/i/u/174s/9ea9931e129bb5efd3606866901855b5.jpg",
+    "extralarge": "https://lastfm.freetls.fastly.net/i/u/300x300/9ea9931e129bb5efd3606866901855b5.jpg"
   },
   "playing": true,
   "timestamp": "",
   "uts": null,
-  "url": "https://www.last.fm/music/Interpol/_/NYC",
+  "url": "https://www.last.fm/music/Radiohead/_/Black+Star",
   "artist_url": "",
   "album_url": "",
   "loved": false,
-  "playcount": 0,
-  "duration": 259000,
-  "generated": "2026-07-31T10:05:27.382671+00:00"
+  "playcount": 22,
+  "duration": 247000,
+  "generated": "2026-07-31T12:09:20.205553+00:00"
 }
