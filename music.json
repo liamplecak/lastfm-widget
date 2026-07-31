@@ -1,22 +1,22 @@
 {
-  "track": "Hate Yourself",
-  "artist": "TV Girl",
-  "album": "French Exit",
-  "cover": "https://lastfm.freetls.fastly.net/i/u/300x300/4f091d5082e04691c6d7f4b2e2efbdc0.jpg",
+  "track": "My Boy - Twin Fantasy",
+  "artist": "Car Seat Headrest",
+  "album": "Twin Fantasy",
+  "cover": "https://lastfm.freetls.fastly.net/i/u/300x300/4a18569943f34ae2a025c6ceabe3ed6c.png",
   "images": {
-    "small": "https://lastfm.freetls.fastly.net/i/u/34s/4f091d5082e04691c6d7f4b2e2efbdc0.jpg",
-    "medium": "https://lastfm.freetls.fastly.net/i/u/64s/4f091d5082e04691c6d7f4b2e2efbdc0.jpg",
-    "large": "https://lastfm.freetls.fastly.net/i/u/174s/4f091d5082e04691c6d7f4b2e2efbdc0.jpg",
-    "extralarge": "https://lastfm.freetls.fastly.net/i/u/300x300/4f091d5082e04691c6d7f4b2e2efbdc0.jpg"
+    "small": "https://lastfm.freetls.fastly.net/i/u/34s/4a18569943f34ae2a025c6ceabe3ed6c.png",
+    "medium": "https://lastfm.freetls.fastly.net/i/u/64s/4a18569943f34ae2a025c6ceabe3ed6c.png",
+    "large": "https://lastfm.freetls.fastly.net/i/u/174s/4a18569943f34ae2a025c6ceabe3ed6c.png",
+    "extralarge": "https://lastfm.freetls.fastly.net/i/u/300x300/4a18569943f34ae2a025c6ceabe3ed6c.png"
   },
-  "playing": true,
-  "timestamp": "",
-  "uts": null,
-  "url": "https://www.last.fm/music/TV+Girl/_/Hate+Yourself",
+  "playing": false,
+  "timestamp": "31 Jul 2026, 22:18",
+  "uts": "1785536287",
+  "url": "https://www.last.fm/music/Car+Seat+Headrest/_/My+Boy+-+Twin+Fantasy",
   "artist_url": "",
   "album_url": "",
-  "loved": true,
-  "playcount": 65,
-  "duration": 214000,
-  "generated": "2026-07-31T21:45:21.301367+00:00"
+  "loved": false,
+  "playcount": 10,
+  "duration": 169000,
+  "generated": "2026-07-31T22:43:44.975776+00:00"
 }
