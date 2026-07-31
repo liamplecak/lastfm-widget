@@ -9,14 +9,14 @@
     "large": "https://lastfm.freetls.fastly.net/i/u/174s/239295e743b7338cb7c63f14bc79a60f.jpg",
     "extralarge": "https://lastfm.freetls.fastly.net/i/u/300x300/239295e743b7338cb7c63f14bc79a60f.jpg"
   },
-  "playing": true,
-  "timestamp": "",
-  "uts": null,
+  "playing": false,
+  "timestamp": "31 Jul 2026, 01:01",
+  "uts": "1785459689",
   "url": "https://www.last.fm/music/GEZEBELLE+GABURGABLY/_/Stuffed+Animals",
   "artist_url": "",
   "album_url": "",
   "loved": true,
-  "playcount": 147,
+  "playcount": 177,
   "duration": 191000,
-  "generated": "2026-07-30T23:27:56.685399+00:00"
+  "generated": "2026-07-31T01:05:13.264033+00:00"
 }
