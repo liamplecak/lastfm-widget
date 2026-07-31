@@ -1,22 +1,22 @@
 {
-  "track": "Hey",
-  "artist": "Pixies",
-  "album": "Doolittle",
-  "cover": "https://lastfm.freetls.fastly.net/i/u/300x300/995f97abbadd1a5e69a2967c72074867.jpg",
+  "track": "Life Itself",
+  "artist": "Glass Animals",
+  "album": "How to Be a Human Being",
+  "cover": "https://lastfm.freetls.fastly.net/i/u/300x300/05646a91f163b15d9f08642bbe170abf.jpg",
   "images": {
-    "small": "https://lastfm.freetls.fastly.net/i/u/34s/995f97abbadd1a5e69a2967c72074867.jpg",
-    "medium": "https://lastfm.freetls.fastly.net/i/u/64s/995f97abbadd1a5e69a2967c72074867.jpg",
-    "large": "https://lastfm.freetls.fastly.net/i/u/174s/995f97abbadd1a5e69a2967c72074867.jpg",
-    "extralarge": "https://lastfm.freetls.fastly.net/i/u/300x300/995f97abbadd1a5e69a2967c72074867.jpg"
+    "small": "https://lastfm.freetls.fastly.net/i/u/34s/05646a91f163b15d9f08642bbe170abf.jpg",
+    "medium": "https://lastfm.freetls.fastly.net/i/u/64s/05646a91f163b15d9f08642bbe170abf.jpg",
+    "large": "https://lastfm.freetls.fastly.net/i/u/174s/05646a91f163b15d9f08642bbe170abf.jpg",
+    "extralarge": "https://lastfm.freetls.fastly.net/i/u/300x300/05646a91f163b15d9f08642bbe170abf.jpg"
   },
   "playing": true,
   "timestamp": "",
   "uts": null,
-  "url": "https://www.last.fm/music/Pixies/_/Hey",
+  "url": "https://www.last.fm/music/Glass+Animals/_/Life+Itself",
   "artist_url": "",
   "album_url": "",
-  "loved": false,
-  "playcount": 25,
-  "duration": 217000,
-  "generated": "2026-07-31T16:19:42.304758+00:00"
+  "loved": true,
+  "playcount": 111,
+  "duration": 281000,
+  "generated": "2026-07-31T17:57:45.584625+00:00"
 }
