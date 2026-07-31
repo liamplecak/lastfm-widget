@@ -1,22 +1,22 @@
 {
-  "track": "Life Itself",
-  "artist": "Glass Animals",
-  "album": "How to Be a Human Being",
-  "cover": "https://lastfm.freetls.fastly.net/i/u/300x300/05646a91f163b15d9f08642bbe170abf.jpg",
+  "track": "It's Only Sex",
+  "artist": "Car Seat Headrest",
+  "album": "Living While Starving",
+  "cover": "https://lastfm.freetls.fastly.net/i/u/300x300/537a68a2dc6a418fc1acf47f894f8146.jpg",
   "images": {
-    "small": "https://lastfm.freetls.fastly.net/i/u/34s/05646a91f163b15d9f08642bbe170abf.jpg",
-    "medium": "https://lastfm.freetls.fastly.net/i/u/64s/05646a91f163b15d9f08642bbe170abf.jpg",
-    "large": "https://lastfm.freetls.fastly.net/i/u/174s/05646a91f163b15d9f08642bbe170abf.jpg",
-    "extralarge": "https://lastfm.freetls.fastly.net/i/u/300x300/05646a91f163b15d9f08642bbe170abf.jpg"
+    "small": "https://lastfm.freetls.fastly.net/i/u/34s/537a68a2dc6a418fc1acf47f894f8146.jpg",
+    "medium": "https://lastfm.freetls.fastly.net/i/u/64s/537a68a2dc6a418fc1acf47f894f8146.jpg",
+    "large": "https://lastfm.freetls.fastly.net/i/u/174s/537a68a2dc6a418fc1acf47f894f8146.jpg",
+    "extralarge": "https://lastfm.freetls.fastly.net/i/u/300x300/537a68a2dc6a418fc1acf47f894f8146.jpg"
   },
   "playing": true,
   "timestamp": "",
   "uts": null,
-  "url": "https://www.last.fm/music/Glass+Animals/_/Life+Itself",
+  "url": "https://www.last.fm/music/Car+Seat+Headrest/_/It%27s+Only+Sex",
   "artist_url": "",
   "album_url": "",
-  "loved": true,
-  "playcount": 111,
-  "duration": 281000,
-  "generated": "2026-07-31T17:57:45.584625+00:00"
+  "loved": false,
+  "playcount": 55,
+  "duration": 283000,
+  "generated": "2026-07-31T19:24:03.128038+00:00"
 }
