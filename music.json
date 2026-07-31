@@ -1,22 +1,22 @@
 {
-  "track": "Something in the Way",
-  "artist": "Nirvana",
-  "album": "Nevermind (Remastered)",
-  "cover": "https://lastfm.freetls.fastly.net/i/u/300x300/d97d21d3884088e85785eb471f3c431b.png",
+  "track": "Hate Yourself",
+  "artist": "TV Girl",
+  "album": "French Exit",
+  "cover": "https://lastfm.freetls.fastly.net/i/u/300x300/4f091d5082e04691c6d7f4b2e2efbdc0.jpg",
   "images": {
-    "small": "https://lastfm.freetls.fastly.net/i/u/34s/d97d21d3884088e85785eb471f3c431b.png",
-    "medium": "https://lastfm.freetls.fastly.net/i/u/64s/d97d21d3884088e85785eb471f3c431b.png",
-    "large": "https://lastfm.freetls.fastly.net/i/u/174s/d97d21d3884088e85785eb471f3c431b.png",
-    "extralarge": "https://lastfm.freetls.fastly.net/i/u/300x300/d97d21d3884088e85785eb471f3c431b.png"
+    "small": "https://lastfm.freetls.fastly.net/i/u/34s/4f091d5082e04691c6d7f4b2e2efbdc0.jpg",
+    "medium": "https://lastfm.freetls.fastly.net/i/u/64s/4f091d5082e04691c6d7f4b2e2efbdc0.jpg",
+    "large": "https://lastfm.freetls.fastly.net/i/u/174s/4f091d5082e04691c6d7f4b2e2efbdc0.jpg",
+    "extralarge": "https://lastfm.freetls.fastly.net/i/u/300x300/4f091d5082e04691c6d7f4b2e2efbdc0.jpg"
   },
   "playing": true,
   "timestamp": "",
   "uts": null,
-  "url": "https://www.last.fm/music/Nirvana/_/Something+in+the+Way",
+  "url": "https://www.last.fm/music/TV+Girl/_/Hate+Yourself",
   "artist_url": "",
   "album_url": "",
   "loved": true,
-  "playcount": 156,
-  "duration": 204000,
-  "generated": "2026-07-31T20:39:31.439027+00:00"
+  "playcount": 65,
+  "duration": 214000,
+  "generated": "2026-07-31T21:45:21.301367+00:00"
 }
