@@ -1,22 +1,22 @@
 {
-  "track": "Stuffed Animals",
-  "artist": "GEZEBELLE GABURGABLY",
-  "album": "Snailcore Del\u00fccks",
-  "cover": "https://lastfm.freetls.fastly.net/i/u/300x300/239295e743b7338cb7c63f14bc79a60f.jpg",
+  "track": "NYC",
+  "artist": "Interpol",
+  "album": "Turn on the Bright Lights",
+  "cover": "https://lastfm.freetls.fastly.net/i/u/300x300/55292eb15e7e442a9f40f09625d6e111.png",
   "images": {
-    "small": "https://lastfm.freetls.fastly.net/i/u/34s/239295e743b7338cb7c63f14bc79a60f.jpg",
-    "medium": "https://lastfm.freetls.fastly.net/i/u/64s/239295e743b7338cb7c63f14bc79a60f.jpg",
-    "large": "https://lastfm.freetls.fastly.net/i/u/174s/239295e743b7338cb7c63f14bc79a60f.jpg",
-    "extralarge": "https://lastfm.freetls.fastly.net/i/u/300x300/239295e743b7338cb7c63f14bc79a60f.jpg"
+    "small": "https://lastfm.freetls.fastly.net/i/u/34s/55292eb15e7e442a9f40f09625d6e111.png",
+    "medium": "https://lastfm.freetls.fastly.net/i/u/64s/55292eb15e7e442a9f40f09625d6e111.png",
+    "large": "https://lastfm.freetls.fastly.net/i/u/174s/55292eb15e7e442a9f40f09625d6e111.png",
+    "extralarge": "https://lastfm.freetls.fastly.net/i/u/300x300/55292eb15e7e442a9f40f09625d6e111.png"
   },
   "playing": true,
   "timestamp": "",
   "uts": null,
-  "url": "https://www.last.fm/music/GEZEBELLE+GABURGABLY/_/Stuffed+Animals",
+  "url": "https://www.last.fm/music/Interpol/_/NYC",
   "artist_url": "",
   "album_url": "",
-  "loved": true,
-  "playcount": 238,
-  "duration": 191000,
-  "generated": "2026-07-31T07:28:10.468657+00:00"
+  "loved": false,
+  "playcount": 0,
+  "duration": 259000,
+  "generated": "2026-07-31T10:05:27.382671+00:00"
 }
