@@ -9,14 +9,14 @@
     "large": "https://lastfm.freetls.fastly.net/i/u/174s/c01b0d8170538ea26d8c41233e5fd200.jpg",
     "extralarge": "https://lastfm.freetls.fastly.net/i/u/300x300/c01b0d8170538ea26d8c41233e5fd200.jpg"
   },
-  "playing": false,
-  "timestamp": "02 Aug 2026, 22:58",
-  "uts": "1785711497",
+  "playing": true,
+  "timestamp": "",
+  "uts": null,
   "url": "https://www.last.fm/music/The+Living+Tombstone/_/It+Doesn%27t+Matter",
   "artist_url": "",
   "album_url": "",
   "loved": false,
-  "playcount": 5,
+  "playcount": 8,
   "duration": 225000,
-  "generated": "2026-08-03T03:56:57.142610+00:00"
+  "generated": "2026-08-03T06:57:40.734635+00:00"
 }
