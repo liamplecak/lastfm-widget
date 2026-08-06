@@ -1,22 +1,22 @@
 {
-  "track": "It Doesn't Matter",
-  "artist": "The Living Tombstone",
-  "album": "It Doesn't Matter",
-  "cover": "https://lastfm.freetls.fastly.net/i/u/300x300/c01b0d8170538ea26d8c41233e5fd200.jpg",
+  "track": "Coming Undone",
+  "artist": "Korn",
+  "album": "See You on the Other Side",
+  "cover": "https://lastfm.freetls.fastly.net/i/u/300x300/84dd0944c5fe4d0e9b533ea1039a70aa.png",
   "images": {
-    "small": "https://lastfm.freetls.fastly.net/i/u/34s/c01b0d8170538ea26d8c41233e5fd200.jpg",
-    "medium": "https://lastfm.freetls.fastly.net/i/u/64s/c01b0d8170538ea26d8c41233e5fd200.jpg",
-    "large": "https://lastfm.freetls.fastly.net/i/u/174s/c01b0d8170538ea26d8c41233e5fd200.jpg",
-    "extralarge": "https://lastfm.freetls.fastly.net/i/u/300x300/c01b0d8170538ea26d8c41233e5fd200.jpg"
+    "small": "https://lastfm.freetls.fastly.net/i/u/34s/84dd0944c5fe4d0e9b533ea1039a70aa.png",
+    "medium": "https://lastfm.freetls.fastly.net/i/u/64s/84dd0944c5fe4d0e9b533ea1039a70aa.png",
+    "large": "https://lastfm.freetls.fastly.net/i/u/174s/84dd0944c5fe4d0e9b533ea1039a70aa.png",
+    "extralarge": "https://lastfm.freetls.fastly.net/i/u/300x300/84dd0944c5fe4d0e9b533ea1039a70aa.png"
   },
-  "playing": false,
-  "timestamp": "04 Aug 2026, 13:26",
-  "uts": "1785850019",
-  "url": "https://www.last.fm/music/The+Living+Tombstone/_/It+Doesn%27t+Matter",
+  "playing": true,
+  "timestamp": "",
+  "uts": null,
+  "url": "https://www.last.fm/music/Korn/_/Coming+Undone",
   "artist_url": "",
   "album_url": "",
   "loved": false,
-  "playcount": 54,
-  "duration": 225000,
-  "generated": "2026-08-06T11:31:18.584887+00:00"
+  "playcount": 6,
+  "duration": 199000,
+  "generated": "2026-08-06T13:13:20.634565+00:00"
 }
