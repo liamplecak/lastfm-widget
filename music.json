@@ -2,21 +2,21 @@
   "track": "Coming Undone",
   "artist": "Korn",
   "album": "See You on the Other Side",
-  "cover": "https://lastfm.freetls.fastly.net/i/u/300x300/84dd0944c5fe4d0e9b533ea1039a70aa.png",
+  "cover": "https://lastfm-img.freetls.fastly.net/i/u/300x300/84dd0944c5fe4d0e9b533ea1039a70aa.png",
   "images": {
-    "small": "https://lastfm.freetls.fastly.net/i/u/34s/84dd0944c5fe4d0e9b533ea1039a70aa.png",
-    "medium": "https://lastfm.freetls.fastly.net/i/u/64s/84dd0944c5fe4d0e9b533ea1039a70aa.png",
-    "large": "https://lastfm.freetls.fastly.net/i/u/174s/84dd0944c5fe4d0e9b533ea1039a70aa.png",
-    "extralarge": "https://lastfm.freetls.fastly.net/i/u/300x300/84dd0944c5fe4d0e9b533ea1039a70aa.png"
+    "small": "https://lastfm-img.freetls.fastly.net/i/u/34s/84dd0944c5fe4d0e9b533ea1039a70aa.png",
+    "medium": "https://lastfm-img.freetls.fastly.net/i/u/64s/84dd0944c5fe4d0e9b533ea1039a70aa.png",
+    "large": "https://lastfm-img.freetls.fastly.net/i/u/174s/84dd0944c5fe4d0e9b533ea1039a70aa.png",
+    "extralarge": "https://lastfm-img.freetls.fastly.net/i/u/300x300/84dd0944c5fe4d0e9b533ea1039a70aa.png"
   },
-  "playing": true,
-  "timestamp": "",
-  "uts": null,
+  "playing": false,
+  "timestamp": "06 Aug 2026, 13:13",
+  "uts": "1786022011",
   "url": "https://www.last.fm/music/Korn/_/Coming+Undone",
   "artist_url": "",
   "album_url": "",
   "loved": false,
-  "playcount": 6,
+  "playcount": 8,
   "duration": 199000,
-  "generated": "2026-08-06T13:13:20.634565+00:00"
+  "generated": "2026-08-06T15:30:08.414006+00:00"
 }
