@@ -1,22 +1,22 @@
 {
-  "track": "Coming Undone",
-  "artist": "Korn",
-  "album": "See You on the Other Side",
-  "cover": "https://lastfm-img.freetls.fastly.net/i/u/300x300/84dd0944c5fe4d0e9b533ea1039a70aa.png",
+  "track": "Forecast Fascist Future",
+  "artist": "of Montreal",
+  "album": "The Sunlandic Twins",
+  "cover": "https://lastfm-img.freetls.fastly.net/i/u/300x300/dc8e6a0920430acc84f05ce2c8f9c235.jpg",
   "images": {
-    "small": "https://lastfm-img.freetls.fastly.net/i/u/34s/84dd0944c5fe4d0e9b533ea1039a70aa.png",
-    "medium": "https://lastfm-img.freetls.fastly.net/i/u/64s/84dd0944c5fe4d0e9b533ea1039a70aa.png",
-    "large": "https://lastfm-img.freetls.fastly.net/i/u/174s/84dd0944c5fe4d0e9b533ea1039a70aa.png",
-    "extralarge": "https://lastfm-img.freetls.fastly.net/i/u/300x300/84dd0944c5fe4d0e9b533ea1039a70aa.png"
+    "small": "https://lastfm-img.freetls.fastly.net/i/u/34s/dc8e6a0920430acc84f05ce2c8f9c235.jpg",
+    "medium": "https://lastfm-img.freetls.fastly.net/i/u/64s/dc8e6a0920430acc84f05ce2c8f9c235.jpg",
+    "large": "https://lastfm-img.freetls.fastly.net/i/u/174s/dc8e6a0920430acc84f05ce2c8f9c235.jpg",
+    "extralarge": "https://lastfm-img.freetls.fastly.net/i/u/300x300/dc8e6a0920430acc84f05ce2c8f9c235.jpg"
   },
-  "playing": false,
-  "timestamp": "06 Aug 2026, 13:13",
-  "uts": "1786022011",
-  "url": "https://www.last.fm/music/Korn/_/Coming+Undone",
+  "playing": true,
+  "timestamp": "",
+  "uts": null,
+  "url": "https://www.last.fm/music/of+Montreal/_/Forecast+Fascist+Future",
   "artist_url": "",
   "album_url": "",
   "loved": false,
-  "playcount": 8,
-  "duration": 199000,
-  "generated": "2026-08-07T12:25:33.546604+00:00"
+  "playcount": 0,
+  "duration": 264000,
+  "generated": "2026-08-07T13:47:39.774570+00:00"
 }
