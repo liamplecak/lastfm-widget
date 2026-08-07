@@ -1,22 +1,22 @@
 {
-  "track": "Baby It's Scary",
-  "artist": "Mustard Service",
-  "album": "Baby It's Scary",
-  "cover": "https://lastfm-img.freetls.fastly.net/i/u/300x300/5a4155f2507e9c124d9019950ac4a871.jpg",
+  "track": "Animal",
+  "artist": "Dogbite",
+  "album": "True Lo-Fi Will Find You in the End",
+  "cover": "https://lastfm-img.freetls.fastly.net/i/u/300x300/81b4899d9a3fde2da82a7b33549ed5ce.jpg",
   "images": {
-    "small": "https://lastfm-img.freetls.fastly.net/i/u/34s/5a4155f2507e9c124d9019950ac4a871.jpg",
-    "medium": "https://lastfm-img.freetls.fastly.net/i/u/64s/5a4155f2507e9c124d9019950ac4a871.jpg",
-    "large": "https://lastfm-img.freetls.fastly.net/i/u/174s/5a4155f2507e9c124d9019950ac4a871.jpg",
-    "extralarge": "https://lastfm-img.freetls.fastly.net/i/u/300x300/5a4155f2507e9c124d9019950ac4a871.jpg"
+    "small": "https://lastfm-img.freetls.fastly.net/i/u/34s/81b4899d9a3fde2da82a7b33549ed5ce.jpg",
+    "medium": "https://lastfm-img.freetls.fastly.net/i/u/64s/81b4899d9a3fde2da82a7b33549ed5ce.jpg",
+    "large": "https://lastfm-img.freetls.fastly.net/i/u/174s/81b4899d9a3fde2da82a7b33549ed5ce.jpg",
+    "extralarge": "https://lastfm-img.freetls.fastly.net/i/u/300x300/81b4899d9a3fde2da82a7b33549ed5ce.jpg"
   },
-  "playing": true,
-  "timestamp": "",
-  "uts": null,
-  "url": "https://www.last.fm/music/Mustard+Service/_/Baby+It%27s+Scary",
+  "playing": false,
+  "timestamp": "07 Aug 2026, 16:15",
+  "uts": "1786119328",
+  "url": "https://www.last.fm/music/Dogbite/_/Animal",
   "artist_url": "",
   "album_url": "",
   "loved": false,
   "playcount": 1,
-  "duration": 228000,
-  "generated": "2026-08-07T15:38:39.484915+00:00"
+  "duration": 126000,
+  "generated": "2026-08-07T16:31:25.548645+00:00"
 }
