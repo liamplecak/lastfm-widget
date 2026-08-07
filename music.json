@@ -1,22 +1,22 @@
 {
-  "track": "When You Die",
-  "artist": "MGMT",
-  "album": "Little Dark Age",
-  "cover": "https://lastfm-img.freetls.fastly.net/i/u/300x300/28700d076e5afb3bc0fba47ab8e71975.png",
+  "track": "Baby It's Scary",
+  "artist": "Mustard Service",
+  "album": "Baby It's Scary",
+  "cover": "https://lastfm-img.freetls.fastly.net/i/u/300x300/5a4155f2507e9c124d9019950ac4a871.jpg",
   "images": {
-    "small": "https://lastfm-img.freetls.fastly.net/i/u/34s/28700d076e5afb3bc0fba47ab8e71975.png",
-    "medium": "https://lastfm-img.freetls.fastly.net/i/u/64s/28700d076e5afb3bc0fba47ab8e71975.png",
-    "large": "https://lastfm-img.freetls.fastly.net/i/u/174s/28700d076e5afb3bc0fba47ab8e71975.png",
-    "extralarge": "https://lastfm-img.freetls.fastly.net/i/u/300x300/28700d076e5afb3bc0fba47ab8e71975.png"
+    "small": "https://lastfm-img.freetls.fastly.net/i/u/34s/5a4155f2507e9c124d9019950ac4a871.jpg",
+    "medium": "https://lastfm-img.freetls.fastly.net/i/u/64s/5a4155f2507e9c124d9019950ac4a871.jpg",
+    "large": "https://lastfm-img.freetls.fastly.net/i/u/174s/5a4155f2507e9c124d9019950ac4a871.jpg",
+    "extralarge": "https://lastfm-img.freetls.fastly.net/i/u/300x300/5a4155f2507e9c124d9019950ac4a871.jpg"
   },
   "playing": true,
   "timestamp": "",
   "uts": null,
-  "url": "https://www.last.fm/music/MGMT/_/When+You+Die",
+  "url": "https://www.last.fm/music/Mustard+Service/_/Baby+It%27s+Scary",
   "artist_url": "",
   "album_url": "",
-  "loved": true,
-  "playcount": 150,
-  "duration": 258000,
-  "generated": "2026-08-07T14:41:35.870265+00:00"
+  "loved": false,
+  "playcount": 1,
+  "duration": 228000,
+  "generated": "2026-08-07T15:38:39.484915+00:00"
 }
