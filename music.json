@@ -1,22 +1,22 @@
 {
-  "track": "Forecast Fascist Future",
-  "artist": "of Montreal",
-  "album": "The Sunlandic Twins",
-  "cover": "https://lastfm-img.freetls.fastly.net/i/u/300x300/dc8e6a0920430acc84f05ce2c8f9c235.jpg",
+  "track": "When You Die",
+  "artist": "MGMT",
+  "album": "Little Dark Age",
+  "cover": "https://lastfm-img.freetls.fastly.net/i/u/300x300/28700d076e5afb3bc0fba47ab8e71975.png",
   "images": {
-    "small": "https://lastfm-img.freetls.fastly.net/i/u/34s/dc8e6a0920430acc84f05ce2c8f9c235.jpg",
-    "medium": "https://lastfm-img.freetls.fastly.net/i/u/64s/dc8e6a0920430acc84f05ce2c8f9c235.jpg",
-    "large": "https://lastfm-img.freetls.fastly.net/i/u/174s/dc8e6a0920430acc84f05ce2c8f9c235.jpg",
-    "extralarge": "https://lastfm-img.freetls.fastly.net/i/u/300x300/dc8e6a0920430acc84f05ce2c8f9c235.jpg"
+    "small": "https://lastfm-img.freetls.fastly.net/i/u/34s/28700d076e5afb3bc0fba47ab8e71975.png",
+    "medium": "https://lastfm-img.freetls.fastly.net/i/u/64s/28700d076e5afb3bc0fba47ab8e71975.png",
+    "large": "https://lastfm-img.freetls.fastly.net/i/u/174s/28700d076e5afb3bc0fba47ab8e71975.png",
+    "extralarge": "https://lastfm-img.freetls.fastly.net/i/u/300x300/28700d076e5afb3bc0fba47ab8e71975.png"
   },
   "playing": true,
   "timestamp": "",
   "uts": null,
-  "url": "https://www.last.fm/music/of+Montreal/_/Forecast+Fascist+Future",
+  "url": "https://www.last.fm/music/MGMT/_/When+You+Die",
   "artist_url": "",
   "album_url": "",
-  "loved": false,
-  "playcount": 0,
-  "duration": 264000,
-  "generated": "2026-08-07T13:47:39.774570+00:00"
+  "loved": true,
+  "playcount": 150,
+  "duration": 258000,
+  "generated": "2026-08-07T14:41:35.870265+00:00"
 }
