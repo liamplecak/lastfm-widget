@@ -1,22 +1,22 @@
 {
-  "track": "Animal",
-  "artist": "Dogbite",
-  "album": "True Lo-Fi Will Find You in the End",
-  "cover": "https://lastfm-img.freetls.fastly.net/i/u/300x300/81b4899d9a3fde2da82a7b33549ed5ce.jpg",
+  "track": "Black Crow",
+  "artist": "Girls Rituals",
+  "album": "EMERGENCY!",
+  "cover": "https://lastfm-img.freetls.fastly.net/i/u/300x300/5f6075182f925c1796f8adc8d00e6575.png",
   "images": {
-    "small": "https://lastfm-img.freetls.fastly.net/i/u/34s/81b4899d9a3fde2da82a7b33549ed5ce.jpg",
-    "medium": "https://lastfm-img.freetls.fastly.net/i/u/64s/81b4899d9a3fde2da82a7b33549ed5ce.jpg",
-    "large": "https://lastfm-img.freetls.fastly.net/i/u/174s/81b4899d9a3fde2da82a7b33549ed5ce.jpg",
-    "extralarge": "https://lastfm-img.freetls.fastly.net/i/u/300x300/81b4899d9a3fde2da82a7b33549ed5ce.jpg"
+    "small": "https://lastfm-img.freetls.fastly.net/i/u/34s/5f6075182f925c1796f8adc8d00e6575.png",
+    "medium": "https://lastfm-img.freetls.fastly.net/i/u/64s/5f6075182f925c1796f8adc8d00e6575.png",
+    "large": "https://lastfm-img.freetls.fastly.net/i/u/174s/5f6075182f925c1796f8adc8d00e6575.png",
+    "extralarge": "https://lastfm-img.freetls.fastly.net/i/u/300x300/5f6075182f925c1796f8adc8d00e6575.png"
   },
-  "playing": false,
-  "timestamp": "07 Aug 2026, 16:15",
-  "uts": "1786119328",
-  "url": "https://www.last.fm/music/Dogbite/_/Animal",
+  "playing": true,
+  "timestamp": "",
+  "uts": null,
+  "url": "https://www.last.fm/music/Girls+Rituals/_/Black+Crow",
   "artist_url": "",
   "album_url": "",
-  "loved": false,
-  "playcount": 1,
-  "duration": 126000,
-  "generated": "2026-08-09T14:02:50.824125+00:00"
+  "loved": true,
+  "playcount": 215,
+  "duration": 137000,
+  "generated": "2026-08-09T14:47:17.512604+00:00"
 }
