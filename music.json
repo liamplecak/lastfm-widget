@@ -9,14 +9,14 @@
     "large": "https://lastfm-img.freetls.fastly.net/i/u/174s/5f6075182f925c1796f8adc8d00e6575.png",
     "extralarge": "https://lastfm-img.freetls.fastly.net/i/u/300x300/5f6075182f925c1796f8adc8d00e6575.png"
   },
-  "playing": true,
-  "timestamp": "",
-  "uts": null,
+  "playing": false,
+  "timestamp": "09 Aug 2026, 15:06",
+  "uts": "1786287994",
   "url": "https://www.last.fm/music/Girls+Rituals/_/Black+Crow",
   "artist_url": "",
   "album_url": "",
   "loved": true,
-  "playcount": 215,
+  "playcount": 225,
   "duration": 137000,
-  "generated": "2026-08-09T14:47:17.512604+00:00"
+  "generated": "2026-08-09T15:14:55.175368+00:00"
 }
