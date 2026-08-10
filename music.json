@@ -1,22 +1,22 @@
 {
-  "track": "Black Crow",
-  "artist": "Girls Rituals",
-  "album": "EMERGENCY!",
-  "cover": "https://lastfm-img.freetls.fastly.net/i/u/300x300/5f6075182f925c1796f8adc8d00e6575.png",
+  "track": "Space Song",
+  "artist": "Beach House",
+  "album": "Depression Cherry",
+  "cover": "https://lastfm-img.freetls.fastly.net/i/u/300x300/92ee7e4f3afdbe6a9a8c13a4a790baf1.png",
   "images": {
-    "small": "https://lastfm-img.freetls.fastly.net/i/u/34s/5f6075182f925c1796f8adc8d00e6575.png",
-    "medium": "https://lastfm-img.freetls.fastly.net/i/u/64s/5f6075182f925c1796f8adc8d00e6575.png",
-    "large": "https://lastfm-img.freetls.fastly.net/i/u/174s/5f6075182f925c1796f8adc8d00e6575.png",
-    "extralarge": "https://lastfm-img.freetls.fastly.net/i/u/300x300/5f6075182f925c1796f8adc8d00e6575.png"
+    "small": "https://lastfm-img.freetls.fastly.net/i/u/34s/92ee7e4f3afdbe6a9a8c13a4a790baf1.png",
+    "medium": "https://lastfm-img.freetls.fastly.net/i/u/64s/92ee7e4f3afdbe6a9a8c13a4a790baf1.png",
+    "large": "https://lastfm-img.freetls.fastly.net/i/u/174s/92ee7e4f3afdbe6a9a8c13a4a790baf1.png",
+    "extralarge": "https://lastfm-img.freetls.fastly.net/i/u/300x300/92ee7e4f3afdbe6a9a8c13a4a790baf1.png"
   },
-  "playing": false,
-  "timestamp": "09 Aug 2026, 15:06",
-  "uts": "1786287994",
-  "url": "https://www.last.fm/music/Girls+Rituals/_/Black+Crow",
+  "playing": true,
+  "timestamp": "",
+  "uts": null,
+  "url": "https://www.last.fm/music/Beach+House/_/Space+Song",
   "artist_url": "",
   "album_url": "",
   "loved": true,
-  "playcount": 225,
-  "duration": 137000,
-  "generated": "2026-08-10T08:08:49.936010+00:00"
+  "playcount": 78,
+  "duration": 320000,
+  "generated": "2026-08-10T09:45:26.953420+00:00"
 }
