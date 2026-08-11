@@ -1,22 +1,22 @@
 {
-  "track": "Sugar Pool",
-  "artist": "Mom",
-  "album": "3",
-  "cover": "https://lastfm-img.freetls.fastly.net/i/u/300x300/9e67951aba5f94a3bf95df24b6d2a9a7.png",
+  "track": "Bigmouth Strikes Again - 2011 Remaster",
+  "artist": "The Smiths",
+  "album": "The Queen Is Dead",
+  "cover": "https://lastfm-img.freetls.fastly.net/i/u/300x300/fac0b27adf403efed8b368d3a236ab61.jpg",
   "images": {
-    "small": "https://lastfm-img.freetls.fastly.net/i/u/34s/9e67951aba5f94a3bf95df24b6d2a9a7.png",
-    "medium": "https://lastfm-img.freetls.fastly.net/i/u/64s/9e67951aba5f94a3bf95df24b6d2a9a7.png",
-    "large": "https://lastfm-img.freetls.fastly.net/i/u/174s/9e67951aba5f94a3bf95df24b6d2a9a7.png",
-    "extralarge": "https://lastfm-img.freetls.fastly.net/i/u/300x300/9e67951aba5f94a3bf95df24b6d2a9a7.png"
+    "small": "https://lastfm-img.freetls.fastly.net/i/u/34s/fac0b27adf403efed8b368d3a236ab61.jpg",
+    "medium": "https://lastfm-img.freetls.fastly.net/i/u/64s/fac0b27adf403efed8b368d3a236ab61.jpg",
+    "large": "https://lastfm-img.freetls.fastly.net/i/u/174s/fac0b27adf403efed8b368d3a236ab61.jpg",
+    "extralarge": "https://lastfm-img.freetls.fastly.net/i/u/300x300/fac0b27adf403efed8b368d3a236ab61.jpg"
   },
   "playing": true,
   "timestamp": "",
   "uts": null,
-  "url": "https://www.last.fm/music/Mom/_/Sugar+Pool",
+  "url": "https://www.last.fm/music/The+Smiths/_/Bigmouth+Strikes+Again+-+2011+Remaster",
   "artist_url": "",
   "album_url": "",
   "loved": false,
-  "playcount": 12,
-  "duration": 208000,
-  "generated": "2026-08-11T18:30:55.944711+00:00"
+  "playcount": 3,
+  "duration": 193000,
+  "generated": "2026-08-11T19:41:16.423169+00:00"
 }
