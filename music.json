@@ -1,22 +1,22 @@
 {
-  "track": "Bigmouth Strikes Again - 2011 Remaster",
+  "track": "Heaven Knows I'm Miserable Now - 2011 Remaster",
   "artist": "The Smiths",
-  "album": "The Queen Is Dead",
-  "cover": "https://lastfm-img.freetls.fastly.net/i/u/300x300/fac0b27adf403efed8b368d3a236ab61.jpg",
+  "album": "Hatful of Hollow",
+  "cover": "https://lastfm-img.freetls.fastly.net/i/u/300x300/c1d87ec19e6f9c837d5f3b31441d1ff8.png",
   "images": {
-    "small": "https://lastfm-img.freetls.fastly.net/i/u/34s/fac0b27adf403efed8b368d3a236ab61.jpg",
-    "medium": "https://lastfm-img.freetls.fastly.net/i/u/64s/fac0b27adf403efed8b368d3a236ab61.jpg",
-    "large": "https://lastfm-img.freetls.fastly.net/i/u/174s/fac0b27adf403efed8b368d3a236ab61.jpg",
-    "extralarge": "https://lastfm-img.freetls.fastly.net/i/u/300x300/fac0b27adf403efed8b368d3a236ab61.jpg"
+    "small": "https://lastfm-img.freetls.fastly.net/i/u/34s/c1d87ec19e6f9c837d5f3b31441d1ff8.png",
+    "medium": "https://lastfm-img.freetls.fastly.net/i/u/64s/c1d87ec19e6f9c837d5f3b31441d1ff8.png",
+    "large": "https://lastfm-img.freetls.fastly.net/i/u/174s/c1d87ec19e6f9c837d5f3b31441d1ff8.png",
+    "extralarge": "https://lastfm-img.freetls.fastly.net/i/u/300x300/c1d87ec19e6f9c837d5f3b31441d1ff8.png"
   },
-  "playing": true,
-  "timestamp": "",
-  "uts": null,
-  "url": "https://www.last.fm/music/The+Smiths/_/Bigmouth+Strikes+Again+-+2011+Remaster",
+  "playing": false,
+  "timestamp": "11 Aug 2026, 20:10",
+  "uts": "1786479053",
+  "url": "https://www.last.fm/music/The+Smiths/_/Heaven+Knows+I%27m+Miserable+Now+-+2011+Remaster",
   "artist_url": "",
   "album_url": "",
   "loved": false,
-  "playcount": 3,
-  "duration": 193000,
-  "generated": "2026-08-11T19:41:16.423169+00:00"
+  "playcount": 21,
+  "duration": 215000,
+  "generated": "2026-08-11T20:26:09.371729+00:00"
 }
