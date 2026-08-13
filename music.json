@@ -1,22 +1,22 @@
 {
-  "track": "Heaven Knows I'm Miserable Now - 2011 Remaster",
-  "artist": "The Smiths",
-  "album": "Hatful of Hollow",
-  "cover": "https://lastfm-img.freetls.fastly.net/i/u/300x300/c1d87ec19e6f9c837d5f3b31441d1ff8.png",
+  "track": "The Knower",
+  "artist": "Youth Lagoon",
+  "album": "Savage Hills Ballroom",
+  "cover": "https://lastfm-img.freetls.fastly.net/i/u/300x300/4094f5c54ec1896a4db25c321abd450f.jpg",
   "images": {
-    "small": "https://lastfm-img.freetls.fastly.net/i/u/34s/c1d87ec19e6f9c837d5f3b31441d1ff8.png",
-    "medium": "https://lastfm-img.freetls.fastly.net/i/u/64s/c1d87ec19e6f9c837d5f3b31441d1ff8.png",
-    "large": "https://lastfm-img.freetls.fastly.net/i/u/174s/c1d87ec19e6f9c837d5f3b31441d1ff8.png",
-    "extralarge": "https://lastfm-img.freetls.fastly.net/i/u/300x300/c1d87ec19e6f9c837d5f3b31441d1ff8.png"
+    "small": "https://lastfm-img.freetls.fastly.net/i/u/34s/4094f5c54ec1896a4db25c321abd450f.jpg",
+    "medium": "https://lastfm-img.freetls.fastly.net/i/u/64s/4094f5c54ec1896a4db25c321abd450f.jpg",
+    "large": "https://lastfm-img.freetls.fastly.net/i/u/174s/4094f5c54ec1896a4db25c321abd450f.jpg",
+    "extralarge": "https://lastfm-img.freetls.fastly.net/i/u/300x300/4094f5c54ec1896a4db25c321abd450f.jpg"
   },
   "playing": false,
-  "timestamp": "11 Aug 2026, 20:10",
-  "uts": "1786479053",
-  "url": "https://www.last.fm/music/The+Smiths/_/Heaven+Knows+I%27m+Miserable+Now+-+2011+Remaster",
+  "timestamp": "13 Aug 2026, 14:16",
+  "uts": "1786630600",
+  "url": "https://www.last.fm/music/Youth+Lagoon/_/The+Knower",
   "artist_url": "",
   "album_url": "",
-  "loved": false,
-  "playcount": 21,
-  "duration": 215000,
-  "generated": "2026-08-13T13:40:00.407541+00:00"
+  "loved": true,
+  "playcount": 72,
+  "duration": 206000,
+  "generated": "2026-08-13T15:40:44.891914+00:00"
 }
