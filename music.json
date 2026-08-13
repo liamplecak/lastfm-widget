@@ -9,14 +9,14 @@
     "large": "https://lastfm-img.freetls.fastly.net/i/u/174s/4094f5c54ec1896a4db25c321abd450f.jpg",
     "extralarge": "https://lastfm-img.freetls.fastly.net/i/u/300x300/4094f5c54ec1896a4db25c321abd450f.jpg"
   },
-  "playing": false,
-  "timestamp": "13 Aug 2026, 14:16",
-  "uts": "1786630600",
+  "playing": true,
+  "timestamp": "",
+  "uts": null,
   "url": "https://www.last.fm/music/Youth+Lagoon/_/The+Knower",
   "artist_url": "",
   "album_url": "",
   "loved": true,
-  "playcount": 72,
+  "playcount": 80,
   "duration": 206000,
-  "generated": "2026-08-13T20:18:43.626815+00:00"
+  "generated": "2026-08-13T21:07:28.177271+00:00"
 }
