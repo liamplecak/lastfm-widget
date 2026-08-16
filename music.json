@@ -1,22 +1,22 @@
 {
-  "track": "Natural Disasters",
-  "artist": "Enon",
-  "album": "High Society",
-  "cover": "https://lastfm-img.freetls.fastly.net/i/u/300x300/8a7db885b2374bdf6ca1429b71bfc5cb.jpg",
+  "track": "Stuffed Animals",
+  "artist": "GEZEBELLE GABURGABLY",
+  "album": "Snailcore Del\u00fccks",
+  "cover": "https://lastfm-img.freetls.fastly.net/i/u/300x300/239295e743b7338cb7c63f14bc79a60f.jpg",
   "images": {
-    "small": "https://lastfm-img.freetls.fastly.net/i/u/34s/8a7db885b2374bdf6ca1429b71bfc5cb.jpg",
-    "medium": "https://lastfm-img.freetls.fastly.net/i/u/64s/8a7db885b2374bdf6ca1429b71bfc5cb.jpg",
-    "large": "https://lastfm-img.freetls.fastly.net/i/u/174s/8a7db885b2374bdf6ca1429b71bfc5cb.jpg",
-    "extralarge": "https://lastfm-img.freetls.fastly.net/i/u/300x300/8a7db885b2374bdf6ca1429b71bfc5cb.jpg"
+    "small": "https://lastfm-img.freetls.fastly.net/i/u/34s/239295e743b7338cb7c63f14bc79a60f.jpg",
+    "medium": "https://lastfm-img.freetls.fastly.net/i/u/64s/239295e743b7338cb7c63f14bc79a60f.jpg",
+    "large": "https://lastfm-img.freetls.fastly.net/i/u/174s/239295e743b7338cb7c63f14bc79a60f.jpg",
+    "extralarge": "https://lastfm-img.freetls.fastly.net/i/u/300x300/239295e743b7338cb7c63f14bc79a60f.jpg"
   },
-  "playing": false,
-  "timestamp": "15 Aug 2026, 22:43",
-  "uts": "1786833819",
-  "url": "https://www.last.fm/music/Enon/_/Natural+Disasters",
+  "playing": true,
+  "timestamp": "",
+  "uts": null,
+  "url": "https://www.last.fm/music/GEZEBELLE+GABURGABLY/_/Stuffed+Animals",
   "artist_url": "",
   "album_url": "",
-  "loved": false,
-  "playcount": 30,
-  "duration": 169000,
-  "generated": "2026-08-16T15:38:38.794431+00:00"
+  "loved": true,
+  "playcount": 283,
+  "duration": 191000,
+  "generated": "2026-08-16T15:55:11.771731+00:00"
 }
