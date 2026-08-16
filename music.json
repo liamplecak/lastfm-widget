@@ -1,22 +1,22 @@
 {
-  "track": "A Quick Favor",
-  "artist": "Copycat",
-  "album": "Collage",
-  "cover": "https://lastfm-img.freetls.fastly.net/i/u/300x300/7ca37d65e025c3d709b4e333971f904e.jpg",
+  "track": "Harness Your Hopes - b-side",
+  "artist": "Pavement",
+  "album": "Brighten the Corners: Nicene Creedence Ed.",
+  "cover": "https://lastfm-img.freetls.fastly.net/i/u/300x300/54afa1db1d01aa1edea83e707cbbc9b1.jpg",
   "images": {
-    "small": "https://lastfm-img.freetls.fastly.net/i/u/34s/7ca37d65e025c3d709b4e333971f904e.jpg",
-    "medium": "https://lastfm-img.freetls.fastly.net/i/u/64s/7ca37d65e025c3d709b4e333971f904e.jpg",
-    "large": "https://lastfm-img.freetls.fastly.net/i/u/174s/7ca37d65e025c3d709b4e333971f904e.jpg",
-    "extralarge": "https://lastfm-img.freetls.fastly.net/i/u/300x300/7ca37d65e025c3d709b4e333971f904e.jpg"
+    "small": "https://lastfm-img.freetls.fastly.net/i/u/34s/54afa1db1d01aa1edea83e707cbbc9b1.jpg",
+    "medium": "https://lastfm-img.freetls.fastly.net/i/u/64s/54afa1db1d01aa1edea83e707cbbc9b1.jpg",
+    "large": "https://lastfm-img.freetls.fastly.net/i/u/174s/54afa1db1d01aa1edea83e707cbbc9b1.jpg",
+    "extralarge": "https://lastfm-img.freetls.fastly.net/i/u/300x300/54afa1db1d01aa1edea83e707cbbc9b1.jpg"
   },
   "playing": true,
   "timestamp": "",
   "uts": null,
-  "url": "https://www.last.fm/music/Copycat/_/A+Quick+Favor",
+  "url": "https://www.last.fm/music/Pavement/_/Harness+Your+Hopes+-+b-side",
   "artist_url": "",
   "album_url": "",
-  "loved": false,
-  "playcount": 54,
-  "duration": 166000,
-  "generated": "2026-08-16T17:01:48.413185+00:00"
+  "loved": true,
+  "playcount": 60,
+  "duration": 206000,
+  "generated": "2026-08-16T17:29:49.916290+00:00"
 }
