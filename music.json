@@ -1,22 +1,22 @@
 {
-  "track": "A Beginner's Guide to Destroying the Moon",
-  "artist": "Foster the People",
-  "album": "Supermodel",
-  "cover": "https://lastfm-img.freetls.fastly.net/i/u/300x300/414255e9c179d285213a453ada386e10.png",
+  "track": "Natural Disasters",
+  "artist": "Enon",
+  "album": "High Society",
+  "cover": "https://lastfm-img.freetls.fastly.net/i/u/300x300/8a7db885b2374bdf6ca1429b71bfc5cb.jpg",
   "images": {
-    "small": "https://lastfm-img.freetls.fastly.net/i/u/34s/414255e9c179d285213a453ada386e10.png",
-    "medium": "https://lastfm-img.freetls.fastly.net/i/u/64s/414255e9c179d285213a453ada386e10.png",
-    "large": "https://lastfm-img.freetls.fastly.net/i/u/174s/414255e9c179d285213a453ada386e10.png",
-    "extralarge": "https://lastfm-img.freetls.fastly.net/i/u/300x300/414255e9c179d285213a453ada386e10.png"
+    "small": "https://lastfm-img.freetls.fastly.net/i/u/34s/8a7db885b2374bdf6ca1429b71bfc5cb.jpg",
+    "medium": "https://lastfm-img.freetls.fastly.net/i/u/64s/8a7db885b2374bdf6ca1429b71bfc5cb.jpg",
+    "large": "https://lastfm-img.freetls.fastly.net/i/u/174s/8a7db885b2374bdf6ca1429b71bfc5cb.jpg",
+    "extralarge": "https://lastfm-img.freetls.fastly.net/i/u/300x300/8a7db885b2374bdf6ca1429b71bfc5cb.jpg"
   },
   "playing": true,
   "timestamp": "",
   "uts": null,
-  "url": "https://www.last.fm/music/Foster+the+People/_/A+Beginner%27s+Guide+to+Destroying+the+Moon",
+  "url": "https://www.last.fm/music/Enon/_/Natural+Disasters",
   "artist_url": "",
   "album_url": "",
-  "loved": true,
-  "playcount": 72,
-  "duration": 268000,
-  "generated": "2026-08-16T16:16:06.867997+00:00"
+  "loved": false,
+  "playcount": 31,
+  "duration": 169000,
+  "generated": "2026-08-16T16:44:03.784856+00:00"
 }
