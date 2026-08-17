@@ -1,22 +1,22 @@
 {
-  "track": "Black People White People",
-  "artist": "Joe Hawley",
-  "album": "Joe Hawley Joe Hawley",
-  "cover": "https://lastfm-img.freetls.fastly.net/i/u/300x300/78200ef4acd46c1ac8e5be3f7a6b9e41.png",
+  "track": "Nothing Special",
+  "artist": "STOMACH BOOK",
+  "album": "GOODNIGHT HYPNOPOMP",
+  "cover": "https://lastfm-img.freetls.fastly.net/i/u/300x300/99e0e284062c3c4f95e3b71333203e1c.jpg",
   "images": {
-    "small": "https://lastfm-img.freetls.fastly.net/i/u/34s/78200ef4acd46c1ac8e5be3f7a6b9e41.png",
-    "medium": "https://lastfm-img.freetls.fastly.net/i/u/64s/78200ef4acd46c1ac8e5be3f7a6b9e41.png",
-    "large": "https://lastfm-img.freetls.fastly.net/i/u/174s/78200ef4acd46c1ac8e5be3f7a6b9e41.png",
-    "extralarge": "https://lastfm-img.freetls.fastly.net/i/u/300x300/78200ef4acd46c1ac8e5be3f7a6b9e41.png"
+    "small": "https://lastfm-img.freetls.fastly.net/i/u/34s/99e0e284062c3c4f95e3b71333203e1c.jpg",
+    "medium": "https://lastfm-img.freetls.fastly.net/i/u/64s/99e0e284062c3c4f95e3b71333203e1c.jpg",
+    "large": "https://lastfm-img.freetls.fastly.net/i/u/174s/99e0e284062c3c4f95e3b71333203e1c.jpg",
+    "extralarge": "https://lastfm-img.freetls.fastly.net/i/u/300x300/99e0e284062c3c4f95e3b71333203e1c.jpg"
   },
   "playing": true,
   "timestamp": "",
   "uts": null,
-  "url": "https://www.last.fm/music/Joe+Hawley/_/Black+People+White+People",
+  "url": "https://www.last.fm/music/STOMACH+BOOK/_/Nothing+Special",
   "artist_url": "",
   "album_url": "",
-  "loved": true,
-  "playcount": 19,
-  "duration": 219000,
-  "generated": "2026-08-17T23:32:24.942040+00:00"
+  "loved": false,
+  "playcount": 12,
+  "duration": 248000,
+  "generated": "2026-08-17T23:53:28.381891+00:00"
 }
