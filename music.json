@@ -1,22 +1,22 @@
 {
-  "track": "Stuffed Animals",
-  "artist": "GEZEBELLE GABURGABLY",
-  "album": "Snailcore Del\u00fccks",
-  "cover": "https://lastfm-img.freetls.fastly.net/i/u/300x300/239295e743b7338cb7c63f14bc79a60f.jpg",
+  "track": "The Knower",
+  "artist": "Youth Lagoon",
+  "album": "Savage Hills Ballroom",
+  "cover": "https://lastfm-img.freetls.fastly.net/i/u/300x300/4094f5c54ec1896a4db25c321abd450f.jpg",
   "images": {
-    "small": "https://lastfm-img.freetls.fastly.net/i/u/34s/239295e743b7338cb7c63f14bc79a60f.jpg",
-    "medium": "https://lastfm-img.freetls.fastly.net/i/u/64s/239295e743b7338cb7c63f14bc79a60f.jpg",
-    "large": "https://lastfm-img.freetls.fastly.net/i/u/174s/239295e743b7338cb7c63f14bc79a60f.jpg",
-    "extralarge": "https://lastfm-img.freetls.fastly.net/i/u/300x300/239295e743b7338cb7c63f14bc79a60f.jpg"
+    "small": "https://lastfm-img.freetls.fastly.net/i/u/34s/4094f5c54ec1896a4db25c321abd450f.jpg",
+    "medium": "https://lastfm-img.freetls.fastly.net/i/u/64s/4094f5c54ec1896a4db25c321abd450f.jpg",
+    "large": "https://lastfm-img.freetls.fastly.net/i/u/174s/4094f5c54ec1896a4db25c321abd450f.jpg",
+    "extralarge": "https://lastfm-img.freetls.fastly.net/i/u/300x300/4094f5c54ec1896a4db25c321abd450f.jpg"
   },
-  "playing": false,
-  "timestamp": "17 Aug 2026, 15:25",
-  "uts": "1786980345",
-  "url": "https://www.last.fm/music/GEZEBELLE+GABURGABLY/_/Stuffed+Animals",
+  "playing": true,
+  "timestamp": "",
+  "uts": null,
+  "url": "https://www.last.fm/music/Youth+Lagoon/_/The+Knower",
   "artist_url": "",
   "album_url": "",
   "loved": true,
-  "playcount": 329,
-  "duration": 191000,
-  "generated": "2026-08-17T22:44:33.538114+00:00"
+  "playcount": 139,
+  "duration": 206000,
+  "generated": "2026-08-17T23:01:20.399613+00:00"
 }
