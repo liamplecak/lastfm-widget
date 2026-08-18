@@ -1,22 +1,22 @@
 {
-  "track": "Jealous",
-  "artist": "Eyedress",
-  "album": "Let's Skip to the Wedding",
-  "cover": "https://lastfm-img.freetls.fastly.net/i/u/300x300/c325087ededaf34f6f21d801f75f28fb.jpg",
+  "track": "New Person, Same Old Mistakes",
+  "artist": "Tame Impala",
+  "album": "Currents",
+  "cover": "https://lastfm-img.freetls.fastly.net/i/u/300x300/dd45b0438a315aed98b5830aa2fc43c5.jpg",
   "images": {
-    "small": "https://lastfm-img.freetls.fastly.net/i/u/34s/c325087ededaf34f6f21d801f75f28fb.jpg",
-    "medium": "https://lastfm-img.freetls.fastly.net/i/u/64s/c325087ededaf34f6f21d801f75f28fb.jpg",
-    "large": "https://lastfm-img.freetls.fastly.net/i/u/174s/c325087ededaf34f6f21d801f75f28fb.jpg",
-    "extralarge": "https://lastfm-img.freetls.fastly.net/i/u/300x300/c325087ededaf34f6f21d801f75f28fb.jpg"
+    "small": "https://lastfm-img.freetls.fastly.net/i/u/34s/dd45b0438a315aed98b5830aa2fc43c5.jpg",
+    "medium": "https://lastfm-img.freetls.fastly.net/i/u/64s/dd45b0438a315aed98b5830aa2fc43c5.jpg",
+    "large": "https://lastfm-img.freetls.fastly.net/i/u/174s/dd45b0438a315aed98b5830aa2fc43c5.jpg",
+    "extralarge": "https://lastfm-img.freetls.fastly.net/i/u/300x300/dd45b0438a315aed98b5830aa2fc43c5.jpg"
   },
-  "playing": false,
-  "timestamp": "18 Aug 2026, 00:26",
-  "uts": "1787012763",
-  "url": "https://www.last.fm/music/Eyedress/_/Jealous",
+  "playing": true,
+  "timestamp": "",
+  "uts": null,
+  "url": "https://www.last.fm/music/Tame+Impala/_/New+Person,+Same+Old+Mistakes",
   "artist_url": "",
   "album_url": "",
   "loved": true,
-  "playcount": 258,
-  "duration": 122000,
-  "generated": "2026-08-18T16:03:48.717989+00:00"
+  "playcount": 195,
+  "duration": 363000,
+  "generated": "2026-08-18T16:44:23.215264+00:00"
 }
