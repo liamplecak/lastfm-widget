@@ -1,22 +1,22 @@
 {
-  "track": "It Doesn't Matter",
-  "artist": "The Living Tombstone",
-  "album": "It Doesn't Matter",
-  "cover": "https://lastfm-img.freetls.fastly.net/i/u/300x300/c01b0d8170538ea26d8c41233e5fd200.jpg",
+  "track": "Hate Yourself",
+  "artist": "TV Girl",
+  "album": "French Exit",
+  "cover": "https://lastfm-img.freetls.fastly.net/i/u/300x300/4f091d5082e04691c6d7f4b2e2efbdc0.jpg",
   "images": {
-    "small": "https://lastfm-img.freetls.fastly.net/i/u/34s/c01b0d8170538ea26d8c41233e5fd200.jpg",
-    "medium": "https://lastfm-img.freetls.fastly.net/i/u/64s/c01b0d8170538ea26d8c41233e5fd200.jpg",
-    "large": "https://lastfm-img.freetls.fastly.net/i/u/174s/c01b0d8170538ea26d8c41233e5fd200.jpg",
-    "extralarge": "https://lastfm-img.freetls.fastly.net/i/u/300x300/c01b0d8170538ea26d8c41233e5fd200.jpg"
+    "small": "https://lastfm-img.freetls.fastly.net/i/u/34s/4f091d5082e04691c6d7f4b2e2efbdc0.jpg",
+    "medium": "https://lastfm-img.freetls.fastly.net/i/u/64s/4f091d5082e04691c6d7f4b2e2efbdc0.jpg",
+    "large": "https://lastfm-img.freetls.fastly.net/i/u/174s/4f091d5082e04691c6d7f4b2e2efbdc0.jpg",
+    "extralarge": "https://lastfm-img.freetls.fastly.net/i/u/300x300/4f091d5082e04691c6d7f4b2e2efbdc0.jpg"
   },
   "playing": true,
   "timestamp": "",
   "uts": null,
-  "url": "https://www.last.fm/music/The+Living+Tombstone/_/It+Doesn%27t+Matter",
+  "url": "https://www.last.fm/music/TV+Girl/_/Hate+Yourself",
   "artist_url": "",
   "album_url": "",
-  "loved": false,
-  "playcount": 61,
-  "duration": 230000,
-  "generated": "2026-08-18T22:51:58.785213+00:00"
+  "loved": true,
+  "playcount": 69,
+  "duration": 214000,
+  "generated": "2026-08-18T23:15:11.564971+00:00"
 }
