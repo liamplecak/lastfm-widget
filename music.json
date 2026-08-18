@@ -1,22 +1,22 @@
 {
-  "track": "Catabolic Seed",
-  "artist": "the scary jokes",
-  "album": "April Fools",
-  "cover": "https://lastfm-img.freetls.fastly.net/i/u/300x300/a5061608d5dcbf212619574e19ac897d.jpg",
+  "track": "Spiteful Intervention",
+  "artist": "of Montreal",
+  "album": "Paralytic Stalks",
+  "cover": "https://lastfm-img.freetls.fastly.net/i/u/300x300/127ce9b675264fd9aad2549268d991bf.png",
   "images": {
-    "small": "https://lastfm-img.freetls.fastly.net/i/u/34s/a5061608d5dcbf212619574e19ac897d.jpg",
-    "medium": "https://lastfm-img.freetls.fastly.net/i/u/64s/a5061608d5dcbf212619574e19ac897d.jpg",
-    "large": "https://lastfm-img.freetls.fastly.net/i/u/174s/a5061608d5dcbf212619574e19ac897d.jpg",
-    "extralarge": "https://lastfm-img.freetls.fastly.net/i/u/300x300/a5061608d5dcbf212619574e19ac897d.jpg"
+    "small": "https://lastfm-img.freetls.fastly.net/i/u/34s/127ce9b675264fd9aad2549268d991bf.png",
+    "medium": "https://lastfm-img.freetls.fastly.net/i/u/64s/127ce9b675264fd9aad2549268d991bf.png",
+    "large": "https://lastfm-img.freetls.fastly.net/i/u/174s/127ce9b675264fd9aad2549268d991bf.png",
+    "extralarge": "https://lastfm-img.freetls.fastly.net/i/u/300x300/127ce9b675264fd9aad2549268d991bf.png"
   },
-  "playing": true,
-  "timestamp": "",
-  "uts": null,
-  "url": "https://www.last.fm/music/the+scary+jokes/_/Catabolic+Seed",
+  "playing": false,
+  "timestamp": "18 Aug 2026, 17:46",
+  "uts": "1787075192",
+  "url": "https://www.last.fm/music/of+Montreal/_/Spiteful+Intervention",
   "artist_url": "",
   "album_url": "",
-  "loved": true,
-  "playcount": 86,
-  "duration": 154000,
-  "generated": "2026-08-18T17:40:25.871775+00:00"
+  "loved": false,
+  "playcount": 40,
+  "duration": 220000,
+  "generated": "2026-08-18T18:03:56.051635+00:00"
 }
