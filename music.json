@@ -1,22 +1,22 @@
 {
-  "track": "Nothing Special",
-  "artist": "STOMACH BOOK",
-  "album": "GOODNIGHT HYPNOPOMP",
-  "cover": "https://lastfm-img.freetls.fastly.net/i/u/300x300/99e0e284062c3c4f95e3b71333203e1c.jpg",
+  "track": "Jealous",
+  "artist": "Eyedress",
+  "album": "Let's Skip to the Wedding",
+  "cover": "https://lastfm-img.freetls.fastly.net/i/u/300x300/c325087ededaf34f6f21d801f75f28fb.jpg",
   "images": {
-    "small": "https://lastfm-img.freetls.fastly.net/i/u/34s/99e0e284062c3c4f95e3b71333203e1c.jpg",
-    "medium": "https://lastfm-img.freetls.fastly.net/i/u/64s/99e0e284062c3c4f95e3b71333203e1c.jpg",
-    "large": "https://lastfm-img.freetls.fastly.net/i/u/174s/99e0e284062c3c4f95e3b71333203e1c.jpg",
-    "extralarge": "https://lastfm-img.freetls.fastly.net/i/u/300x300/99e0e284062c3c4f95e3b71333203e1c.jpg"
+    "small": "https://lastfm-img.freetls.fastly.net/i/u/34s/c325087ededaf34f6f21d801f75f28fb.jpg",
+    "medium": "https://lastfm-img.freetls.fastly.net/i/u/64s/c325087ededaf34f6f21d801f75f28fb.jpg",
+    "large": "https://lastfm-img.freetls.fastly.net/i/u/174s/c325087ededaf34f6f21d801f75f28fb.jpg",
+    "extralarge": "https://lastfm-img.freetls.fastly.net/i/u/300x300/c325087ededaf34f6f21d801f75f28fb.jpg"
   },
-  "playing": true,
-  "timestamp": "",
-  "uts": null,
-  "url": "https://www.last.fm/music/STOMACH+BOOK/_/Nothing+Special",
+  "playing": false,
+  "timestamp": "18 Aug 2026, 00:26",
+  "uts": "1787012763",
+  "url": "https://www.last.fm/music/Eyedress/_/Jealous",
   "artist_url": "",
   "album_url": "",
-  "loved": false,
-  "playcount": 12,
-  "duration": 248000,
-  "generated": "2026-08-17T23:53:28.381891+00:00"
+  "loved": true,
+  "playcount": 258,
+  "duration": 122000,
+  "generated": "2026-08-18T00:50:05.735805+00:00"
 }
