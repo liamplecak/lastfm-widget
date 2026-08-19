@@ -1,22 +1,22 @@
 {
-  "track": "Youthinasia",
-  "artist": "The Skin Cells",
-  "album": "Youthinasia",
-  "cover": "https://lastfm-img.freetls.fastly.net/i/u/300x300/6983027c1d6d39b1864df59ca059bd3d.jpg",
+  "track": "Saccharine",
+  "artist": "Jazmin Bean",
+  "album": "Worldwide Torture",
+  "cover": "https://lastfm-img.freetls.fastly.net/i/u/300x300/485828defd6b7008c85af06c11927446.jpg",
   "images": {
-    "small": "https://lastfm-img.freetls.fastly.net/i/u/34s/6983027c1d6d39b1864df59ca059bd3d.jpg",
-    "medium": "https://lastfm-img.freetls.fastly.net/i/u/64s/6983027c1d6d39b1864df59ca059bd3d.jpg",
-    "large": "https://lastfm-img.freetls.fastly.net/i/u/174s/6983027c1d6d39b1864df59ca059bd3d.jpg",
-    "extralarge": "https://lastfm-img.freetls.fastly.net/i/u/300x300/6983027c1d6d39b1864df59ca059bd3d.jpg"
+    "small": "https://lastfm-img.freetls.fastly.net/i/u/34s/485828defd6b7008c85af06c11927446.jpg",
+    "medium": "https://lastfm-img.freetls.fastly.net/i/u/64s/485828defd6b7008c85af06c11927446.jpg",
+    "large": "https://lastfm-img.freetls.fastly.net/i/u/174s/485828defd6b7008c85af06c11927446.jpg",
+    "extralarge": "https://lastfm-img.freetls.fastly.net/i/u/300x300/485828defd6b7008c85af06c11927446.jpg"
   },
   "playing": true,
   "timestamp": "",
   "uts": null,
-  "url": "https://www.last.fm/music/The+Skin+Cells/_/Youthinasia",
+  "url": "https://www.last.fm/music/Jazmin+Bean/_/Saccharine",
   "artist_url": "",
   "album_url": "",
-  "loved": true,
-  "playcount": 121,
-  "duration": 117000,
-  "generated": "2026-08-19T16:48:30.288259+00:00"
+  "loved": false,
+  "playcount": 151,
+  "duration": 179000,
+  "generated": "2026-08-19T17:11:59.794668+00:00"
 }
