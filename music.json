@@ -1,22 +1,22 @@
 {
-  "track": "Imaginary Friends",
-  "artist": "Des Rocs",
-  "album": "A Real Good Person In A Real Bad Place",
-  "cover": "https://lastfm-img.freetls.fastly.net/i/u/300x300/d2dba878f0afcee3a921bbcc297a68c9.jpg",
+  "track": "Quarter Pounder",
+  "artist": "GEZEBELLE GABURGABLY",
+  "album": "Gaburger",
+  "cover": "https://lastfm-img.freetls.fastly.net/i/u/300x300/bb13b935d6014c1cd20e17d8e82f95fd.jpg",
   "images": {
-    "small": "https://lastfm-img.freetls.fastly.net/i/u/34s/d2dba878f0afcee3a921bbcc297a68c9.jpg",
-    "medium": "https://lastfm-img.freetls.fastly.net/i/u/64s/d2dba878f0afcee3a921bbcc297a68c9.jpg",
-    "large": "https://lastfm-img.freetls.fastly.net/i/u/174s/d2dba878f0afcee3a921bbcc297a68c9.jpg",
-    "extralarge": "https://lastfm-img.freetls.fastly.net/i/u/300x300/d2dba878f0afcee3a921bbcc297a68c9.jpg"
+    "small": "https://lastfm-img.freetls.fastly.net/i/u/34s/bb13b935d6014c1cd20e17d8e82f95fd.jpg",
+    "medium": "https://lastfm-img.freetls.fastly.net/i/u/64s/bb13b935d6014c1cd20e17d8e82f95fd.jpg",
+    "large": "https://lastfm-img.freetls.fastly.net/i/u/174s/bb13b935d6014c1cd20e17d8e82f95fd.jpg",
+    "extralarge": "https://lastfm-img.freetls.fastly.net/i/u/300x300/bb13b935d6014c1cd20e17d8e82f95fd.jpg"
   },
-  "playing": true,
-  "timestamp": "",
-  "uts": null,
-  "url": "https://www.last.fm/music/Des+Rocs/_/Imaginary+Friends",
+  "playing": false,
+  "timestamp": "19 Aug 2026, 23:21",
+  "uts": "1787181714",
+  "url": "https://www.last.fm/music/GEZEBELLE+GABURGABLY/_/Quarter+Pounder",
   "artist_url": "",
   "album_url": "",
-  "loved": true,
-  "playcount": 50,
-  "duration": 181000,
-  "generated": "2026-08-19T23:03:02.038893+00:00"
+  "loved": false,
+  "playcount": 4,
+  "duration": 223000,
+  "generated": "2026-08-19T23:32:29.786032+00:00"
 }
