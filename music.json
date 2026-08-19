@@ -1,22 +1,22 @@
 {
-  "track": "Pork Soda",
-  "artist": "Glass Animals",
-  "album": "How to Be a Human Being",
-  "cover": "https://lastfm-img.freetls.fastly.net/i/u/300x300/05646a91f163b15d9f08642bbe170abf.jpg",
+  "track": "Cough Syrup",
+  "artist": "Young the Giant",
+  "album": "Young the Giant (Special Edition)",
+  "cover": "https://lastfm-img.freetls.fastly.net/i/u/300x300/73dc88dac0f941a1c159935da4ddb9a3.png",
   "images": {
-    "small": "https://lastfm-img.freetls.fastly.net/i/u/34s/05646a91f163b15d9f08642bbe170abf.jpg",
-    "medium": "https://lastfm-img.freetls.fastly.net/i/u/64s/05646a91f163b15d9f08642bbe170abf.jpg",
-    "large": "https://lastfm-img.freetls.fastly.net/i/u/174s/05646a91f163b15d9f08642bbe170abf.jpg",
-    "extralarge": "https://lastfm-img.freetls.fastly.net/i/u/300x300/05646a91f163b15d9f08642bbe170abf.jpg"
+    "small": "https://lastfm-img.freetls.fastly.net/i/u/34s/73dc88dac0f941a1c159935da4ddb9a3.png",
+    "medium": "https://lastfm-img.freetls.fastly.net/i/u/64s/73dc88dac0f941a1c159935da4ddb9a3.png",
+    "large": "https://lastfm-img.freetls.fastly.net/i/u/174s/73dc88dac0f941a1c159935da4ddb9a3.png",
+    "extralarge": "https://lastfm-img.freetls.fastly.net/i/u/300x300/73dc88dac0f941a1c159935da4ddb9a3.png"
   },
-  "playing": false,
-  "timestamp": "19 Aug 2026, 18:19",
-  "uts": "1787163597",
-  "url": "https://www.last.fm/music/Glass+Animals/_/Pork+Soda",
+  "playing": true,
+  "timestamp": "",
+  "uts": null,
+  "url": "https://www.last.fm/music/Young+the+Giant/_/Cough+Syrup",
   "artist_url": "",
   "album_url": "",
-  "loved": true,
-  "playcount": 178,
-  "duration": 253000,
-  "generated": "2026-08-19T18:49:47.986814+00:00"
+  "loved": false,
+  "playcount": 47,
+  "duration": 249000,
+  "generated": "2026-08-19T19:13:31.859058+00:00"
 }
