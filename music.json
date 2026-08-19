@@ -9,14 +9,14 @@
     "large": "https://lastfm-img.freetls.fastly.net/i/u/174s/6983027c1d6d39b1864df59ca059bd3d.jpg",
     "extralarge": "https://lastfm-img.freetls.fastly.net/i/u/300x300/6983027c1d6d39b1864df59ca059bd3d.jpg"
   },
-  "playing": true,
-  "timestamp": "",
-  "uts": null,
+  "playing": false,
+  "timestamp": "19 Aug 2026, 00:20",
+  "uts": "1787098812",
   "url": "https://www.last.fm/music/The+Skin+Cells/_/Youthinasia",
   "artist_url": "",
   "album_url": "",
   "loved": true,
-  "playcount": 92,
+  "playcount": 105,
   "duration": 117000,
-  "generated": "2026-08-18T23:56:40.053450+00:00"
+  "generated": "2026-08-19T01:03:59.948133+00:00"
 }
