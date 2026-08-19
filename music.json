@@ -9,14 +9,14 @@
     "large": "https://lastfm-img.freetls.fastly.net/i/u/174s/40564dd1a58f969fc3ee3c49bddffd23.png",
     "extralarge": "https://lastfm-img.freetls.fastly.net/i/u/300x300/40564dd1a58f969fc3ee3c49bddffd23.png"
   },
-  "playing": true,
-  "timestamp": "",
-  "uts": null,
+  "playing": false,
+  "timestamp": "19 Aug 2026, 20:07",
+  "uts": "1787170061",
   "url": "https://www.last.fm/music/b%C3%B4a/_/Twilight",
   "artist_url": "",
   "album_url": "",
   "loved": true,
-  "playcount": 34,
+  "playcount": 37,
   "duration": 228000,
-  "generated": "2026-08-19T20:00:49.745225+00:00"
+  "generated": "2026-08-19T20:39:33.778969+00:00"
 }
