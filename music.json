@@ -1,22 +1,22 @@
 {
-  "track": "Quarter Pounder",
-  "artist": "GEZEBELLE GABURGABLY",
-  "album": "Gaburger",
-  "cover": "https://lastfm-img.freetls.fastly.net/i/u/300x300/bb13b935d6014c1cd20e17d8e82f95fd.jpg",
+  "track": "Christmas Kids",
+  "artist": "Roar",
+  "album": "I Can't Handle Change",
+  "cover": "https://lastfm-img.freetls.fastly.net/i/u/300x300/7327bd581388498d9188d75467e535b7.png",
   "images": {
-    "small": "https://lastfm-img.freetls.fastly.net/i/u/34s/bb13b935d6014c1cd20e17d8e82f95fd.jpg",
-    "medium": "https://lastfm-img.freetls.fastly.net/i/u/64s/bb13b935d6014c1cd20e17d8e82f95fd.jpg",
-    "large": "https://lastfm-img.freetls.fastly.net/i/u/174s/bb13b935d6014c1cd20e17d8e82f95fd.jpg",
-    "extralarge": "https://lastfm-img.freetls.fastly.net/i/u/300x300/bb13b935d6014c1cd20e17d8e82f95fd.jpg"
+    "small": "https://lastfm-img.freetls.fastly.net/i/u/34s/7327bd581388498d9188d75467e535b7.png",
+    "medium": "https://lastfm-img.freetls.fastly.net/i/u/64s/7327bd581388498d9188d75467e535b7.png",
+    "large": "https://lastfm-img.freetls.fastly.net/i/u/174s/7327bd581388498d9188d75467e535b7.png",
+    "extralarge": "https://lastfm-img.freetls.fastly.net/i/u/300x300/7327bd581388498d9188d75467e535b7.png"
   },
-  "playing": false,
-  "timestamp": "21 Aug 2026, 13:39",
-  "uts": "1787319545",
-  "url": "https://www.last.fm/music/GEZEBELLE+GABURGABLY/_/Quarter+Pounder",
+  "playing": true,
+  "timestamp": "",
+  "uts": null,
+  "url": "https://www.last.fm/music/Roar/_/Christmas+Kids",
   "artist_url": "",
   "album_url": "",
-  "loved": false,
-  "playcount": 19,
-  "duration": 223000,
-  "generated": "2026-08-24T05:55:11.770344+00:00"
+  "loved": true,
+  "playcount": 340,
+  "duration": 135000,
+  "generated": "2026-08-24T06:42:14.053450+00:00"
 }
