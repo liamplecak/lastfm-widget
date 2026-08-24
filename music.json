@@ -1,22 +1,22 @@
 {
-  "track": "New Person, Same Old Mistakes",
-  "artist": "Tame Impala",
-  "album": "Currents",
-  "cover": "https://lastfm-img.freetls.fastly.net/i/u/300x300/dd45b0438a315aed98b5830aa2fc43c5.jpg",
+  "track": "Drink",
+  "artist": "Destroy Boys",
+  "album": "Open Mouth, Open Heart",
+  "cover": "https://lastfm-img.freetls.fastly.net/i/u/300x300/8f7ce71d309a73aef06d08039b0e75e6.jpg",
   "images": {
-    "small": "https://lastfm-img.freetls.fastly.net/i/u/34s/dd45b0438a315aed98b5830aa2fc43c5.jpg",
-    "medium": "https://lastfm-img.freetls.fastly.net/i/u/64s/dd45b0438a315aed98b5830aa2fc43c5.jpg",
-    "large": "https://lastfm-img.freetls.fastly.net/i/u/174s/dd45b0438a315aed98b5830aa2fc43c5.jpg",
-    "extralarge": "https://lastfm-img.freetls.fastly.net/i/u/300x300/dd45b0438a315aed98b5830aa2fc43c5.jpg"
+    "small": "https://lastfm-img.freetls.fastly.net/i/u/34s/8f7ce71d309a73aef06d08039b0e75e6.jpg",
+    "medium": "https://lastfm-img.freetls.fastly.net/i/u/64s/8f7ce71d309a73aef06d08039b0e75e6.jpg",
+    "large": "https://lastfm-img.freetls.fastly.net/i/u/174s/8f7ce71d309a73aef06d08039b0e75e6.jpg",
+    "extralarge": "https://lastfm-img.freetls.fastly.net/i/u/300x300/8f7ce71d309a73aef06d08039b0e75e6.jpg"
   },
-  "playing": true,
-  "timestamp": "",
-  "uts": null,
-  "url": "https://www.last.fm/music/Tame+Impala/_/New+Person,+Same+Old+Mistakes",
+  "playing": false,
+  "timestamp": "24 Aug 2026, 08:01",
+  "uts": "1787558472",
+  "url": "https://www.last.fm/music/Destroy+Boys/_/Drink",
   "artist_url": "",
   "album_url": "",
   "loved": true,
-  "playcount": 201,
-  "duration": 363000,
-  "generated": "2026-08-24T07:44:48.577453+00:00"
+  "playcount": 302,
+  "duration": 224000,
+  "generated": "2026-08-24T08:29:10.048034+00:00"
 }
