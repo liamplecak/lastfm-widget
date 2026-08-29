@@ -1,22 +1,22 @@
 {
-  "track": "Coming Undone",
-  "artist": "Korn",
-  "album": "See You on the Other Side",
-  "cover": "https://lastfm-img.freetls.fastly.net/i/u/300x300/84dd0944c5fe4d0e9b533ea1039a70aa.png",
+  "track": "Black People White People",
+  "artist": "Joe Hawley",
+  "album": "Joe Hawley Joe Hawley",
+  "cover": "https://lastfm-img.freetls.fastly.net/i/u/300x300/9e6d5f90023b4a2bcaf23b9dee3b69f3.gif",
   "images": {
-    "small": "https://lastfm-img.freetls.fastly.net/i/u/34s/84dd0944c5fe4d0e9b533ea1039a70aa.png",
-    "medium": "https://lastfm-img.freetls.fastly.net/i/u/64s/84dd0944c5fe4d0e9b533ea1039a70aa.png",
-    "large": "https://lastfm-img.freetls.fastly.net/i/u/174s/84dd0944c5fe4d0e9b533ea1039a70aa.png",
-    "extralarge": "https://lastfm-img.freetls.fastly.net/i/u/300x300/84dd0944c5fe4d0e9b533ea1039a70aa.png"
+    "small": "https://lastfm-img.freetls.fastly.net/i/u/34s/9e6d5f90023b4a2bcaf23b9dee3b69f3.gif",
+    "medium": "https://lastfm-img.freetls.fastly.net/i/u/64s/9e6d5f90023b4a2bcaf23b9dee3b69f3.gif",
+    "large": "https://lastfm-img.freetls.fastly.net/i/u/174s/9e6d5f90023b4a2bcaf23b9dee3b69f3.gif",
+    "extralarge": "https://lastfm-img.freetls.fastly.net/i/u/300x300/9e6d5f90023b4a2bcaf23b9dee3b69f3.gif"
   },
   "playing": false,
-  "timestamp": "28 Aug 2026, 19:26",
-  "uts": "1787945173",
-  "url": "https://www.last.fm/music/Korn/_/Coming+Undone",
+  "timestamp": "29 Aug 2026, 23:45",
+  "uts": "1788047157",
+  "url": "https://www.last.fm/music/Joe+Hawley/_/Black+People+White+People",
   "artist_url": "",
   "album_url": "",
-  "loved": false,
-  "playcount": 18,
-  "duration": 199000,
-  "generated": "2026-08-29T21:59:37.949386+00:00"
+  "loved": true,
+  "playcount": 22,
+  "duration": 219000,
+  "generated": "2026-08-29T23:59:25.644048+00:00"
 }
