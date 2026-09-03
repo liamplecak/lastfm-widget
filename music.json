@@ -1,22 +1,22 @@
 {
-  "track": "Safe and Sound",
-  "artist": "Mr Floyd Larry",
-  "album": "Grungy Bungee",
-  "cover": "https://lastfm-img.freetls.fastly.net/i/u/300x300/3415089fefc4352f1da14a5d2a00a9f5.png",
+  "track": "Private Life",
+  "artist": "Oingo Boingo",
+  "album": "Nothing To Fear",
+  "cover": "https://lastfm-img.freetls.fastly.net/i/u/300x300/74044941479e3d99b8fa0dbb8e290a8d.jpg",
   "images": {
-    "small": "https://lastfm-img.freetls.fastly.net/i/u/34s/3415089fefc4352f1da14a5d2a00a9f5.png",
-    "medium": "https://lastfm-img.freetls.fastly.net/i/u/64s/3415089fefc4352f1da14a5d2a00a9f5.png",
-    "large": "https://lastfm-img.freetls.fastly.net/i/u/174s/3415089fefc4352f1da14a5d2a00a9f5.png",
-    "extralarge": "https://lastfm-img.freetls.fastly.net/i/u/300x300/3415089fefc4352f1da14a5d2a00a9f5.png"
+    "small": "https://lastfm-img.freetls.fastly.net/i/u/34s/74044941479e3d99b8fa0dbb8e290a8d.jpg",
+    "medium": "https://lastfm-img.freetls.fastly.net/i/u/64s/74044941479e3d99b8fa0dbb8e290a8d.jpg",
+    "large": "https://lastfm-img.freetls.fastly.net/i/u/174s/74044941479e3d99b8fa0dbb8e290a8d.jpg",
+    "extralarge": "https://lastfm-img.freetls.fastly.net/i/u/300x300/74044941479e3d99b8fa0dbb8e290a8d.jpg"
   },
   "playing": false,
-  "timestamp": "02 Sep 2026, 03:35",
-  "uts": "1788320116",
-  "url": "https://www.last.fm/music/Mr+Floyd+Larry/_/Safe+and+Sound",
+  "timestamp": "03 Sep 2026, 01:18",
+  "uts": "1788398328",
+  "url": "https://www.last.fm/music/Oingo+Boingo/_/Private+Life",
   "artist_url": "",
   "album_url": "",
-  "loved": true,
-  "playcount": 455,
-  "duration": 278000,
-  "generated": "2026-09-03T00:35:52.883387+00:00"
+  "loved": false,
+  "playcount": 416,
+  "duration": 194000,
+  "generated": "2026-09-03T04:59:58.737336+00:00"
 }
