@@ -1,22 +1,22 @@
 {
-  "track": "Hansel",
-  "artist": "Sodikken",
-  "album": "Hansel & Gretel",
-  "cover": "https://lastfm-img.freetls.fastly.net/i/u/300x300/d8ab5a15cbb5327d68ca82f4c12101b0.jpg",
+  "track": "Paralyzed",
+  "artist": "Roar",
+  "album": "Diamond Destroyer of Death",
+  "cover": "https://lastfm-img.freetls.fastly.net/i/u/300x300/3150e6334f930f5212e3bc359c191c35.jpg",
   "images": {
-    "small": "https://lastfm-img.freetls.fastly.net/i/u/34s/d8ab5a15cbb5327d68ca82f4c12101b0.jpg",
-    "medium": "https://lastfm-img.freetls.fastly.net/i/u/64s/d8ab5a15cbb5327d68ca82f4c12101b0.jpg",
-    "large": "https://lastfm-img.freetls.fastly.net/i/u/174s/d8ab5a15cbb5327d68ca82f4c12101b0.jpg",
-    "extralarge": "https://lastfm-img.freetls.fastly.net/i/u/300x300/d8ab5a15cbb5327d68ca82f4c12101b0.jpg"
+    "small": "https://lastfm-img.freetls.fastly.net/i/u/34s/3150e6334f930f5212e3bc359c191c35.jpg",
+    "medium": "https://lastfm-img.freetls.fastly.net/i/u/64s/3150e6334f930f5212e3bc359c191c35.jpg",
+    "large": "https://lastfm-img.freetls.fastly.net/i/u/174s/3150e6334f930f5212e3bc359c191c35.jpg",
+    "extralarge": "https://lastfm-img.freetls.fastly.net/i/u/300x300/3150e6334f930f5212e3bc359c191c35.jpg"
   },
-  "playing": false,
-  "timestamp": "07 Sep 2026, 03:58",
-  "uts": "1788753533",
-  "url": "https://www.last.fm/music/Sodikken/_/Hansel",
+  "playing": true,
+  "timestamp": "",
+  "uts": null,
+  "url": "https://www.last.fm/music/Roar/_/Paralyzed",
   "artist_url": "",
   "album_url": "",
   "loved": false,
-  "playcount": 44,
-  "duration": 357000,
-  "generated": "2026-09-07T15:11:57.201291+00:00"
+  "playcount": 124,
+  "duration": 146000,
+  "generated": "2026-09-07T19:11:56.265432+00:00"
 }
