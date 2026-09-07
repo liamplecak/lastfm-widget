@@ -1,22 +1,22 @@
 {
-  "track": "Paralyzed",
-  "artist": "Roar",
-  "album": "Diamond Destroyer of Death",
-  "cover": "https://lastfm-img.freetls.fastly.net/i/u/300x300/3150e6334f930f5212e3bc359c191c35.jpg",
+  "track": "Bad Bad Things",
+  "artist": "AJJ",
+  "album": "People Who Can Eat People are the Luckiest People in the World",
+  "cover": "https://lastfm-img.freetls.fastly.net/i/u/300x300/08e4de238074b8c72b561b69627e50ce.jpg",
   "images": {
-    "small": "https://lastfm-img.freetls.fastly.net/i/u/34s/3150e6334f930f5212e3bc359c191c35.jpg",
-    "medium": "https://lastfm-img.freetls.fastly.net/i/u/64s/3150e6334f930f5212e3bc359c191c35.jpg",
-    "large": "https://lastfm-img.freetls.fastly.net/i/u/174s/3150e6334f930f5212e3bc359c191c35.jpg",
-    "extralarge": "https://lastfm-img.freetls.fastly.net/i/u/300x300/3150e6334f930f5212e3bc359c191c35.jpg"
+    "small": "https://lastfm-img.freetls.fastly.net/i/u/34s/08e4de238074b8c72b561b69627e50ce.jpg",
+    "medium": "https://lastfm-img.freetls.fastly.net/i/u/64s/08e4de238074b8c72b561b69627e50ce.jpg",
+    "large": "https://lastfm-img.freetls.fastly.net/i/u/174s/08e4de238074b8c72b561b69627e50ce.jpg",
+    "extralarge": "https://lastfm-img.freetls.fastly.net/i/u/300x300/08e4de238074b8c72b561b69627e50ce.jpg"
   },
-  "playing": true,
-  "timestamp": "",
-  "uts": null,
-  "url": "https://www.last.fm/music/Roar/_/Paralyzed",
+  "playing": false,
+  "timestamp": "07 Sep 2026, 19:13",
+  "uts": "1788808411",
+  "url": "https://www.last.fm/music/AJJ/_/Bad+Bad+Things",
   "artist_url": "",
   "album_url": "",
   "loved": false,
-  "playcount": 124,
-  "duration": 146000,
-  "generated": "2026-09-07T19:11:56.265432+00:00"
+  "playcount": 84,
+  "duration": 119000,
+  "generated": "2026-09-07T22:02:35.820740+00:00"
 }
