@@ -1,22 +1,22 @@
 {
-  "track": "Bad Bad Things",
-  "artist": "AJJ",
-  "album": "People Who Can Eat People are the Luckiest People in the World",
-  "cover": "https://lastfm-img.freetls.fastly.net/i/u/300x300/08e4de238074b8c72b561b69627e50ce.jpg",
+  "track": "In The Garden",
+  "artist": "Red Vox",
+  "album": "Another Light",
+  "cover": "https://lastfm-img.freetls.fastly.net/i/u/300x300/7430d3762270bdbdaf80685537bc6d6a.png",
   "images": {
-    "small": "https://lastfm-img.freetls.fastly.net/i/u/34s/08e4de238074b8c72b561b69627e50ce.jpg",
-    "medium": "https://lastfm-img.freetls.fastly.net/i/u/64s/08e4de238074b8c72b561b69627e50ce.jpg",
-    "large": "https://lastfm-img.freetls.fastly.net/i/u/174s/08e4de238074b8c72b561b69627e50ce.jpg",
-    "extralarge": "https://lastfm-img.freetls.fastly.net/i/u/300x300/08e4de238074b8c72b561b69627e50ce.jpg"
+    "small": "https://lastfm-img.freetls.fastly.net/i/u/34s/7430d3762270bdbdaf80685537bc6d6a.png",
+    "medium": "https://lastfm-img.freetls.fastly.net/i/u/64s/7430d3762270bdbdaf80685537bc6d6a.png",
+    "large": "https://lastfm-img.freetls.fastly.net/i/u/174s/7430d3762270bdbdaf80685537bc6d6a.png",
+    "extralarge": "https://lastfm-img.freetls.fastly.net/i/u/300x300/7430d3762270bdbdaf80685537bc6d6a.png"
   },
   "playing": false,
-  "timestamp": "07 Sep 2026, 19:13",
-  "uts": "1788808411",
-  "url": "https://www.last.fm/music/AJJ/_/Bad+Bad+Things",
+  "timestamp": "08 Sep 2026, 01:47",
+  "uts": "1788832042",
+  "url": "https://www.last.fm/music/Red+Vox/_/In+The+Garden",
   "artist_url": "",
   "album_url": "",
-  "loved": false,
-  "playcount": 84,
-  "duration": 119000,
-  "generated": "2026-09-08T00:15:26.921529+00:00"
+  "loved": true,
+  "playcount": 90,
+  "duration": 249000,
+  "generated": "2026-09-08T04:43:00.161774+00:00"
 }
