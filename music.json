@@ -9,14 +9,14 @@
     "large": "https://lastfm-img.freetls.fastly.net/i/u/174s/5c05114d08a01184ca28705eb10c6301.jpg",
     "extralarge": "https://lastfm-img.freetls.fastly.net/i/u/300x300/5c05114d08a01184ca28705eb10c6301.jpg"
   },
-  "playing": true,
-  "timestamp": "",
-  "uts": null,
+  "playing": false,
+  "timestamp": "10 Sep 2026, 00:42",
+  "uts": "1789000940",
   "url": "https://www.last.fm/music/Flavor+Foley/_/Spoken+For",
   "artist_url": "",
   "album_url": "",
   "loved": false,
-  "playcount": 72,
+  "playcount": 78,
   "duration": 244000,
-  "generated": "2026-09-10T00:22:38.961582+00:00"
+  "generated": "2026-09-10T04:59:20.647550+00:00"
 }
