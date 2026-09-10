@@ -1,22 +1,22 @@
 {
-  "track": "In The Garden",
-  "artist": "Red Vox",
-  "album": "Another Light",
-  "cover": "https://lastfm-img.freetls.fastly.net/i/u/300x300/7430d3762270bdbdaf80685537bc6d6a.png",
+  "track": "Spoken For",
+  "artist": "Flavor Foley",
+  "album": "Spoken For",
+  "cover": "https://lastfm-img.freetls.fastly.net/i/u/300x300/5c05114d08a01184ca28705eb10c6301.jpg",
   "images": {
-    "small": "https://lastfm-img.freetls.fastly.net/i/u/34s/7430d3762270bdbdaf80685537bc6d6a.png",
-    "medium": "https://lastfm-img.freetls.fastly.net/i/u/64s/7430d3762270bdbdaf80685537bc6d6a.png",
-    "large": "https://lastfm-img.freetls.fastly.net/i/u/174s/7430d3762270bdbdaf80685537bc6d6a.png",
-    "extralarge": "https://lastfm-img.freetls.fastly.net/i/u/300x300/7430d3762270bdbdaf80685537bc6d6a.png"
+    "small": "https://lastfm-img.freetls.fastly.net/i/u/34s/5c05114d08a01184ca28705eb10c6301.jpg",
+    "medium": "https://lastfm-img.freetls.fastly.net/i/u/64s/5c05114d08a01184ca28705eb10c6301.jpg",
+    "large": "https://lastfm-img.freetls.fastly.net/i/u/174s/5c05114d08a01184ca28705eb10c6301.jpg",
+    "extralarge": "https://lastfm-img.freetls.fastly.net/i/u/300x300/5c05114d08a01184ca28705eb10c6301.jpg"
   },
-  "playing": false,
-  "timestamp": "08 Sep 2026, 01:47",
-  "uts": "1788832042",
-  "url": "https://www.last.fm/music/Red+Vox/_/In+The+Garden",
+  "playing": true,
+  "timestamp": "",
+  "uts": null,
+  "url": "https://www.last.fm/music/Flavor+Foley/_/Spoken+For",
   "artist_url": "",
   "album_url": "",
-  "loved": true,
-  "playcount": 90,
-  "duration": 249000,
-  "generated": "2026-09-09T22:22:42.573334+00:00"
+  "loved": false,
+  "playcount": 72,
+  "duration": 244000,
+  "generated": "2026-09-10T00:22:38.961582+00:00"
 }
