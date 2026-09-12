@@ -1,22 +1,22 @@
 {
-  "track": "Spoken For",
-  "artist": "Flavor Foley",
-  "album": "Spoken For",
-  "cover": "https://lastfm-img.freetls.fastly.net/i/u/300x300/5c05114d08a01184ca28705eb10c6301.jpg",
+  "track": "When I Was Done Dying",
+  "artist": "Dan Deacon",
+  "album": "Gliss Riffer",
+  "cover": "https://lastfm-img.freetls.fastly.net/i/u/300x300/780289181e434cdacc257b55ff7234e2.png",
   "images": {
-    "small": "https://lastfm-img.freetls.fastly.net/i/u/34s/5c05114d08a01184ca28705eb10c6301.jpg",
-    "medium": "https://lastfm-img.freetls.fastly.net/i/u/64s/5c05114d08a01184ca28705eb10c6301.jpg",
-    "large": "https://lastfm-img.freetls.fastly.net/i/u/174s/5c05114d08a01184ca28705eb10c6301.jpg",
-    "extralarge": "https://lastfm-img.freetls.fastly.net/i/u/300x300/5c05114d08a01184ca28705eb10c6301.jpg"
+    "small": "https://lastfm-img.freetls.fastly.net/i/u/34s/780289181e434cdacc257b55ff7234e2.png",
+    "medium": "https://lastfm-img.freetls.fastly.net/i/u/64s/780289181e434cdacc257b55ff7234e2.png",
+    "large": "https://lastfm-img.freetls.fastly.net/i/u/174s/780289181e434cdacc257b55ff7234e2.png",
+    "extralarge": "https://lastfm-img.freetls.fastly.net/i/u/300x300/780289181e434cdacc257b55ff7234e2.png"
   },
   "playing": false,
-  "timestamp": "10 Sep 2026, 00:42",
-  "uts": "1789000940",
-  "url": "https://www.last.fm/music/Flavor+Foley/_/Spoken+For",
+  "timestamp": "12 Sep 2026, 00:41",
+  "uts": "1789173710",
+  "url": "https://www.last.fm/music/Dan+Deacon/_/When+I+Was+Done+Dying",
   "artist_url": "",
   "album_url": "",
-  "loved": false,
-  "playcount": 78,
-  "duration": 244000,
-  "generated": "2026-09-11T23:17:53.249177+00:00"
+  "loved": true,
+  "playcount": 89,
+  "duration": 259000,
+  "generated": "2026-09-12T01:12:23.875474+00:00"
 }
