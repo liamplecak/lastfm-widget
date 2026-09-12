@@ -2,21 +2,21 @@
   "track": "Geeks in Love",
   "artist": "Lemon Demon",
   "album": "The FuMP, Vol. 97: January - February 2023",
-  "cover": "https://lastfm-img.freetls.fastly.net/i/u/300x300/c58723484fad878febcffe3133026a0b.jpg",
+  "cover": "https://lastfm-img.freetls.fastly.net/i/u/300x300/0ec2039b70cb5368379cdc8e4901d1d7.jpg",
   "images": {
-    "small": "https://lastfm-img.freetls.fastly.net/i/u/34s/c58723484fad878febcffe3133026a0b.jpg",
-    "medium": "https://lastfm-img.freetls.fastly.net/i/u/64s/c58723484fad878febcffe3133026a0b.jpg",
-    "large": "https://lastfm-img.freetls.fastly.net/i/u/174s/c58723484fad878febcffe3133026a0b.jpg",
-    "extralarge": "https://lastfm-img.freetls.fastly.net/i/u/300x300/c58723484fad878febcffe3133026a0b.jpg"
+    "small": "https://lastfm-img.freetls.fastly.net/i/u/34s/0ec2039b70cb5368379cdc8e4901d1d7.jpg",
+    "medium": "https://lastfm-img.freetls.fastly.net/i/u/64s/0ec2039b70cb5368379cdc8e4901d1d7.jpg",
+    "large": "https://lastfm-img.freetls.fastly.net/i/u/174s/0ec2039b70cb5368379cdc8e4901d1d7.jpg",
+    "extralarge": "https://lastfm-img.freetls.fastly.net/i/u/300x300/0ec2039b70cb5368379cdc8e4901d1d7.jpg"
   },
-  "playing": true,
-  "timestamp": "",
-  "uts": null,
+  "playing": false,
+  "timestamp": "12 Sep 2026, 21:35",
+  "uts": "1789248901",
   "url": "https://www.last.fm/music/Lemon+Demon/_/Geeks+in+Love",
   "artist_url": "",
   "album_url": "",
   "loved": false,
-  "playcount": 26,
+  "playcount": 40,
   "duration": 200000,
-  "generated": "2026-09-12T20:53:59.373767+00:00"
+  "generated": "2026-09-12T22:44:43.079901+00:00"
 }
