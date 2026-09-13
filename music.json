@@ -1,22 +1,22 @@
 {
-  "track": "Geeks in Love",
-  "artist": "Lemon Demon",
-  "album": "The FuMP, Vol. 97: January - February 2023",
-  "cover": "https://lastfm-img.freetls.fastly.net/i/u/300x300/0ec2039b70cb5368379cdc8e4901d1d7.jpg",
+  "track": "Spoken For",
+  "artist": "Flavor Foley",
+  "album": "Spoken For",
+  "cover": "https://lastfm-img.freetls.fastly.net/i/u/300x300/5c05114d08a01184ca28705eb10c6301.jpg",
   "images": {
-    "small": "https://lastfm-img.freetls.fastly.net/i/u/34s/0ec2039b70cb5368379cdc8e4901d1d7.jpg",
-    "medium": "https://lastfm-img.freetls.fastly.net/i/u/64s/0ec2039b70cb5368379cdc8e4901d1d7.jpg",
-    "large": "https://lastfm-img.freetls.fastly.net/i/u/174s/0ec2039b70cb5368379cdc8e4901d1d7.jpg",
-    "extralarge": "https://lastfm-img.freetls.fastly.net/i/u/300x300/0ec2039b70cb5368379cdc8e4901d1d7.jpg"
+    "small": "https://lastfm-img.freetls.fastly.net/i/u/34s/5c05114d08a01184ca28705eb10c6301.jpg",
+    "medium": "https://lastfm-img.freetls.fastly.net/i/u/64s/5c05114d08a01184ca28705eb10c6301.jpg",
+    "large": "https://lastfm-img.freetls.fastly.net/i/u/174s/5c05114d08a01184ca28705eb10c6301.jpg",
+    "extralarge": "https://lastfm-img.freetls.fastly.net/i/u/300x300/5c05114d08a01184ca28705eb10c6301.jpg"
   },
   "playing": false,
-  "timestamp": "12 Sep 2026, 21:35",
-  "uts": "1789248901",
-  "url": "https://www.last.fm/music/Lemon+Demon/_/Geeks+in+Love",
+  "timestamp": "13 Sep 2026, 23:02",
+  "uts": "1789340569",
+  "url": "https://www.last.fm/music/Flavor+Foley/_/Spoken+For",
   "artist_url": "",
   "album_url": "",
   "loved": false,
-  "playcount": 40,
-  "duration": 200000,
-  "generated": "2026-09-13T21:44:03.260491+00:00"
+  "playcount": 84,
+  "duration": 244000,
+  "generated": "2026-09-13T23:35:18.990883+00:00"
 }
