@@ -1,22 +1,22 @@
 {
-  "track": "Spoken For",
-  "artist": "Flavor Foley",
-  "album": "Spoken For",
-  "cover": "https://lastfm-img.freetls.fastly.net/i/u/300x300/5c05114d08a01184ca28705eb10c6301.jpg",
+  "track": "Life Itself",
+  "artist": "Glass Animals",
+  "album": "How to Be a Human Being",
+  "cover": "https://lastfm-img.freetls.fastly.net/i/u/300x300/05646a91f163b15d9f08642bbe170abf.jpg",
   "images": {
-    "small": "https://lastfm-img.freetls.fastly.net/i/u/34s/5c05114d08a01184ca28705eb10c6301.jpg",
-    "medium": "https://lastfm-img.freetls.fastly.net/i/u/64s/5c05114d08a01184ca28705eb10c6301.jpg",
-    "large": "https://lastfm-img.freetls.fastly.net/i/u/174s/5c05114d08a01184ca28705eb10c6301.jpg",
-    "extralarge": "https://lastfm-img.freetls.fastly.net/i/u/300x300/5c05114d08a01184ca28705eb10c6301.jpg"
+    "small": "https://lastfm-img.freetls.fastly.net/i/u/34s/05646a91f163b15d9f08642bbe170abf.jpg",
+    "medium": "https://lastfm-img.freetls.fastly.net/i/u/64s/05646a91f163b15d9f08642bbe170abf.jpg",
+    "large": "https://lastfm-img.freetls.fastly.net/i/u/174s/05646a91f163b15d9f08642bbe170abf.jpg",
+    "extralarge": "https://lastfm-img.freetls.fastly.net/i/u/300x300/05646a91f163b15d9f08642bbe170abf.jpg"
   },
   "playing": false,
-  "timestamp": "13 Sep 2026, 23:02",
-  "uts": "1789340569",
-  "url": "https://www.last.fm/music/Flavor+Foley/_/Spoken+For",
+  "timestamp": "16 Sep 2026, 01:50",
+  "uts": "1789523420",
+  "url": "https://www.last.fm/music/Glass+Animals/_/Life+Itself",
   "artist_url": "",
   "album_url": "",
-  "loved": false,
-  "playcount": 84,
-  "duration": 244000,
-  "generated": "2026-09-15T23:52:50.245625+00:00"
+  "loved": true,
+  "playcount": 114,
+  "duration": 281000,
+  "generated": "2026-09-16T02:46:09.612809+00:00"
 }
