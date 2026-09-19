@@ -1,22 +1,22 @@
 {
-  "track": "Pools",
-  "artist": "Glass Animals",
-  "album": "ZABA (Deluxe)",
-  "cover": "https://lastfm-img.freetls.fastly.net/i/u/300x300/4b47496f9f89ee4f96201ac7e61a883a.jpg",
+  "track": "Poor Grammar",
+  "artist": "Roar",
+  "album": "I'm Not Here To Make Friends",
+  "cover": "https://lastfm-img.freetls.fastly.net/i/u/300x300/52f661b745d643ecc333835b7ae67fb3.png",
   "images": {
-    "small": "https://lastfm-img.freetls.fastly.net/i/u/34s/4b47496f9f89ee4f96201ac7e61a883a.jpg",
-    "medium": "https://lastfm-img.freetls.fastly.net/i/u/64s/4b47496f9f89ee4f96201ac7e61a883a.jpg",
-    "large": "https://lastfm-img.freetls.fastly.net/i/u/174s/4b47496f9f89ee4f96201ac7e61a883a.jpg",
-    "extralarge": "https://lastfm-img.freetls.fastly.net/i/u/300x300/4b47496f9f89ee4f96201ac7e61a883a.jpg"
+    "small": "https://lastfm-img.freetls.fastly.net/i/u/34s/52f661b745d643ecc333835b7ae67fb3.png",
+    "medium": "https://lastfm-img.freetls.fastly.net/i/u/64s/52f661b745d643ecc333835b7ae67fb3.png",
+    "large": "https://lastfm-img.freetls.fastly.net/i/u/174s/52f661b745d643ecc333835b7ae67fb3.png",
+    "extralarge": "https://lastfm-img.freetls.fastly.net/i/u/300x300/52f661b745d643ecc333835b7ae67fb3.png"
   },
-  "playing": false,
-  "timestamp": "18 Sep 2026, 01:05",
-  "uts": "1789693503",
-  "url": "https://www.last.fm/music/Glass+Animals/_/Pools",
+  "playing": true,
+  "timestamp": "",
+  "uts": null,
+  "url": "https://www.last.fm/music/Roar/_/Poor+Grammar",
   "artist_url": "",
   "album_url": "",
-  "loved": true,
-  "playcount": 102,
-  "duration": 288000,
-  "generated": "2026-09-19T01:40:26.143372+00:00"
+  "loved": false,
+  "playcount": 30,
+  "duration": 156000,
+  "generated": "2026-09-19T06:40:34.939041+00:00"
 }
