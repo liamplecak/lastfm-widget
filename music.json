@@ -1,22 +1,22 @@
 {
-  "track": "Poor Grammar",
-  "artist": "Roar",
-  "album": "I'm Not Here To Make Friends",
-  "cover": "https://lastfm-img.freetls.fastly.net/i/u/300x300/52f661b745d643ecc333835b7ae67fb3.png",
+  "track": "A.M. 180",
+  "artist": "Grandaddy",
+  "album": "Under The Western Freeway",
+  "cover": "https://lastfm-img.freetls.fastly.net/i/u/300x300/778cd1329f97449222088c056ffe680a.jpg",
   "images": {
-    "small": "https://lastfm-img.freetls.fastly.net/i/u/34s/52f661b745d643ecc333835b7ae67fb3.png",
-    "medium": "https://lastfm-img.freetls.fastly.net/i/u/64s/52f661b745d643ecc333835b7ae67fb3.png",
-    "large": "https://lastfm-img.freetls.fastly.net/i/u/174s/52f661b745d643ecc333835b7ae67fb3.png",
-    "extralarge": "https://lastfm-img.freetls.fastly.net/i/u/300x300/52f661b745d643ecc333835b7ae67fb3.png"
+    "small": "https://lastfm-img.freetls.fastly.net/i/u/34s/778cd1329f97449222088c056ffe680a.jpg",
+    "medium": "https://lastfm-img.freetls.fastly.net/i/u/64s/778cd1329f97449222088c056ffe680a.jpg",
+    "large": "https://lastfm-img.freetls.fastly.net/i/u/174s/778cd1329f97449222088c056ffe680a.jpg",
+    "extralarge": "https://lastfm-img.freetls.fastly.net/i/u/300x300/778cd1329f97449222088c056ffe680a.jpg"
   },
-  "playing": true,
-  "timestamp": "",
-  "uts": null,
-  "url": "https://www.last.fm/music/Roar/_/Poor+Grammar",
+  "playing": false,
+  "timestamp": "19 Sep 2026, 06:51",
+  "uts": "1789800701",
+  "url": "https://www.last.fm/music/Grandaddy/_/A.M.+180",
   "artist_url": "",
   "album_url": "",
   "loved": false,
-  "playcount": 30,
-  "duration": 156000,
-  "generated": "2026-09-19T06:40:34.939041+00:00"
+  "playcount": 3,
+  "duration": 200000,
+  "generated": "2026-09-19T11:36:09.758577+00:00"
 }
