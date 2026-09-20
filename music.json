@@ -1,22 +1,22 @@
 {
-  "track": "A.M. 180",
-  "artist": "Grandaddy",
-  "album": "Under The Western Freeway",
-  "cover": "https://lastfm-img.freetls.fastly.net/i/u/300x300/778cd1329f97449222088c056ffe680a.jpg",
+  "track": "Tongue Tied",
+  "artist": "Grouplove",
+  "album": "Never Trust a Happy Song",
+  "cover": "https://lastfm-img.freetls.fastly.net/i/u/300x300/1d0c1e7089e24572bcd773d6ef1709f0.png",
   "images": {
-    "small": "https://lastfm-img.freetls.fastly.net/i/u/34s/778cd1329f97449222088c056ffe680a.jpg",
-    "medium": "https://lastfm-img.freetls.fastly.net/i/u/64s/778cd1329f97449222088c056ffe680a.jpg",
-    "large": "https://lastfm-img.freetls.fastly.net/i/u/174s/778cd1329f97449222088c056ffe680a.jpg",
-    "extralarge": "https://lastfm-img.freetls.fastly.net/i/u/300x300/778cd1329f97449222088c056ffe680a.jpg"
+    "small": "https://lastfm-img.freetls.fastly.net/i/u/34s/1d0c1e7089e24572bcd773d6ef1709f0.png",
+    "medium": "https://lastfm-img.freetls.fastly.net/i/u/64s/1d0c1e7089e24572bcd773d6ef1709f0.png",
+    "large": "https://lastfm-img.freetls.fastly.net/i/u/174s/1d0c1e7089e24572bcd773d6ef1709f0.png",
+    "extralarge": "https://lastfm-img.freetls.fastly.net/i/u/300x300/1d0c1e7089e24572bcd773d6ef1709f0.png"
   },
   "playing": false,
-  "timestamp": "19 Sep 2026, 06:51",
-  "uts": "1789800701",
-  "url": "https://www.last.fm/music/Grandaddy/_/A.M.+180",
+  "timestamp": "20 Sep 2026, 06:12",
+  "uts": "1789884760",
+  "url": "https://www.last.fm/music/Grouplove/_/Tongue+Tied",
   "artist_url": "",
   "album_url": "",
   "loved": false,
-  "playcount": 3,
-  "duration": 200000,
-  "generated": "2026-09-20T01:33:42.380933+00:00"
+  "playcount": 95,
+  "duration": 218000,
+  "generated": "2026-09-20T06:55:15.102432+00:00"
 }
