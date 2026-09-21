@@ -1,22 +1,22 @@
 {
-  "track": "Tongue Tied",
-  "artist": "Grouplove",
-  "album": "Never Trust a Happy Song",
-  "cover": "https://lastfm-img.freetls.fastly.net/i/u/300x300/1d0c1e7089e24572bcd773d6ef1709f0.png",
+  "track": "An Eater",
+  "artist": "Matt Martians",
+  "album": "Going Normal",
+  "cover": "https://lastfm-img.freetls.fastly.net/i/u/300x300/88a08dd5863800b405e619a0ff716fd5.jpg",
   "images": {
-    "small": "https://lastfm-img.freetls.fastly.net/i/u/34s/1d0c1e7089e24572bcd773d6ef1709f0.png",
-    "medium": "https://lastfm-img.freetls.fastly.net/i/u/64s/1d0c1e7089e24572bcd773d6ef1709f0.png",
-    "large": "https://lastfm-img.freetls.fastly.net/i/u/174s/1d0c1e7089e24572bcd773d6ef1709f0.png",
-    "extralarge": "https://lastfm-img.freetls.fastly.net/i/u/300x300/1d0c1e7089e24572bcd773d6ef1709f0.png"
+    "small": "https://lastfm-img.freetls.fastly.net/i/u/34s/88a08dd5863800b405e619a0ff716fd5.jpg",
+    "medium": "https://lastfm-img.freetls.fastly.net/i/u/64s/88a08dd5863800b405e619a0ff716fd5.jpg",
+    "large": "https://lastfm-img.freetls.fastly.net/i/u/174s/88a08dd5863800b405e619a0ff716fd5.jpg",
+    "extralarge": "https://lastfm-img.freetls.fastly.net/i/u/300x300/88a08dd5863800b405e619a0ff716fd5.jpg"
   },
   "playing": false,
-  "timestamp": "20 Sep 2026, 06:12",
-  "uts": "1789884760",
-  "url": "https://www.last.fm/music/Grouplove/_/Tongue+Tied",
+  "timestamp": "21 Sep 2026, 07:36",
+  "uts": "1789976201",
+  "url": "https://www.last.fm/music/Matt+Martians/_/An+Eater",
   "artist_url": "",
   "album_url": "",
   "loved": false,
-  "playcount": 95,
-  "duration": 218000,
-  "generated": "2026-09-21T05:32:15.617429+00:00"
+  "playcount": 27,
+  "duration": 147000,
+  "generated": "2026-09-21T11:03:40.806961+00:00"
 }
