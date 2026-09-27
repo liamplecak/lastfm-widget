@@ -1,22 +1,22 @@
 {
-  "track": "Tear You Apart",
-  "artist": "She Wants Revenge",
-  "album": "She Wants Revenge",
-  "cover": "https://lastfm-img.freetls.fastly.net/i/u/300x300/07836c75f23644b5ad10d7cf6662072d.png",
+  "track": "Midnight City",
+  "artist": "M83",
+  "album": "Hurry Up, We're Dreaming",
+  "cover": "https://lastfm-img.freetls.fastly.net/i/u/300x300/16fdad2898a167de51428b9ccbd2317a.jpg",
   "images": {
-    "small": "https://lastfm-img.freetls.fastly.net/i/u/34s/07836c75f23644b5ad10d7cf6662072d.png",
-    "medium": "https://lastfm-img.freetls.fastly.net/i/u/64s/07836c75f23644b5ad10d7cf6662072d.png",
-    "large": "https://lastfm-img.freetls.fastly.net/i/u/174s/07836c75f23644b5ad10d7cf6662072d.png",
-    "extralarge": "https://lastfm-img.freetls.fastly.net/i/u/300x300/07836c75f23644b5ad10d7cf6662072d.png"
+    "small": "https://lastfm-img.freetls.fastly.net/i/u/34s/16fdad2898a167de51428b9ccbd2317a.jpg",
+    "medium": "https://lastfm-img.freetls.fastly.net/i/u/64s/16fdad2898a167de51428b9ccbd2317a.jpg",
+    "large": "https://lastfm-img.freetls.fastly.net/i/u/174s/16fdad2898a167de51428b9ccbd2317a.jpg",
+    "extralarge": "https://lastfm-img.freetls.fastly.net/i/u/300x300/16fdad2898a167de51428b9ccbd2317a.jpg"
   },
   "playing": true,
   "timestamp": "",
   "uts": null,
-  "url": "https://www.last.fm/music/She+Wants+Revenge/_/Tear+You+Apart",
+  "url": "https://www.last.fm/music/M83/_/Midnight+City",
   "artist_url": "",
   "album_url": "",
   "loved": false,
-  "playcount": 0,
-  "duration": 283000,
-  "generated": "2026-09-26T23:11:07.779673+00:00"
+  "playcount": 16,
+  "duration": 243000,
+  "generated": "2026-09-27T01:30:16.982772+00:00"
 }
