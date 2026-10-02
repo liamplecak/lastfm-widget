@@ -1,22 +1,22 @@
 {
-  "track": "Droopy Likes Your Face",
-  "artist": "C418",
-  "album": "Minecraft - Volume Alpha",
-  "cover": "https://lastfm-img.freetls.fastly.net/i/u/300x300/b9f87564f51e402c843e109a7021dc83.png",
+  "track": "Sinking Feeling",
+  "artist": "Jack Conte",
+  "album": "VS4",
+  "cover": "https://lastfm-img.freetls.fastly.net/i/u/300x300/18a1c331b53f4d2881991ea84aa4432b.jpg",
   "images": {
-    "small": "https://lastfm-img.freetls.fastly.net/i/u/34s/b9f87564f51e402c843e109a7021dc83.png",
-    "medium": "https://lastfm-img.freetls.fastly.net/i/u/64s/b9f87564f51e402c843e109a7021dc83.png",
-    "large": "https://lastfm-img.freetls.fastly.net/i/u/174s/b9f87564f51e402c843e109a7021dc83.png",
-    "extralarge": "https://lastfm-img.freetls.fastly.net/i/u/300x300/b9f87564f51e402c843e109a7021dc83.png"
+    "small": "https://lastfm-img.freetls.fastly.net/i/u/34s/18a1c331b53f4d2881991ea84aa4432b.jpg",
+    "medium": "https://lastfm-img.freetls.fastly.net/i/u/64s/18a1c331b53f4d2881991ea84aa4432b.jpg",
+    "large": "https://lastfm-img.freetls.fastly.net/i/u/174s/18a1c331b53f4d2881991ea84aa4432b.jpg",
+    "extralarge": "https://lastfm-img.freetls.fastly.net/i/u/300x300/18a1c331b53f4d2881991ea84aa4432b.jpg"
   },
-  "playing": false,
-  "timestamp": "30 Sep 2026, 19:10",
-  "uts": "1790795454",
-  "url": "https://www.last.fm/music/C418/_/Droopy+Likes+Your+Face",
+  "playing": true,
+  "timestamp": "",
+  "uts": null,
+  "url": "https://www.last.fm/music/Jack+Conte/_/Sinking+Feeling",
   "artist_url": "",
   "album_url": "",
   "loved": false,
-  "playcount": 1,
-  "duration": 116000,
-  "generated": "2026-10-02T12:45:27.896666+00:00"
+  "playcount": 77,
+  "duration": 161000,
+  "generated": "2026-10-02T18:03:34.589816+00:00"
 }
