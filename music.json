@@ -1,22 +1,22 @@
 {
-  "track": "Time to Pretend",
-  "artist": "MGMT",
-  "album": "Time To Pretend",
-  "cover": "https://lastfm-img.freetls.fastly.net/i/u/300x300/6757527496191c1771f816a406328dcb.jpg",
+  "track": "Like Or Like Like",
+  "artist": "Miniature Tigers",
+  "album": "Tell It To The Volcano",
+  "cover": "https://lastfm-img.freetls.fastly.net/i/u/300x300/3474874790363a0e113c5dfaff486a37.jpg",
   "images": {
-    "small": "https://lastfm-img.freetls.fastly.net/i/u/34s/6757527496191c1771f816a406328dcb.jpg",
-    "medium": "https://lastfm-img.freetls.fastly.net/i/u/64s/6757527496191c1771f816a406328dcb.jpg",
-    "large": "https://lastfm-img.freetls.fastly.net/i/u/174s/6757527496191c1771f816a406328dcb.jpg",
-    "extralarge": "https://lastfm-img.freetls.fastly.net/i/u/300x300/6757527496191c1771f816a406328dcb.jpg"
+    "small": "https://lastfm-img.freetls.fastly.net/i/u/34s/3474874790363a0e113c5dfaff486a37.jpg",
+    "medium": "https://lastfm-img.freetls.fastly.net/i/u/64s/3474874790363a0e113c5dfaff486a37.jpg",
+    "large": "https://lastfm-img.freetls.fastly.net/i/u/174s/3474874790363a0e113c5dfaff486a37.jpg",
+    "extralarge": "https://lastfm-img.freetls.fastly.net/i/u/300x300/3474874790363a0e113c5dfaff486a37.jpg"
   },
-  "playing": true,
-  "timestamp": "",
-  "uts": null,
-  "url": "https://www.last.fm/music/MGMT/_/Time+to+Pretend",
+  "playing": false,
+  "timestamp": "03 Oct 2026, 22:31",
+  "uts": "1791066706",
+  "url": "https://www.last.fm/music/Miniature+Tigers/_/Like+Or+Like+Like",
   "artist_url": "",
   "album_url": "",
   "loved": false,
-  "playcount": 106,
-  "duration": 261000,
-  "generated": "2026-10-04T05:44:43.422762+00:00"
+  "playcount": 35,
+  "duration": 156000,
+  "generated": "2026-10-04T11:19:20.281645+00:00"
 }
