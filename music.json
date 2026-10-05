@@ -1,22 +1,22 @@
 {
-  "track": "Coming Undone",
-  "artist": "Korn",
-  "album": "See You on the Other Side",
-  "cover": "https://lastfm-img.freetls.fastly.net/i/u/300x300/84dd0944c5fe4d0e9b533ea1039a70aa.png",
+  "track": "Self Care",
+  "artist": "Penelope Scott",
+  "album": "Hazards",
+  "cover": "https://lastfm-img.freetls.fastly.net/i/u/300x300/47a5325f10ddc01f4041b27205d4201e.jpg",
   "images": {
-    "small": "https://lastfm-img.freetls.fastly.net/i/u/34s/84dd0944c5fe4d0e9b533ea1039a70aa.png",
-    "medium": "https://lastfm-img.freetls.fastly.net/i/u/64s/84dd0944c5fe4d0e9b533ea1039a70aa.png",
-    "large": "https://lastfm-img.freetls.fastly.net/i/u/174s/84dd0944c5fe4d0e9b533ea1039a70aa.png",
-    "extralarge": "https://lastfm-img.freetls.fastly.net/i/u/300x300/84dd0944c5fe4d0e9b533ea1039a70aa.png"
+    "small": "https://lastfm-img.freetls.fastly.net/i/u/34s/47a5325f10ddc01f4041b27205d4201e.jpg",
+    "medium": "https://lastfm-img.freetls.fastly.net/i/u/64s/47a5325f10ddc01f4041b27205d4201e.jpg",
+    "large": "https://lastfm-img.freetls.fastly.net/i/u/174s/47a5325f10ddc01f4041b27205d4201e.jpg",
+    "extralarge": "https://lastfm-img.freetls.fastly.net/i/u/300x300/47a5325f10ddc01f4041b27205d4201e.jpg"
   },
-  "playing": true,
-  "timestamp": "",
-  "uts": null,
-  "url": "https://www.last.fm/music/Korn/_/Coming+Undone",
+  "playing": false,
+  "timestamp": "05 Oct 2026, 09:24",
+  "uts": "1791192288",
+  "url": "https://www.last.fm/music/Penelope+Scott/_/Self+Care",
   "artist_url": "",
   "album_url": "",
   "loved": false,
-  "playcount": 24,
-  "duration": 199000,
-  "generated": "2026-10-05T06:27:52.812890+00:00"
+  "playcount": 53,
+  "duration": 83000,
+  "generated": "2026-10-05T15:07:48.370027+00:00"
 }
