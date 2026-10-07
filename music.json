@@ -1,22 +1,22 @@
 {
-  "track": "My Ordinary Life",
-  "artist": "The Living Tombstone",
-  "album": "My Ordinary Life",
-  "cover": "https://lastfm-img.freetls.fastly.net/i/u/300x300/1c950c3d48bb8ded40c4cb27b736837b.jpg",
+  "track": "New Person, Same Old Mistakes",
+  "artist": "Tame Impala",
+  "album": "Currents",
+  "cover": "https://lastfm-img.freetls.fastly.net/i/u/300x300/dd45b0438a315aed98b5830aa2fc43c5.jpg",
   "images": {
-    "small": "https://lastfm-img.freetls.fastly.net/i/u/34s/1c950c3d48bb8ded40c4cb27b736837b.jpg",
-    "medium": "https://lastfm-img.freetls.fastly.net/i/u/64s/1c950c3d48bb8ded40c4cb27b736837b.jpg",
-    "large": "https://lastfm-img.freetls.fastly.net/i/u/174s/1c950c3d48bb8ded40c4cb27b736837b.jpg",
-    "extralarge": "https://lastfm-img.freetls.fastly.net/i/u/300x300/1c950c3d48bb8ded40c4cb27b736837b.jpg"
+    "small": "https://lastfm-img.freetls.fastly.net/i/u/34s/dd45b0438a315aed98b5830aa2fc43c5.jpg",
+    "medium": "https://lastfm-img.freetls.fastly.net/i/u/64s/dd45b0438a315aed98b5830aa2fc43c5.jpg",
+    "large": "https://lastfm-img.freetls.fastly.net/i/u/174s/dd45b0438a315aed98b5830aa2fc43c5.jpg",
+    "extralarge": "https://lastfm-img.freetls.fastly.net/i/u/300x300/dd45b0438a315aed98b5830aa2fc43c5.jpg"
   },
-  "playing": false,
-  "timestamp": "07 Oct 2026, 17:51",
-  "uts": "1791395488",
-  "url": "https://www.last.fm/music/The+Living+Tombstone/_/My+Ordinary+Life",
+  "playing": true,
+  "timestamp": "",
+  "uts": null,
+  "url": "https://www.last.fm/music/Tame+Impala/_/New+Person,+Same+Old+Mistakes",
   "artist_url": "",
   "album_url": "",
   "loved": true,
-  "playcount": 220,
-  "duration": 237000,
-  "generated": "2026-10-07T18:52:21.739559+00:00"
+  "playcount": 211,
+  "duration": 363000,
+  "generated": "2026-10-07T23:24:49.498725+00:00"
 }
