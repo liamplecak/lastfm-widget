@@ -1,22 +1,22 @@
 {
-  "track": "Self Care",
-  "artist": "Penelope Scott",
-  "album": "Hazards",
-  "cover": "https://lastfm-img.freetls.fastly.net/i/u/300x300/47a5325f10ddc01f4041b27205d4201e.jpg",
+  "track": "Rest My Chemistry",
+  "artist": "Interpol",
+  "album": "Our Love to Admire",
+  "cover": "https://lastfm-img.freetls.fastly.net/i/u/300x300/0c5e54cd3414f98ed8ee76b46cf6ab2d.jpg",
   "images": {
-    "small": "https://lastfm-img.freetls.fastly.net/i/u/34s/47a5325f10ddc01f4041b27205d4201e.jpg",
-    "medium": "https://lastfm-img.freetls.fastly.net/i/u/64s/47a5325f10ddc01f4041b27205d4201e.jpg",
-    "large": "https://lastfm-img.freetls.fastly.net/i/u/174s/47a5325f10ddc01f4041b27205d4201e.jpg",
-    "extralarge": "https://lastfm-img.freetls.fastly.net/i/u/300x300/47a5325f10ddc01f4041b27205d4201e.jpg"
+    "small": "https://lastfm-img.freetls.fastly.net/i/u/34s/0c5e54cd3414f98ed8ee76b46cf6ab2d.jpg",
+    "medium": "https://lastfm-img.freetls.fastly.net/i/u/64s/0c5e54cd3414f98ed8ee76b46cf6ab2d.jpg",
+    "large": "https://lastfm-img.freetls.fastly.net/i/u/174s/0c5e54cd3414f98ed8ee76b46cf6ab2d.jpg",
+    "extralarge": "https://lastfm-img.freetls.fastly.net/i/u/300x300/0c5e54cd3414f98ed8ee76b46cf6ab2d.jpg"
   },
-  "playing": false,
-  "timestamp": "05 Oct 2026, 09:24",
-  "uts": "1791192288",
-  "url": "https://www.last.fm/music/Penelope+Scott/_/Self+Care",
+  "playing": true,
+  "timestamp": "",
+  "uts": null,
+  "url": "https://www.last.fm/music/Interpol/_/Rest+My+Chemistry",
   "artist_url": "",
   "album_url": "",
   "loved": false,
-  "playcount": 53,
-  "duration": 83000,
-  "generated": "2026-10-07T00:04:10.517899+00:00"
+  "playcount": 18,
+  "duration": 303000,
+  "generated": "2026-10-07T05:47:45.447433+00:00"
 }
