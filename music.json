@@ -1,5 +1,5 @@
 {
-  "track": "New Person, Same Old Mistakes",
+  "track": "Reality in Motion",
   "artist": "Tame Impala",
   "album": "Currents",
   "cover": "https://lastfm-img.freetls.fastly.net/i/u/300x300/dd45b0438a315aed98b5830aa2fc43c5.jpg",
@@ -9,14 +9,14 @@
     "large": "https://lastfm-img.freetls.fastly.net/i/u/174s/dd45b0438a315aed98b5830aa2fc43c5.jpg",
     "extralarge": "https://lastfm-img.freetls.fastly.net/i/u/300x300/dd45b0438a315aed98b5830aa2fc43c5.jpg"
   },
-  "playing": true,
-  "timestamp": "",
-  "uts": null,
-  "url": "https://www.last.fm/music/Tame+Impala/_/New+Person,+Same+Old+Mistakes",
+  "playing": false,
+  "timestamp": "08 Oct 2026, 01:26",
+  "uts": "1791422765",
+  "url": "https://www.last.fm/music/Tame+Impala/_/Reality+in+Motion",
   "artist_url": "",
   "album_url": "",
-  "loved": true,
-  "playcount": 211,
-  "duration": 363000,
-  "generated": "2026-10-07T23:24:49.498725+00:00"
+  "loved": false,
+  "playcount": 14,
+  "duration": 252000,
+  "generated": "2026-10-08T02:48:43.222456+00:00"
 }
