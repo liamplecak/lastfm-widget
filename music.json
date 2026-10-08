@@ -9,14 +9,14 @@
     "large": "https://lastfm-img.freetls.fastly.net/i/u/174s/b1f36c7989127ad6cabb81da8d5d3c4d.jpg",
     "extralarge": "https://lastfm-img.freetls.fastly.net/i/u/300x300/b1f36c7989127ad6cabb81da8d5d3c4d.jpg"
   },
-  "playing": true,
-  "timestamp": "",
-  "uts": null,
+  "playing": false,
+  "timestamp": "08 Oct 2026, 09:38",
+  "uts": "1791452305",
   "url": "https://www.last.fm/music/MIMIDEATH/_/abusive",
   "artist_url": "",
   "album_url": "",
   "loved": false,
-  "playcount": 1057,
+  "playcount": 1064,
   "duration": 72000,
-  "generated": "2026-10-08T09:32:17.202651+00:00"
+  "generated": "2026-10-08T16:53:48.842606+00:00"
 }
