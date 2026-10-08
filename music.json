@@ -1,22 +1,22 @@
 {
-  "track": "Reality in Motion",
-  "artist": "Tame Impala",
-  "album": "Currents",
-  "cover": "https://lastfm-img.freetls.fastly.net/i/u/300x300/dd45b0438a315aed98b5830aa2fc43c5.jpg",
+  "track": "abusive",
+  "artist": "MIMIDEATH",
+  "album": "FOAR EVERYWUN FRUM MIMI",
+  "cover": "https://lastfm-img.freetls.fastly.net/i/u/300x300/b1f36c7989127ad6cabb81da8d5d3c4d.jpg",
   "images": {
-    "small": "https://lastfm-img.freetls.fastly.net/i/u/34s/dd45b0438a315aed98b5830aa2fc43c5.jpg",
-    "medium": "https://lastfm-img.freetls.fastly.net/i/u/64s/dd45b0438a315aed98b5830aa2fc43c5.jpg",
-    "large": "https://lastfm-img.freetls.fastly.net/i/u/174s/dd45b0438a315aed98b5830aa2fc43c5.jpg",
-    "extralarge": "https://lastfm-img.freetls.fastly.net/i/u/300x300/dd45b0438a315aed98b5830aa2fc43c5.jpg"
+    "small": "https://lastfm-img.freetls.fastly.net/i/u/34s/b1f36c7989127ad6cabb81da8d5d3c4d.jpg",
+    "medium": "https://lastfm-img.freetls.fastly.net/i/u/64s/b1f36c7989127ad6cabb81da8d5d3c4d.jpg",
+    "large": "https://lastfm-img.freetls.fastly.net/i/u/174s/b1f36c7989127ad6cabb81da8d5d3c4d.jpg",
+    "extralarge": "https://lastfm-img.freetls.fastly.net/i/u/300x300/b1f36c7989127ad6cabb81da8d5d3c4d.jpg"
   },
-  "playing": false,
-  "timestamp": "08 Oct 2026, 01:26",
-  "uts": "1791422765",
-  "url": "https://www.last.fm/music/Tame+Impala/_/Reality+in+Motion",
+  "playing": true,
+  "timestamp": "",
+  "uts": null,
+  "url": "https://www.last.fm/music/MIMIDEATH/_/abusive",
   "artist_url": "",
   "album_url": "",
   "loved": false,
-  "playcount": 14,
-  "duration": 252000,
-  "generated": "2026-10-08T02:48:43.222456+00:00"
+  "playcount": 1057,
+  "duration": 72000,
+  "generated": "2026-10-08T09:32:17.202651+00:00"
 }
