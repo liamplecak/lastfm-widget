@@ -1,22 +1,22 @@
 {
-  "track": "Heart of Glass (Live from the iHeart Festival)",
-  "artist": "Miley Cyrus",
-  "album": "Plastic Hearts",
-  "cover": "https://lastfm-img.freetls.fastly.net/i/u/300x300/69bdee0d5985c91adff44a4e04055b2c.png",
+  "track": "Absinthe",
+  "artist": "I DONT KNOW HOW BUT THEY FOUND ME",
+  "album": "1981 Extended Play",
+  "cover": "https://lastfm-img.freetls.fastly.net/i/u/300x300/fafd0580b3b4b013cf2b4a6b977d3d84.jpg",
   "images": {
-    "small": "https://lastfm-img.freetls.fastly.net/i/u/34s/69bdee0d5985c91adff44a4e04055b2c.png",
-    "medium": "https://lastfm-img.freetls.fastly.net/i/u/64s/69bdee0d5985c91adff44a4e04055b2c.png",
-    "large": "https://lastfm-img.freetls.fastly.net/i/u/174s/69bdee0d5985c91adff44a4e04055b2c.png",
-    "extralarge": "https://lastfm-img.freetls.fastly.net/i/u/300x300/69bdee0d5985c91adff44a4e04055b2c.png"
+    "small": "https://lastfm-img.freetls.fastly.net/i/u/34s/fafd0580b3b4b013cf2b4a6b977d3d84.jpg",
+    "medium": "https://lastfm-img.freetls.fastly.net/i/u/64s/fafd0580b3b4b013cf2b4a6b977d3d84.jpg",
+    "large": "https://lastfm-img.freetls.fastly.net/i/u/174s/fafd0580b3b4b013cf2b4a6b977d3d84.jpg",
+    "extralarge": "https://lastfm-img.freetls.fastly.net/i/u/300x300/fafd0580b3b4b013cf2b4a6b977d3d84.jpg"
   },
-  "playing": false,
-  "timestamp": "10 Oct 2026, 14:04",
-  "uts": "1791641090",
-  "url": "https://www.last.fm/music/Miley+Cyrus/_/Heart+of+Glass+(Live+from+the+iHeart+Festival)",
+  "playing": true,
+  "timestamp": "",
+  "uts": null,
+  "url": "https://www.last.fm/music/I+DONT+KNOW+HOW+BUT+THEY+FOUND+ME/_/Absinthe",
   "artist_url": "",
   "album_url": "",
-  "loved": true,
-  "playcount": 138,
-  "duration": 0,
-  "generated": "2026-10-13T18:24:57.363785+00:00"
+  "loved": false,
+  "playcount": 37,
+  "duration": 183000,
+  "generated": "2026-10-13T22:58:59.087927+00:00"
 }
