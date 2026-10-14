@@ -9,14 +9,14 @@
     "large": "https://lastfm-img.freetls.fastly.net/i/u/174s/fafd0580b3b4b013cf2b4a6b977d3d84.jpg",
     "extralarge": "https://lastfm-img.freetls.fastly.net/i/u/300x300/fafd0580b3b4b013cf2b4a6b977d3d84.jpg"
   },
-  "playing": true,
-  "timestamp": "",
-  "uts": null,
+  "playing": false,
+  "timestamp": "13 Oct 2026, 23:54",
+  "uts": "1791935652",
   "url": "https://www.last.fm/music/I+DONT+KNOW+HOW+BUT+THEY+FOUND+ME/_/Absinthe",
   "artist_url": "",
   "album_url": "",
   "loved": false,
-  "playcount": 37,
+  "playcount": 56,
   "duration": 183000,
-  "generated": "2026-10-13T22:58:59.087927+00:00"
+  "generated": "2026-10-14T01:41:37.261976+00:00"
 }
