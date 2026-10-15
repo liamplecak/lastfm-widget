@@ -1,22 +1,22 @@
 {
-  "track": "Absinthe",
-  "artist": "I DONT KNOW HOW BUT THEY FOUND ME",
-  "album": "1981 Extended Play",
-  "cover": "https://lastfm-img.freetls.fastly.net/i/u/300x300/fafd0580b3b4b013cf2b4a6b977d3d84.jpg",
+  "track": "Beggin'",
+  "artist": "M\u00e5neskin",
+  "album": "Chosen",
+  "cover": "https://lastfm-img.freetls.fastly.net/i/u/300x300/1fe18f6f06775984a4546a7fac8d88bd.png",
   "images": {
-    "small": "https://lastfm-img.freetls.fastly.net/i/u/34s/fafd0580b3b4b013cf2b4a6b977d3d84.jpg",
-    "medium": "https://lastfm-img.freetls.fastly.net/i/u/64s/fafd0580b3b4b013cf2b4a6b977d3d84.jpg",
-    "large": "https://lastfm-img.freetls.fastly.net/i/u/174s/fafd0580b3b4b013cf2b4a6b977d3d84.jpg",
-    "extralarge": "https://lastfm-img.freetls.fastly.net/i/u/300x300/fafd0580b3b4b013cf2b4a6b977d3d84.jpg"
+    "small": "https://lastfm-img.freetls.fastly.net/i/u/34s/1fe18f6f06775984a4546a7fac8d88bd.png",
+    "medium": "https://lastfm-img.freetls.fastly.net/i/u/64s/1fe18f6f06775984a4546a7fac8d88bd.png",
+    "large": "https://lastfm-img.freetls.fastly.net/i/u/174s/1fe18f6f06775984a4546a7fac8d88bd.png",
+    "extralarge": "https://lastfm-img.freetls.fastly.net/i/u/300x300/1fe18f6f06775984a4546a7fac8d88bd.png"
   },
-  "playing": false,
-  "timestamp": "13 Oct 2026, 23:54",
-  "uts": "1791935652",
-  "url": "https://www.last.fm/music/I+DONT+KNOW+HOW+BUT+THEY+FOUND+ME/_/Absinthe",
+  "playing": true,
+  "timestamp": "",
+  "uts": null,
+  "url": "https://www.last.fm/music/M%C3%A5neskin/_/Beggin%27",
   "artist_url": "",
   "album_url": "",
   "loved": false,
-  "playcount": 56,
-  "duration": 183000,
-  "generated": "2026-10-15T16:52:12.337677+00:00"
+  "playcount": 15,
+  "duration": 209000,
+  "generated": "2026-10-15T20:08:43.042466+00:00"
 }
