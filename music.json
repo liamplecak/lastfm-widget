@@ -9,14 +9,14 @@
     "large": "https://lastfm-img.freetls.fastly.net/i/u/174s/1fe18f6f06775984a4546a7fac8d88bd.png",
     "extralarge": "https://lastfm-img.freetls.fastly.net/i/u/300x300/1fe18f6f06775984a4546a7fac8d88bd.png"
   },
-  "playing": true,
-  "timestamp": "",
-  "uts": null,
+  "playing": false,
+  "timestamp": "15 Oct 2026, 21:20",
+  "uts": "1792099231",
   "url": "https://www.last.fm/music/M%C3%A5neskin/_/Beggin%27",
   "artist_url": "",
   "album_url": "",
   "loved": false,
-  "playcount": 15,
+  "playcount": 40,
   "duration": 209000,
-  "generated": "2026-10-15T20:08:43.042466+00:00"
+  "generated": "2026-10-15T23:02:27.180477+00:00"
 }
