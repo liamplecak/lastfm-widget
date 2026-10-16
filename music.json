@@ -1,22 +1,22 @@
 {
-  "track": "Beggin'",
-  "artist": "M\u00e5neskin",
-  "album": "Chosen",
-  "cover": "https://lastfm-img.freetls.fastly.net/i/u/300x300/1fe18f6f06775984a4546a7fac8d88bd.png",
+  "track": "Mis",
+  "artist": "Alex G",
+  "album": "RULES",
+  "cover": "https://lastfm-img.freetls.fastly.net/i/u/300x300/6b5cbb52f6a496fff407dc736a8a6235.jpg",
   "images": {
-    "small": "https://lastfm-img.freetls.fastly.net/i/u/34s/1fe18f6f06775984a4546a7fac8d88bd.png",
-    "medium": "https://lastfm-img.freetls.fastly.net/i/u/64s/1fe18f6f06775984a4546a7fac8d88bd.png",
-    "large": "https://lastfm-img.freetls.fastly.net/i/u/174s/1fe18f6f06775984a4546a7fac8d88bd.png",
-    "extralarge": "https://lastfm-img.freetls.fastly.net/i/u/300x300/1fe18f6f06775984a4546a7fac8d88bd.png"
+    "small": "https://lastfm-img.freetls.fastly.net/i/u/34s/6b5cbb52f6a496fff407dc736a8a6235.jpg",
+    "medium": "https://lastfm-img.freetls.fastly.net/i/u/64s/6b5cbb52f6a496fff407dc736a8a6235.jpg",
+    "large": "https://lastfm-img.freetls.fastly.net/i/u/174s/6b5cbb52f6a496fff407dc736a8a6235.jpg",
+    "extralarge": "https://lastfm-img.freetls.fastly.net/i/u/300x300/6b5cbb52f6a496fff407dc736a8a6235.jpg"
   },
-  "playing": false,
-  "timestamp": "15 Oct 2026, 21:20",
-  "uts": "1792099231",
-  "url": "https://www.last.fm/music/M%C3%A5neskin/_/Beggin%27",
+  "playing": true,
+  "timestamp": "",
+  "uts": null,
+  "url": "https://www.last.fm/music/Alex+G/_/Mis",
   "artist_url": "",
   "album_url": "",
-  "loved": false,
-  "playcount": 40,
-  "duration": 209000,
-  "generated": "2026-10-16T10:27:15.795166+00:00"
+  "loved": true,
+  "playcount": 69,
+  "duration": 213000,
+  "generated": "2026-10-16T14:57:35.293424+00:00"
 }
