@@ -1,22 +1,22 @@
 {
-  "track": "Bad Bad Things",
-  "artist": "AJJ",
-  "album": "People Who Can Eat People are the Luckiest People in the World",
-  "cover": "https://lastfm-img.freetls.fastly.net/i/u/300x300/08e4de238074b8c72b561b69627e50ce.jpg",
+  "track": "Past Life",
+  "artist": "Tame Impala",
+  "album": "Currents",
+  "cover": "https://lastfm-img.freetls.fastly.net/i/u/300x300/dd45b0438a315aed98b5830aa2fc43c5.jpg",
   "images": {
-    "small": "https://lastfm-img.freetls.fastly.net/i/u/34s/08e4de238074b8c72b561b69627e50ce.jpg",
-    "medium": "https://lastfm-img.freetls.fastly.net/i/u/64s/08e4de238074b8c72b561b69627e50ce.jpg",
-    "large": "https://lastfm-img.freetls.fastly.net/i/u/174s/08e4de238074b8c72b561b69627e50ce.jpg",
-    "extralarge": "https://lastfm-img.freetls.fastly.net/i/u/300x300/08e4de238074b8c72b561b69627e50ce.jpg"
+    "small": "https://lastfm-img.freetls.fastly.net/i/u/34s/dd45b0438a315aed98b5830aa2fc43c5.jpg",
+    "medium": "https://lastfm-img.freetls.fastly.net/i/u/64s/dd45b0438a315aed98b5830aa2fc43c5.jpg",
+    "large": "https://lastfm-img.freetls.fastly.net/i/u/174s/dd45b0438a315aed98b5830aa2fc43c5.jpg",
+    "extralarge": "https://lastfm-img.freetls.fastly.net/i/u/300x300/dd45b0438a315aed98b5830aa2fc43c5.jpg"
   },
-  "playing": false,
-  "timestamp": "23 Oct 2026, 07:07",
-  "uts": "1792739237",
-  "url": "https://www.last.fm/music/AJJ/_/Bad+Bad+Things",
+  "playing": true,
+  "timestamp": "",
+  "uts": null,
+  "url": "https://www.last.fm/music/Tame+Impala/_/Past+Life",
   "artist_url": "",
   "album_url": "",
   "loved": false,
-  "playcount": 86,
-  "duration": 119000,
-  "generated": "2026-10-23T19:20:15.705354+00:00"
+  "playcount": 14,
+  "duration": 228000,
+  "generated": "2026-10-23T22:27:35.166584+00:00"
 }
