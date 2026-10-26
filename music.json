@@ -1,22 +1,22 @@
 {
-  "track": "Flightless Bird",
-  "artist": "Roar",
-  "album": "I'm Not Here To Make Friends",
-  "cover": "https://lastfm-img.freetls.fastly.net/i/u/300x300/52f661b745d643ecc333835b7ae67fb3.png",
+  "track": "Youthinasia",
+  "artist": "The Skin Cells",
+  "album": "DEMO(H)",
+  "cover": "https://lastfm-img.freetls.fastly.net/i/u/300x300/5874de165375bea22603c51a98c76953.jpg",
   "images": {
-    "small": "https://lastfm-img.freetls.fastly.net/i/u/34s/52f661b745d643ecc333835b7ae67fb3.png",
-    "medium": "https://lastfm-img.freetls.fastly.net/i/u/64s/52f661b745d643ecc333835b7ae67fb3.png",
-    "large": "https://lastfm-img.freetls.fastly.net/i/u/174s/52f661b745d643ecc333835b7ae67fb3.png",
-    "extralarge": "https://lastfm-img.freetls.fastly.net/i/u/300x300/52f661b745d643ecc333835b7ae67fb3.png"
+    "small": "https://lastfm-img.freetls.fastly.net/i/u/34s/5874de165375bea22603c51a98c76953.jpg",
+    "medium": "https://lastfm-img.freetls.fastly.net/i/u/64s/5874de165375bea22603c51a98c76953.jpg",
+    "large": "https://lastfm-img.freetls.fastly.net/i/u/174s/5874de165375bea22603c51a98c76953.jpg",
+    "extralarge": "https://lastfm-img.freetls.fastly.net/i/u/300x300/5874de165375bea22603c51a98c76953.jpg"
   },
-  "playing": false,
-  "timestamp": "26 Oct 2026, 18:13",
-  "uts": "1793038384",
-  "url": "https://www.last.fm/music/Roar/_/Flightless+Bird",
+  "playing": true,
+  "timestamp": "",
+  "uts": null,
+  "url": "https://www.last.fm/music/The+Skin+Cells/_/Youthinasia",
   "artist_url": "",
   "album_url": "",
   "loved": true,
-  "playcount": 107,
-  "duration": 213000,
-  "generated": "2026-10-26T19:40:29.740008+00:00"
+  "playcount": 140,
+  "duration": 117000,
+  "generated": "2026-10-26T23:22:33.158794+00:00"
 }
