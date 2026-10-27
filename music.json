@@ -1,22 +1,22 @@
 {
-  "track": "Youthinasia",
-  "artist": "The Skin Cells",
-  "album": "DEMO(H)",
-  "cover": "https://lastfm-img.freetls.fastly.net/i/u/300x300/5874de165375bea22603c51a98c76953.jpg",
+  "track": "The Dismemberment Song",
+  "artist": "Blue Kid",
+  "album": "Upright, Love",
+  "cover": "https://lastfm-img.freetls.fastly.net/i/u/300x300/27a8ea61af894a1aaa72d264b5d5fc48.jpg",
   "images": {
-    "small": "https://lastfm-img.freetls.fastly.net/i/u/34s/5874de165375bea22603c51a98c76953.jpg",
-    "medium": "https://lastfm-img.freetls.fastly.net/i/u/64s/5874de165375bea22603c51a98c76953.jpg",
-    "large": "https://lastfm-img.freetls.fastly.net/i/u/174s/5874de165375bea22603c51a98c76953.jpg",
-    "extralarge": "https://lastfm-img.freetls.fastly.net/i/u/300x300/5874de165375bea22603c51a98c76953.jpg"
+    "small": "https://lastfm-img.freetls.fastly.net/i/u/34s/27a8ea61af894a1aaa72d264b5d5fc48.jpg",
+    "medium": "https://lastfm-img.freetls.fastly.net/i/u/64s/27a8ea61af894a1aaa72d264b5d5fc48.jpg",
+    "large": "https://lastfm-img.freetls.fastly.net/i/u/174s/27a8ea61af894a1aaa72d264b5d5fc48.jpg",
+    "extralarge": "https://lastfm-img.freetls.fastly.net/i/u/300x300/27a8ea61af894a1aaa72d264b5d5fc48.jpg"
   },
-  "playing": true,
-  "timestamp": "",
-  "uts": null,
-  "url": "https://www.last.fm/music/The+Skin+Cells/_/Youthinasia",
+  "playing": false,
+  "timestamp": "27 Oct 2026, 00:37",
+  "uts": "1793061444",
+  "url": "https://www.last.fm/music/Blue+Kid/_/The+Dismemberment+Song",
   "artist_url": "",
   "album_url": "",
-  "loved": true,
-  "playcount": 140,
-  "duration": 117000,
-  "generated": "2026-10-26T23:22:33.158794+00:00"
+  "loved": false,
+  "playcount": 15,
+  "duration": 277000,
+  "generated": "2026-10-27T02:14:35.478266+00:00"
 }
