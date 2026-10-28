@@ -1,5 +1,5 @@
 {
-  "track": "Past Life",
+  "track": "Eventually",
   "artist": "Tame Impala",
   "album": "Currents",
   "cover": "https://lastfm-img.freetls.fastly.net/i/u/300x300/dd45b0438a315aed98b5830aa2fc43c5.jpg",
@@ -9,14 +9,14 @@
     "large": "https://lastfm-img.freetls.fastly.net/i/u/174s/dd45b0438a315aed98b5830aa2fc43c5.jpg",
     "extralarge": "https://lastfm-img.freetls.fastly.net/i/u/300x300/dd45b0438a315aed98b5830aa2fc43c5.jpg"
   },
-  "playing": true,
-  "timestamp": "",
-  "uts": null,
-  "url": "https://www.last.fm/music/Tame+Impala/_/Past+Life",
+  "playing": false,
+  "timestamp": "28 Oct 2026, 02:57",
+  "uts": "1793156220",
+  "url": "https://www.last.fm/music/Tame+Impala/_/Eventually",
   "artist_url": "",
   "album_url": "",
-  "loved": false,
-  "playcount": 18,
-  "duration": 228000,
-  "generated": "2026-10-28T01:58:51.048125+00:00"
+  "loved": true,
+  "playcount": 54,
+  "duration": 318000,
+  "generated": "2026-10-28T08:03:01.164539+00:00"
 }
