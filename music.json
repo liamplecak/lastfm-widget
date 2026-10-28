@@ -1,22 +1,22 @@
 {
-  "track": "The Dismemberment Song",
-  "artist": "Blue Kid",
-  "album": "Upright, Love",
-  "cover": "https://lastfm-img.freetls.fastly.net/i/u/300x300/27a8ea61af894a1aaa72d264b5d5fc48.jpg",
+  "track": "Past Life",
+  "artist": "Tame Impala",
+  "album": "Currents",
+  "cover": "https://lastfm-img.freetls.fastly.net/i/u/300x300/dd45b0438a315aed98b5830aa2fc43c5.jpg",
   "images": {
-    "small": "https://lastfm-img.freetls.fastly.net/i/u/34s/27a8ea61af894a1aaa72d264b5d5fc48.jpg",
-    "medium": "https://lastfm-img.freetls.fastly.net/i/u/64s/27a8ea61af894a1aaa72d264b5d5fc48.jpg",
-    "large": "https://lastfm-img.freetls.fastly.net/i/u/174s/27a8ea61af894a1aaa72d264b5d5fc48.jpg",
-    "extralarge": "https://lastfm-img.freetls.fastly.net/i/u/300x300/27a8ea61af894a1aaa72d264b5d5fc48.jpg"
+    "small": "https://lastfm-img.freetls.fastly.net/i/u/34s/dd45b0438a315aed98b5830aa2fc43c5.jpg",
+    "medium": "https://lastfm-img.freetls.fastly.net/i/u/64s/dd45b0438a315aed98b5830aa2fc43c5.jpg",
+    "large": "https://lastfm-img.freetls.fastly.net/i/u/174s/dd45b0438a315aed98b5830aa2fc43c5.jpg",
+    "extralarge": "https://lastfm-img.freetls.fastly.net/i/u/300x300/dd45b0438a315aed98b5830aa2fc43c5.jpg"
   },
-  "playing": false,
-  "timestamp": "27 Oct 2026, 00:37",
-  "uts": "1793061444",
-  "url": "https://www.last.fm/music/Blue+Kid/_/The+Dismemberment+Song",
+  "playing": true,
+  "timestamp": "",
+  "uts": null,
+  "url": "https://www.last.fm/music/Tame+Impala/_/Past+Life",
   "artist_url": "",
   "album_url": "",
   "loved": false,
-  "playcount": 15,
-  "duration": 277000,
-  "generated": "2026-10-27T22:55:43.687968+00:00"
+  "playcount": 18,
+  "duration": 228000,
+  "generated": "2026-10-28T01:58:51.048125+00:00"
 }
