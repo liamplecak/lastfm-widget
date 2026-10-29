@@ -1,22 +1,22 @@
 {
-  "track": "Eventually",
-  "artist": "Tame Impala",
-  "album": "Currents",
-  "cover": "https://lastfm-img.freetls.fastly.net/i/u/300x300/dd45b0438a315aed98b5830aa2fc43c5.jpg",
+  "track": "Woof Woof",
+  "artist": "Arthur",
+  "album": "Woof Woof",
+  "cover": "https://lastfm-img.freetls.fastly.net/i/u/300x300/84049397f393d0029d600fd7afa650f6.jpg",
   "images": {
-    "small": "https://lastfm-img.freetls.fastly.net/i/u/34s/dd45b0438a315aed98b5830aa2fc43c5.jpg",
-    "medium": "https://lastfm-img.freetls.fastly.net/i/u/64s/dd45b0438a315aed98b5830aa2fc43c5.jpg",
-    "large": "https://lastfm-img.freetls.fastly.net/i/u/174s/dd45b0438a315aed98b5830aa2fc43c5.jpg",
-    "extralarge": "https://lastfm-img.freetls.fastly.net/i/u/300x300/dd45b0438a315aed98b5830aa2fc43c5.jpg"
+    "small": "https://lastfm-img.freetls.fastly.net/i/u/34s/84049397f393d0029d600fd7afa650f6.jpg",
+    "medium": "https://lastfm-img.freetls.fastly.net/i/u/64s/84049397f393d0029d600fd7afa650f6.jpg",
+    "large": "https://lastfm-img.freetls.fastly.net/i/u/174s/84049397f393d0029d600fd7afa650f6.jpg",
+    "extralarge": "https://lastfm-img.freetls.fastly.net/i/u/300x300/84049397f393d0029d600fd7afa650f6.jpg"
   },
   "playing": false,
-  "timestamp": "28 Oct 2026, 02:57",
-  "uts": "1793156220",
-  "url": "https://www.last.fm/music/Tame+Impala/_/Eventually",
+  "timestamp": "29 Oct 2026, 08:00",
+  "uts": "1793260847",
+  "url": "https://www.last.fm/music/Arthur/_/Woof+Woof",
   "artist_url": "",
   "album_url": "",
   "loved": true,
-  "playcount": 54,
-  "duration": 318000,
-  "generated": "2026-10-29T05:37:30.045032+00:00"
+  "playcount": 998,
+  "duration": 83000,
+  "generated": "2026-10-29T11:43:21.976062+00:00"
 }
