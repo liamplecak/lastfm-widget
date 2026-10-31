@@ -1,22 +1,22 @@
 {
-  "track": "Kiss Me, Son of God",
-  "artist": "They Might Be Giants",
-  "album": "Lincoln",
-  "cover": "https://lastfm-img.freetls.fastly.net/i/u/300x300/f781205684b6664809386548c52cbbc3.png",
+  "track": "Time to Pretend",
+  "artist": "MGMT",
+  "album": "Time To Pretend",
+  "cover": "https://lastfm-img.freetls.fastly.net/i/u/300x300/6757527496191c1771f816a406328dcb.jpg",
   "images": {
-    "small": "https://lastfm-img.freetls.fastly.net/i/u/34s/f781205684b6664809386548c52cbbc3.png",
-    "medium": "https://lastfm-img.freetls.fastly.net/i/u/64s/f781205684b6664809386548c52cbbc3.png",
-    "large": "https://lastfm-img.freetls.fastly.net/i/u/174s/f781205684b6664809386548c52cbbc3.png",
-    "extralarge": "https://lastfm-img.freetls.fastly.net/i/u/300x300/f781205684b6664809386548c52cbbc3.png"
+    "small": "https://lastfm-img.freetls.fastly.net/i/u/34s/6757527496191c1771f816a406328dcb.jpg",
+    "medium": "https://lastfm-img.freetls.fastly.net/i/u/64s/6757527496191c1771f816a406328dcb.jpg",
+    "large": "https://lastfm-img.freetls.fastly.net/i/u/174s/6757527496191c1771f816a406328dcb.jpg",
+    "extralarge": "https://lastfm-img.freetls.fastly.net/i/u/300x300/6757527496191c1771f816a406328dcb.jpg"
   },
   "playing": false,
-  "timestamp": "30 Oct 2026, 17:06",
-  "uts": "1793380005",
-  "url": "https://www.last.fm/music/They+Might+Be+Giants/_/Kiss+Me,+Son+of+God",
+  "timestamp": "31 Oct 2026, 08:16",
+  "uts": "1793434592",
+  "url": "https://www.last.fm/music/MGMT/_/Time+to+Pretend",
   "artist_url": "",
   "album_url": "",
-  "loved": true,
-  "playcount": 160,
-  "duration": 217000,
-  "generated": "2026-10-31T02:26:07.550470+00:00"
+  "loved": false,
+  "playcount": 117,
+  "duration": 261000,
+  "generated": "2026-10-31T08:38:11.733374+00:00"
 }
