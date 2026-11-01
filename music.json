@@ -1,22 +1,22 @@
 {
-  "track": "Time to Pretend",
-  "artist": "MGMT",
-  "album": "Time To Pretend",
-  "cover": "https://lastfm-img.freetls.fastly.net/i/u/300x300/6757527496191c1771f816a406328dcb.jpg",
+  "track": "How Soon Is Now? - 2011 Remaster",
+  "artist": "The Smiths",
+  "album": "Hatful of Hollow",
+  "cover": "https://lastfm-img.freetls.fastly.net/i/u/300x300/c1d87ec19e6f9c837d5f3b31441d1ff8.png",
   "images": {
-    "small": "https://lastfm-img.freetls.fastly.net/i/u/34s/6757527496191c1771f816a406328dcb.jpg",
-    "medium": "https://lastfm-img.freetls.fastly.net/i/u/64s/6757527496191c1771f816a406328dcb.jpg",
-    "large": "https://lastfm-img.freetls.fastly.net/i/u/174s/6757527496191c1771f816a406328dcb.jpg",
-    "extralarge": "https://lastfm-img.freetls.fastly.net/i/u/300x300/6757527496191c1771f816a406328dcb.jpg"
+    "small": "https://lastfm-img.freetls.fastly.net/i/u/34s/c1d87ec19e6f9c837d5f3b31441d1ff8.png",
+    "medium": "https://lastfm-img.freetls.fastly.net/i/u/64s/c1d87ec19e6f9c837d5f3b31441d1ff8.png",
+    "large": "https://lastfm-img.freetls.fastly.net/i/u/174s/c1d87ec19e6f9c837d5f3b31441d1ff8.png",
+    "extralarge": "https://lastfm-img.freetls.fastly.net/i/u/300x300/c1d87ec19e6f9c837d5f3b31441d1ff8.png"
   },
   "playing": false,
-  "timestamp": "31 Oct 2026, 08:16",
-  "uts": "1793434592",
-  "url": "https://www.last.fm/music/MGMT/_/Time+to+Pretend",
+  "timestamp": "01 Nov 2026, 06:02",
+  "uts": "1793512954",
+  "url": "https://www.last.fm/music/The+Smiths/_/How+Soon+Is+Now%3F+-+2011+Remaster",
   "artist_url": "",
   "album_url": "",
-  "loved": false,
-  "playcount": 117,
-  "duration": 261000,
-  "generated": "2026-11-01T00:36:25.204609+00:00"
+  "loved": true,
+  "playcount": 26,
+  "duration": 408000,
+  "generated": "2026-11-01T06:47:45.916733+00:00"
 }
