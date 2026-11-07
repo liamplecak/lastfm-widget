@@ -1,22 +1,22 @@
 {
-  "track": "Disciples",
-  "artist": "Tame Impala",
-  "album": "Currents",
-  "cover": "https://lastfm-img.freetls.fastly.net/i/u/300x300/dd45b0438a315aed98b5830aa2fc43c5.jpg",
+  "track": "Beggin'",
+  "artist": "M\u00e5neskin",
+  "album": "Chosen",
+  "cover": "https://lastfm-img.freetls.fastly.net/i/u/300x300/1fe18f6f06775984a4546a7fac8d88bd.png",
   "images": {
-    "small": "https://lastfm-img.freetls.fastly.net/i/u/34s/dd45b0438a315aed98b5830aa2fc43c5.jpg",
-    "medium": "https://lastfm-img.freetls.fastly.net/i/u/64s/dd45b0438a315aed98b5830aa2fc43c5.jpg",
-    "large": "https://lastfm-img.freetls.fastly.net/i/u/174s/dd45b0438a315aed98b5830aa2fc43c5.jpg",
-    "extralarge": "https://lastfm-img.freetls.fastly.net/i/u/300x300/dd45b0438a315aed98b5830aa2fc43c5.jpg"
+    "small": "https://lastfm-img.freetls.fastly.net/i/u/34s/1fe18f6f06775984a4546a7fac8d88bd.png",
+    "medium": "https://lastfm-img.freetls.fastly.net/i/u/64s/1fe18f6f06775984a4546a7fac8d88bd.png",
+    "large": "https://lastfm-img.freetls.fastly.net/i/u/174s/1fe18f6f06775984a4546a7fac8d88bd.png",
+    "extralarge": "https://lastfm-img.freetls.fastly.net/i/u/300x300/1fe18f6f06775984a4546a7fac8d88bd.png"
   },
-  "playing": true,
-  "timestamp": "",
-  "uts": null,
-  "url": "https://www.last.fm/music/Tame+Impala/_/Disciples",
+  "playing": false,
+  "timestamp": "07 Nov 2026, 08:27",
+  "uts": "1794040022",
+  "url": "https://www.last.fm/music/M%C3%A5neskin/_/Beggin%27",
   "artist_url": "",
   "album_url": "",
   "loved": false,
-  "playcount": 28,
-  "duration": 108000,
-  "generated": "2026-11-07T07:50:40.237495+00:00"
+  "playcount": 48,
+  "duration": 209000,
+  "generated": "2026-11-07T14:34:40.958758+00:00"
 }
