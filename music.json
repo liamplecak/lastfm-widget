@@ -1,22 +1,22 @@
 {
-  "track": "Let It Happen",
-  "artist": "Tame Impala",
-  "album": "Currents",
-  "cover": "https://lastfm-img.freetls.fastly.net/i/u/300x300/dd45b0438a315aed98b5830aa2fc43c5.jpg",
+  "track": "I WANNA BE YOUR SLAVE",
+  "artist": "M\u00e5neskin",
+  "album": "Teatro d'ira - Vol. I",
+  "cover": "https://lastfm-img.freetls.fastly.net/i/u/300x300/3d49e3c3c26cb28618f44ee7d598f81c.jpg",
   "images": {
-    "small": "https://lastfm-img.freetls.fastly.net/i/u/34s/dd45b0438a315aed98b5830aa2fc43c5.jpg",
-    "medium": "https://lastfm-img.freetls.fastly.net/i/u/64s/dd45b0438a315aed98b5830aa2fc43c5.jpg",
-    "large": "https://lastfm-img.freetls.fastly.net/i/u/174s/dd45b0438a315aed98b5830aa2fc43c5.jpg",
-    "extralarge": "https://lastfm-img.freetls.fastly.net/i/u/300x300/dd45b0438a315aed98b5830aa2fc43c5.jpg"
+    "small": "https://lastfm-img.freetls.fastly.net/i/u/34s/3d49e3c3c26cb28618f44ee7d598f81c.jpg",
+    "medium": "https://lastfm-img.freetls.fastly.net/i/u/64s/3d49e3c3c26cb28618f44ee7d598f81c.jpg",
+    "large": "https://lastfm-img.freetls.fastly.net/i/u/174s/3d49e3c3c26cb28618f44ee7d598f81c.jpg",
+    "extralarge": "https://lastfm-img.freetls.fastly.net/i/u/300x300/3d49e3c3c26cb28618f44ee7d598f81c.jpg"
   },
   "playing": true,
   "timestamp": "",
   "uts": null,
-  "url": "https://www.last.fm/music/Tame+Impala/_/Let+It+Happen",
+  "url": "https://www.last.fm/music/M%C3%A5neskin/_/I+WANNA+BE+YOUR+SLAVE",
   "artist_url": "",
   "album_url": "",
-  "loved": false,
-  "playcount": 37,
-  "duration": 467000,
-  "generated": "2026-11-06T22:01:39.873312+00:00"
+  "loved": true,
+  "playcount": 41,
+  "duration": 173000,
+  "generated": "2026-11-07T01:49:59.798802+00:00"
 }
