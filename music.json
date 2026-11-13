@@ -9,14 +9,14 @@
     "large": "https://lastfm-img.freetls.fastly.net/i/u/174s/4818ff3977c24fe3cfbe50c0f6a91e41.jpg",
     "extralarge": "https://lastfm-img.freetls.fastly.net/i/u/300x300/4818ff3977c24fe3cfbe50c0f6a91e41.jpg"
   },
-  "playing": true,
-  "timestamp": "",
-  "uts": null,
+  "playing": false,
+  "timestamp": "12 Nov 2026, 22:24",
+  "uts": "1794522258",
   "url": "https://www.last.fm/music/Alex+G/_/Harvey",
   "artist_url": "",
   "album_url": "",
   "loved": false,
-  "playcount": 154,
+  "playcount": 160,
   "duration": 183000,
-  "generated": "2026-11-12T22:16:01.000062+00:00"
+  "generated": "2026-11-13T02:39:41.297982+00:00"
 }
