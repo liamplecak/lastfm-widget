@@ -1,22 +1,22 @@
 {
-  "track": "Harvey",
-  "artist": "Alex G",
-  "album": "DSU",
-  "cover": "https://lastfm-img.freetls.fastly.net/i/u/300x300/4818ff3977c24fe3cfbe50c0f6a91e41.jpg",
+  "track": "Reality in Motion",
+  "artist": "Tame Impala",
+  "album": "Currents",
+  "cover": "https://lastfm-img.freetls.fastly.net/i/u/300x300/dd45b0438a315aed98b5830aa2fc43c5.jpg",
   "images": {
-    "small": "https://lastfm-img.freetls.fastly.net/i/u/34s/4818ff3977c24fe3cfbe50c0f6a91e41.jpg",
-    "medium": "https://lastfm-img.freetls.fastly.net/i/u/64s/4818ff3977c24fe3cfbe50c0f6a91e41.jpg",
-    "large": "https://lastfm-img.freetls.fastly.net/i/u/174s/4818ff3977c24fe3cfbe50c0f6a91e41.jpg",
-    "extralarge": "https://lastfm-img.freetls.fastly.net/i/u/300x300/4818ff3977c24fe3cfbe50c0f6a91e41.jpg"
+    "small": "https://lastfm-img.freetls.fastly.net/i/u/34s/dd45b0438a315aed98b5830aa2fc43c5.jpg",
+    "medium": "https://lastfm-img.freetls.fastly.net/i/u/64s/dd45b0438a315aed98b5830aa2fc43c5.jpg",
+    "large": "https://lastfm-img.freetls.fastly.net/i/u/174s/dd45b0438a315aed98b5830aa2fc43c5.jpg",
+    "extralarge": "https://lastfm-img.freetls.fastly.net/i/u/300x300/dd45b0438a315aed98b5830aa2fc43c5.jpg"
   },
   "playing": false,
-  "timestamp": "12 Nov 2026, 22:24",
-  "uts": "1794522258",
-  "url": "https://www.last.fm/music/Alex+G/_/Harvey",
+  "timestamp": "13 Nov 2026, 08:45",
+  "uts": "1794559521",
+  "url": "https://www.last.fm/music/Tame+Impala/_/Reality+in+Motion",
   "artist_url": "",
   "album_url": "",
   "loved": false,
-  "playcount": 160,
-  "duration": 183000,
-  "generated": "2026-11-13T02:39:41.297982+00:00"
+  "playcount": 28,
+  "duration": 252000,
+  "generated": "2026-11-13T09:58:31.669878+00:00"
 }
