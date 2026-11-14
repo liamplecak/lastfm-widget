@@ -1,22 +1,22 @@
 {
-  "track": "Jigsaw Falling Into Place",
-  "artist": "Radiohead",
-  "album": "In Rainbows",
-  "cover": "https://lastfm-img.freetls.fastly.net/i/u/300x300/9dbcd9399ac3e622b4f508323155b644.jpg",
+  "track": "Disciples",
+  "artist": "Tame Impala",
+  "album": "Currents",
+  "cover": "https://lastfm-img.freetls.fastly.net/i/u/300x300/dd45b0438a315aed98b5830aa2fc43c5.jpg",
   "images": {
-    "small": "https://lastfm-img.freetls.fastly.net/i/u/34s/9dbcd9399ac3e622b4f508323155b644.jpg",
-    "medium": "https://lastfm-img.freetls.fastly.net/i/u/64s/9dbcd9399ac3e622b4f508323155b644.jpg",
-    "large": "https://lastfm-img.freetls.fastly.net/i/u/174s/9dbcd9399ac3e622b4f508323155b644.jpg",
-    "extralarge": "https://lastfm-img.freetls.fastly.net/i/u/300x300/9dbcd9399ac3e622b4f508323155b644.jpg"
+    "small": "https://lastfm-img.freetls.fastly.net/i/u/34s/dd45b0438a315aed98b5830aa2fc43c5.jpg",
+    "medium": "https://lastfm-img.freetls.fastly.net/i/u/64s/dd45b0438a315aed98b5830aa2fc43c5.jpg",
+    "large": "https://lastfm-img.freetls.fastly.net/i/u/174s/dd45b0438a315aed98b5830aa2fc43c5.jpg",
+    "extralarge": "https://lastfm-img.freetls.fastly.net/i/u/300x300/dd45b0438a315aed98b5830aa2fc43c5.jpg"
   },
   "playing": false,
-  "timestamp": "13 Nov 2026, 19:35",
-  "uts": "1794598514",
-  "url": "https://www.last.fm/music/Radiohead/_/Jigsaw+Falling+Into+Place",
+  "timestamp": "14 Nov 2026, 11:10",
+  "uts": "1794654601",
+  "url": "https://www.last.fm/music/Tame+Impala/_/Disciples",
   "artist_url": "",
   "album_url": "",
-  "loved": true,
-  "playcount": 79,
-  "duration": 248000,
-  "generated": "2026-11-14T09:28:14.718558+00:00"
+  "loved": false,
+  "playcount": 31,
+  "duration": 108000,
+  "generated": "2026-11-14T15:57:18.076307+00:00"
 }
