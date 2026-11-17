@@ -1,22 +1,22 @@
 {
-  "track": "FUKOUNA GIRL",
-  "artist": "STOMACH BOOK",
-  "album": "FUKOUNA GIRL",
-  "cover": "https://lastfm-img.freetls.fastly.net/i/u/300x300/3105ea1164ac522e91af92308b802e69.jpg",
+  "track": "Tragedy",
+  "artist": "Always Never",
+  "album": "Tragedy",
+  "cover": "https://lastfm-img.freetls.fastly.net/i/u/300x300/a72b5e7473030adccdceee03e7229239.png",
   "images": {
-    "small": "https://lastfm-img.freetls.fastly.net/i/u/34s/3105ea1164ac522e91af92308b802e69.jpg",
-    "medium": "https://lastfm-img.freetls.fastly.net/i/u/64s/3105ea1164ac522e91af92308b802e69.jpg",
-    "large": "https://lastfm-img.freetls.fastly.net/i/u/174s/3105ea1164ac522e91af92308b802e69.jpg",
-    "extralarge": "https://lastfm-img.freetls.fastly.net/i/u/300x300/3105ea1164ac522e91af92308b802e69.jpg"
+    "small": "https://lastfm-img.freetls.fastly.net/i/u/34s/a72b5e7473030adccdceee03e7229239.png",
+    "medium": "https://lastfm-img.freetls.fastly.net/i/u/64s/a72b5e7473030adccdceee03e7229239.png",
+    "large": "https://lastfm-img.freetls.fastly.net/i/u/174s/a72b5e7473030adccdceee03e7229239.png",
+    "extralarge": "https://lastfm-img.freetls.fastly.net/i/u/300x300/a72b5e7473030adccdceee03e7229239.png"
   },
-  "playing": true,
-  "timestamp": "",
-  "uts": null,
-  "url": "https://www.last.fm/music/STOMACH+BOOK/_/FUKOUNA+GIRL",
+  "playing": false,
+  "timestamp": "17 Nov 2026, 09:28",
+  "uts": "1794907731",
+  "url": "https://www.last.fm/music/Always+Never/_/Tragedy",
   "artist_url": "",
   "album_url": "",
   "loved": false,
-  "playcount": 20,
-  "duration": 233000,
-  "generated": "2026-11-17T03:20:23.709032+00:00"
+  "playcount": 8,
+  "duration": 216000,
+  "generated": "2026-11-17T12:12:51.136709+00:00"
 }
