@@ -9,14 +9,14 @@
     "large": "https://lastfm-img.freetls.fastly.net/i/u/174s/0fd4ea33ee02465cc66904460ee8e91d.png",
     "extralarge": "https://lastfm-img.freetls.fastly.net/i/u/300x300/0fd4ea33ee02465cc66904460ee8e91d.png"
   },
-  "playing": true,
-  "timestamp": "",
-  "uts": null,
+  "playing": false,
+  "timestamp": "19 Nov 2026, 09:26",
+  "uts": "1795080418",
   "url": "https://www.last.fm/music/Mac+DeMarco/_/My+Kind+of+Woman",
   "artist_url": "",
   "album_url": "",
   "loved": true,
-  "playcount": 50,
+  "playcount": 66,
   "duration": 194000,
-  "generated": "2026-11-19T08:42:00.218409+00:00"
+  "generated": "2026-11-19T17:42:02.969682+00:00"
 }
