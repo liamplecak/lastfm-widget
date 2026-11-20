@@ -9,14 +9,14 @@
     "large": "https://lastfm-img.freetls.fastly.net/i/u/174s/fef8029419def9662c7e977cd474e9b5.jpg",
     "extralarge": "https://lastfm-img.freetls.fastly.net/i/u/300x300/fef8029419def9662c7e977cd474e9b5.jpg"
   },
-  "playing": true,
-  "timestamp": "",
-  "uts": null,
+  "playing": false,
+  "timestamp": "20 Nov 2026, 17:02",
+  "uts": "1795194150",
   "url": "https://www.last.fm/music/K.Flay/_/High+Enough",
   "artist_url": "",
   "album_url": "",
   "loved": false,
-  "playcount": 48,
+  "playcount": 96,
   "duration": 231000,
-  "generated": "2026-11-20T14:03:39.099544+00:00"
+  "generated": "2026-11-20T21:45:56.197029+00:00"
 }
